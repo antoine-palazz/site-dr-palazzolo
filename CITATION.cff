@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use some content of this repository, please cite it as below."
+authors:
+- family-names: "Palazzolo"
+  given-names: "Jérôme"
+  orcid: "https://orcid.org/0000-0000-0000-0000"  # A modifier ?
+title: "Site du Dr Jérôme Palazzolo"
+date-released: 2024-12-25
+url: "https://github.com/antoine-palazz/site-dr-palazzolo"
