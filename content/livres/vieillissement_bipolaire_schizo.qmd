@@ -1,0 +1,26 @@
+---
+title: "Vieillissement, trouble bipolaire et schizophrénie"
+date: 2006-02-01
+slug: vieillissement_bipolaire_schizo
+tags:
+  - vieillissement
+  - bipolaire
+  - schizophrénie
+type: book
+image: img/vieillissement_bipolaire_schizo.jpg
+---
+
+Le vieillissement croissant de la population et l’augmentation régulière de l’espérance de vie ont conduit les pouvoirs publics et les professionnels du soin à s’intéresser de près à la santé mentale des personnes âgées, ainsi qu’à l’optimisation de la prise en charge spécifique de ces dernières.
+En effet, la présence éventuelle d’une maladie chronique joue un rôle majeur dans la qualité de vie du sujet âgé.
+Dans cet ouvrage, nous avons choisi de nous intéresser au devenir du sujet souffrant d’un trouble psychiatrique, en insistant sur les particularités évolutives cognitives et en ciblant deux pathologies principales : la schizophrénie et le trouble bipolaire.
+Ces deux maladies ont vu ces dernières années leur pronostic changer par rapport à la description initiale, ceci au fur et à mesure que des études ont pu démontrer une évolution contredisant le cours obligatoire progressivement détérioratif des schizophrènes et le bon pronostic des bipolaires.
+Les raisons de cette évolution conceptuelle sont multiples : extension de la nosographie, progrès des modalités de prise en charge, etc.
+L’originalité de notre ouvrage, que nous avons voulu le plus exhaustif possible, vient du fait que les informations sont présentées de telle façon qu'elles permettent de suivre les concepts selon une double perspective :
+- la première trace l'évolution des intrications de l'histoire de ces tableaux cliniques et des données psychopathologiques et biologiques ;
+- la deuxième permet d'apprécier le devenir de ces pathologies au cours de la vieillesse.
+Ces données sont complétées par un chapitre précis et documenté sur le vieillissement psychique dans tous ses aspects.
+Notre objectif est de faire le point sur les connaissances actuelles inhérentes à une spécialité d’avenir : la géronto-psychiatrie.
+
+<br>
+
+![_Vieillissement, trouble bipolaire et schizophrénie_](img/vieillissement_bipolaire_schizo.jpg)

@@ -1,0 +1,18 @@
+---
+title: "Les thérapies cognitives et comportementales"
+date: 2016-05-22
+slug: les_tcc
+tags:
+  - tcc
+type: book
+image: img/les_tcc.jpg
+---
+
+Les thérapies cognitives et comportementales (TCC) soignent, de manière adaptée et durable, les patients qui souffrent de dépression, de troubles anxieux ou encore d’addictions.
+Traitant les pensées dysfonctionnelles et les comportements inappropriés, elles favorisent l’apprentissage de conduites plus en adéquation avec l’environnement personnel et professionnel.
+Relativement brèves, elles sont scientifiquement évaluées et supposent une étroite collaboration entre le patient et le thérapeute.
+Dans cet ouvrage, Jérôme Palazzolo montre concrètement comment les TCC améliorent jour après jour la qualité de vie des malades.
+
+<br>
+
+![_Les thérapies cognitives et comportementales_](img/les_tcc.jpg)

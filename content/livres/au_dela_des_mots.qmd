@@ -1,0 +1,17 @@
+---
+title: "Au-delà des mots"
+date: 2003-09-03
+slug: au_dela_des_mots
+tags:
+  - psychiatrie
+type: book
+image: img/au_dela_des_mots.jpg
+---
+
+Cet ouvrage regroupe le témoignage de patients atteints d'une maladie mentale.
+Pour la première fois, la parole leur est donnée sans préjugé. 
+Parmi les thèmes abordés : la violence, l’anorexie, la dépression, le délire, la honte, la rechute, la réinsertion, le statut du malade, la volonté, l’isolement, l’enfermement, l’errance, l’espoir, les hallucinations...
+
+<br>
+
+![_Au-delà des mots - Paroles oubliées ou importance de l'écoute_](img/au_dela_des_mots.jpg)

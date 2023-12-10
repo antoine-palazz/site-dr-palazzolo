@@ -1,0 +1,17 @@
+---
+title: "Informer le patient en psychiatrie"
+date: 2003-08-19
+slug: informer_patient_en_psychiatrie
+tags:
+  - psychiatrie
+type: book
+image: img/informer_patient_en_psychiatrie.jpg
+---
+
+Les récents développements de la jurisprudence et la promulgation de la loi du 4 mars 2002 sur les droits des malades ont sans doute donné un éclairage trop juridique à l'exercice de la médecine, qui ne peut se comprendre sans l'établissement d'une relation de qualité entre le médecin et son patient.
+Cette relation passe par la précision et l'adaptation de l'information que le médecin transmet à son patient. En ce sens, en psychiatrie, l'information fait déjà partie de la prise en charge thérapeutique.
+L'objecif de cet ouvrage est de réaliser un point complet sur les aspects juridiques, philosophiques, étiques, déontologiques, psychopathologiques de l'information au patient dans diverses situations : patients schizophrènes, patient usager de drogues, situation d'urgence psychiatrique, information des proches, rôle de l'infirmier, rôle du pharmacien, psychanalyse, recherche biomédicale, etc., permettant une vision globale, et pourtant individualisée, de la place du patient et du rôle de chaque intervenant.
+
+<br>
+
+![_Informer le patient en psychiatrie : Rôle de chaque intervenant - Entre légitimité et obligation_](img/informer_patient_en_psychiatrie.jpg)

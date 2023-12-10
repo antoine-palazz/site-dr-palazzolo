@@ -6,6 +6,7 @@ tags:
   - tcc
   - emdr
   - psychanalyse
+  - vieillissement
 type: book
 image: img/psychotherapies_du_sujet_age.jpg
 ---
@@ -26,4 +27,4 @@ Révolutionnaire, il apporte de nouvelles stratégies pour instaurer un soin psy
 
 <br>
 
-![_Psychothérapies du sujet âgé_](img/psychotherapies_du_sujet_age.jpg)
+![_Psychothérapies du sujet âgé - Prise en charge des pathologies du vieillissement_](img/psychotherapies_du_sujet_age.jpg)
