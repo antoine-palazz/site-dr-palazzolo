@@ -4,6 +4,7 @@ date: 2023-10-24
 slug: se_soigner_par_les_tcc
 tags:
   - tcc
+  - francais
 type: book
 image: img/se_soigner_par_les_tcc.jpg
 ---

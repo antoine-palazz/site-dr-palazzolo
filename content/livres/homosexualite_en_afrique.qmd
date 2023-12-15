@@ -5,6 +5,7 @@ slug: homosexualite_en_afrique
 tags:
   - homosexualite
   - sida
+  - francais
 type: book
 image: img/homosexualite_en_afrique.jpg
 ---

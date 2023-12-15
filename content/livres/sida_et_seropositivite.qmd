@@ -4,6 +4,7 @@ date: 2010-07-16
 slug: sida_et_seropositivite
 tags:
   - sida
+  - francais
 type: book
 image: img/sida_et_seropositivite.jpg
 ---

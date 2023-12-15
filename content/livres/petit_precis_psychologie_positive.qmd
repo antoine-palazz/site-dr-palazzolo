@@ -4,6 +4,7 @@ date: 2015-12-18
 slug: petit_precis_psychologie_positive
 tags:
   - psychologie_positive
+  - francais
 type: book
 image: img/petit_precis_psychologie_positive.jpg
 ---

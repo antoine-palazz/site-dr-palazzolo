@@ -4,6 +4,7 @@ date: 2019-06-18
 slug: gerer_les_conflits
 tags:
   - conflit
+  - francais
 type: book
 image: img/gerer_les_conflits.jpg
 ---

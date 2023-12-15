@@ -4,6 +4,7 @@ date: 2006-06-01
 slug: schizophrenie_diagnostic
 tags:
   - schizophrenie
+  - francais
 type: book
 image: img/schizophrenie_diagnostic.jpg
 ---

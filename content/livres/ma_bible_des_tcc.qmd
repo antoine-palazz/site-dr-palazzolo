@@ -4,6 +4,7 @@ date: 2021-06-09
 slug: ma_bible_des_tcc
 tags:
   - tcc
+  - francais
 type: book
 image: img/ma_bible_des_tcc.jpg
 ---

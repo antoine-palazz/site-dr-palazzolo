@@ -1,9 +1,10 @@
 ---
-title: "Defeat Insomnia (Vaincre l'insomnie)"
+title: "Defeat Insomnia"
 date: 2014-08-05
 slug: defeat_insomnia
 tags:
   - insomnie
+  - anglais
 type: book
 image: img/defeat_insomnia.jpg
 ---
@@ -36,4 +37,4 @@ Comme vous pouvez le constater, "Defeat Insomnia" n'est pas un livre d'experts s
 
 <br>
 
-![_Into the land of dreams: Defeat Insomnia_](img/defeat_insomnia.jpg)
+![_Into the land of dreams: Defeat Insomnia (Vaincre l'insomnie)_](img/defeat_insomnia.jpg)

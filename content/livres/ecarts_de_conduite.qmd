@@ -4,6 +4,7 @@ date: 2004-07-15
 slug: ecarts_de_conduite
 tags:
   - conduite
+  - francais
 type: book
 image: img/ecarts_de_conduite.jpg
 ---

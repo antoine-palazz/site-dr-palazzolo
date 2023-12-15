@@ -4,6 +4,7 @@ date: 2020-01-08
 slug: les_tcc_2
 tags:
   - tcc
+  - francais
 type: book
 image: img/les_tcc_2.jpg
 ---

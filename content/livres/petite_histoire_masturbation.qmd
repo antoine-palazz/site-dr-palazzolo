@@ -4,6 +4,7 @@ date: 2009-04-17
 slug: petite_histoire_masturbation
 tags:
   - masturbation
+  - francais
 type: book
 image: img/petite_histoire_masturbation.jpg
 ---

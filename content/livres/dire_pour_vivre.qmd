@@ -4,6 +4,7 @@ date: 2016-05-22
 slug: dire_pour_vivre
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/dire_pour_vivre.jpg
 ---

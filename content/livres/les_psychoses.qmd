@@ -4,6 +4,7 @@ date: 2005-10-01
 slug: les_psychoses
 tags:
   - psychose
+  - francais
 type: book
 image: img/les_psychoses.jpg
 ---

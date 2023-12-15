@@ -1,11 +1,12 @@
 ---
-title: "Les thérapies cognitives et comportementales"
+title: "Les thérapies cognitives et comportementales - 1ère édition"
 date: 2016-05-22
-slug: les_tcc
+slug: les_tcc_1
 tags:
   - tcc
+  - francais
 type: book
-image: img/les_tcc.jpg
+image: img/les_tcc_1.jpg
 ---
 
 Les thérapies cognitives et comportementales (TCC) soignent, de manière adaptée et durable, les patients qui souffrent de dépression, de troubles anxieux ou encore d’addictions.
@@ -15,4 +16,4 @@ Dans cet ouvrage, Jérôme Palazzolo montre concrètement comment les TCC améli
 
 <br>
 
-![_Les thérapies cognitives et comportementales_](img/les_tcc.jpg)
+![_Les thérapies cognitives et comportementales - 1ère édition_](img/les_tcc_1.jpg)

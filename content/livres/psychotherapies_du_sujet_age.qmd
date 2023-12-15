@@ -7,6 +7,7 @@ tags:
   - emdr
   - psychanalyse
   - vieillissement
+  - francais
 type: book
 image: img/psychotherapies_du_sujet_age.jpg
 ---

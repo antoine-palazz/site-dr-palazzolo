@@ -4,6 +4,7 @@ date: 2004-09-28
 slug: information_du_patient
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/information_du_patient.jpg
 ---

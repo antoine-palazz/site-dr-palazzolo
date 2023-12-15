@@ -5,6 +5,7 @@ slug: chambre_isolement_contention
 tags:
   - isolement
   - contention
+  - francais
 type: book
 image: img/chambre_isolement_contention.jpg
 ---

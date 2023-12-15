@@ -4,6 +4,7 @@ date: 2004-04-01
 slug: observance_medicamenteuse
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/observance_medicamenteuse.jpg
 ---

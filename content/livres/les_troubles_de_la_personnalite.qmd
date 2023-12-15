@@ -4,6 +4,7 @@ date: 2014-09-18
 slug: les_troubles_de_la_personnalite
 tags:
   - tcc
+  - francais
 type: book
 image: img/les_troubles_de_la_personnalite.jpg
 ---

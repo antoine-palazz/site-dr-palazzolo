@@ -1,0 +1,40 @@
+---
+title: "Guérir vite"
+date: 2005-08-17
+slug: guerir_vite
+tags:
+  - tcc
+  - francais
+  - anxiete
+  - depression
+  - phobie
+type: book
+image: img/guerir_vite.jpg
+---
+
+Les thérapies cognitivo-comportementales (TCC) ont le vent en poupe.
+Il ne se passe plus une émission de deuxième partie de soirée qui n’aborde cette «méthode révolutionnaire» qui permet d’aller mieux, et d’aller mieux vite.
+Phobies, troubles obsessionnels compulsifs (TOC), dépression, …
+Les indications sont nombreuses, et le succès grandissant de ces techniques est dû à plusieurs facteurs :
+- Tout d’abord, le thérapeute parle au patient. Cette remarque peut paraître anodine, mais il est fréquent que je reçoive des personnes en consultation qui sont étonnées du fait que je m’adresse à elles, que je leur explique de quoi elles souffrent et que je leur propose un «plan d’action» pour combattre leur maladie ;
+- Ensuite, les TCC sont à l’heure actuelle parmi les seules thérapies dont l’efficacité a été scientifiquement prouvée. Cela ne veut pas dire que les autres formes de psychothérapie ne marchent pas, mais simplement que leurs résultats n’ont jamais été – ou n’ont jamais pu être – évalués ;
+- Par ailleurs, la formation qui permet de pratiquer les TCC est une formation universitaire, validée par un diplôme officiel (ce qui n’est pas le cas pour la plupart des autres méthodes : soyez très vigilants concernant ce point !) ;
+- De plus, le thérapeute propose à son patient un véritable «contrat de collaboration». Pour ma part, j’aime bien expliquer au sujet qui vient me voir que nous allons travailler «en équipe» en vue de son amélioration. La personne est active, elle va devoir s’impliquer dans la prise en charge, elle aura des tâches à réaliser à son domicile ;
+- Point important, il s’agit de techniques brèves, une TCC durant en moyenne (en fonction des indications) entre 10 et 20 séances (c’est-à-dire aux alentours de 2 ou 3 mois). Lorsqu’un sujet commence sa thérapie, il sait à l’avance que celle-ci ne va pas durer plusieurs années;
+- Enfin, le prix d’une séance est celui d’une consultation : la consultation est remboursée intégralement si la TCC est pratiquée par un médecin – généraliste, psychiatre, … (sauf s’il travaille en secteur 2, c’est-à-dire avec dépassement d’honoraires) –, non remboursée si c’est un psychologue que vous allez voir. Mais quoi qu’il en soit, le patient n’est pas ici dans l’obligation de payer en liquide des sommes astronomiques fixées «à la tête du client» sous prétexte que cela est thérapeutique !
+
+Proposer un manuel pratique de TCC non destiné uniquement à des spécialistes n’est pas chose facile.
+En effet, l’apprentissage des différentes techniques utilisées se fait à l’université, et dure trois ans.
+De plus, elle est ouverte principalement à des professionnels ayant de l’expérience dans la maladie mentale (psychiatres, psychologues, médecins généralistes, infirmiers, …).
+Plus que toute explication théorique, ce sont alors les exemples qui sont importants à exposer ici.
+C’est dans cet esprit que j’ai conçu cet ouvrage.
+Une première partie explique, de manière simple, «l’esprit» des TCC : il s’agit là d’aborder les indications, les contre-indications, ainsi que les principes généraux des techniques utilisées.
+La deuxième partie, beaucoup plus pratique, est constituée de vignettes cliniques qui illustrent différentes applications de la méthode.
+Ces cas concrets, tirés de consultations réelles, permettent de suivre séance par séance l’évolution des patients et de leurs troubles.
+J’ai choisi de présenter 7 cas de personnes atteintes d’affections qui touchent une grande partie de la population.
+Vous pourrez ainsi voir comment une phobie, un trouble panique, une boulimie, une dépression, une phobie sociale et une baisse du désir sexuel peuvent être pris en charge en TCC.
+Il est temps à présent de vous laisser parcourir cet ouvrage, qui je l’espère vous permettra de mieux comprendre la démarche suivie dans le but de guérir vite.
+
+<br>
+
+![_Guérir vite - Soigner les angoisses, la dépression et les phobies par la TCC_](img/guerir_vite.jpg)

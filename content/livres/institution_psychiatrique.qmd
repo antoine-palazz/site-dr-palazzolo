@@ -4,6 +4,7 @@ date: 2003-09-01
 slug: institution_psychiatrique
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/institution_psychiatrique.jpg
 ---

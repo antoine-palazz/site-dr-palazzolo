@@ -4,6 +4,7 @@ date: 2011-12-15
 slug: sante_mentale_neurologique
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/sante_mentale_neurologique.jpg
 ---

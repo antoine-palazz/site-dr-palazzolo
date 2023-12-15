@@ -6,6 +6,7 @@ tags:
   - anxiete
   - phobie
   - tcc
+  - francais
 type: book
 image: img/gestion_stress_aquaphobie_tcc.jpg
 ---

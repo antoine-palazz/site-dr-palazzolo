@@ -4,6 +4,7 @@ date: 2014-09-22
 slug: communication_observance_psy
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/communication_observance_psy.jpg
 ---

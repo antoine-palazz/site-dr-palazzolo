@@ -4,6 +4,7 @@ date: 2005-11-17
 slug: mots_corps_maux_ame
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/mots_corps_maux_ame.jpg
 ---

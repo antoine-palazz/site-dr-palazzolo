@@ -4,6 +4,7 @@ date: 2003-08-19
 slug: informer_patient_en_psychiatrie
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/informer_patient_en_psychiatrie.jpg
 ---

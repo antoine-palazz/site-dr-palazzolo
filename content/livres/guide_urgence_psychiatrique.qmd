@@ -4,6 +4,7 @@ date: 2009-08-24
 slug: guide_urgence_psychiatrique
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/guide_urgence_psychiatrique.jpg
 ---

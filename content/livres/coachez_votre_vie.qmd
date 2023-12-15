@@ -4,6 +4,7 @@ date: 2007-09-27
 slug: coachez_votre_vie
 tags:
   - sport
+  - francais
 type: book
 image: img/coachez_votre_vie.jpg
 ---

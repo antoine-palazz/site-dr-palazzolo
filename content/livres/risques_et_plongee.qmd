@@ -4,6 +4,7 @@ date: 2013-01-02
 slug: risques_et_plongee
 tags:
   - plongee
+  - francais
 type: book
 image: img/risques_et_plongee.jpg
 ---

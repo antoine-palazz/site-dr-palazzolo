@@ -1,9 +1,10 @@
 ---
-title: "Sleep better (Mieux dormir)"
+title: "Sleep better"
 date: 2015-08-23
 slug: sleep_better
 tags:
   - insomnie
+  - anglais
 type: book
 image: img/sleep_better.jpg
 ---
@@ -38,4 +39,4 @@ Pour rappeler que nous avons peut-être perdu les règles simples que nous avion
 
 <br>
 
-![_Sleep better_](img/sleep_better.jpg)
+![_Sleep better (Mieux dormir)_](img/sleep_better.jpg)

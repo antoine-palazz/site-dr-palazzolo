@@ -4,6 +4,7 @@ date: 2016-03-09
 slug: je_me_libere_de_mes_phobies
 tags:
   - phobie
+  - francais
 type: book
 image: img/je_me_libere_de_mes_phobies.jpg
 ---

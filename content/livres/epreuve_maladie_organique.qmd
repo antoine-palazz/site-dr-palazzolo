@@ -4,6 +4,7 @@ date: 2009-09-04
 slug: epreuve_maladie_organique
 tags:
   - psychiatrie
+  - francais
 type: book
 image: img/epreuve_maladie_organique.jpg
 ---

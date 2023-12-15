@@ -6,6 +6,7 @@ tags:
   - tcc
   - emdr
   - psychanalyse
+  - francais
 type: book
 image: img/3_approches_du_soin_psychique.jpg
 ---

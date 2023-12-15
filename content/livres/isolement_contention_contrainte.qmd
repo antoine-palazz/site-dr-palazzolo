@@ -5,6 +5,7 @@ slug: isolement_contention_contrainte
 tags:
   - isolement
   - contention
+  - francais
 type: book
 image: img/isolement_contention_contrainte.jpg
 ---

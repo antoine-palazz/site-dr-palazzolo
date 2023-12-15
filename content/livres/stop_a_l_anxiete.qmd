@@ -4,6 +4,7 @@ date: 2018-06-12
 slug: stop_a_l_anxiete
 tags:
   - anxiete
+  - francais
 type: book
 image: img/stop_a_l_anxiete.jpg
 ---

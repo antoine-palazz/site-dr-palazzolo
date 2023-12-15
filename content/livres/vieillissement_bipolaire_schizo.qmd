@@ -6,6 +6,7 @@ tags:
   - vieillissement
   - bipolaire
   - schizophrénie
+  - francais
 type: book
 image: img/vieillissement_bipolaire_schizo.jpg
 ---

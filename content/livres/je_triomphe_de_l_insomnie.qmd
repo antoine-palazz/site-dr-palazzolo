@@ -4,6 +4,7 @@ date: 2018-01-24
 slug: je_triomphe_de_l_insomnie
 tags:
   - insomnie
+  - francais
 type: book
 image: img/je_triomphe_de_l_insomnie.jpg
 ---

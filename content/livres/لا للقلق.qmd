@@ -1,9 +1,10 @@
 ---
-title: "لا للقلق (Non à l'anxiété)"
+title: "لا للقلق"
 date: 2020-01-01
 slug: لا للقلق
 tags:
   - anxiete
+  - arabe
 type: book
 image: img/لا للقلق.jpg
 ---
@@ -14,8 +15,10 @@ image: img/لا للقلق.jpg
 
 ## En français
 
-Ce livre pratique propose des méthodes simples et durables pour surmonter l'anxiété sans recourir à l'utilisation de médicaments. Il permet d'identifier les symptômes physiques et comportementaux nécessaires pour un diagnostic approprié, ainsi que des tests pour évaluer votre niveau d'anxiété et les diverses causes de l'anxiété. Il présente de nombreux témoignages ainsi que toutes les solutions facilement applicables telles que la relaxation, la respiration, la nutrition, l'exercice physique, la médecine alternative, ainsi que des traitements complémentaires tels que la pleine conscience, la concentration mentale, l'hypnose et les techniques cognitivo-comportementales.
+Ce livre pratique propose des méthodes simples et durables pour surmonter l'anxiété sans recourir à l'utilisation de médicaments.
+Il permet d'identifier les symptômes physiques et comportementaux nécessaires pour un diagnostic approprié, ainsi que des tests pour évaluer votre niveau d'anxiété et les diverses causes de l'anxiété.
+Il présente de nombreux témoignages ainsi que toutes les solutions facilement applicables telles que la relaxation, la respiration, la nutrition, l'exercice physique, la médecine alternative, aussi bien que des traitements complémentaires tels que la pleine conscience, la concentration mentale, l'hypnose et les techniques cognitivo-comportementales.
 
 <br>
 
-![_لا للقلق_](img/لا للقلق.jpg)
+![_لا للقلق (Non à l'anxiété)_](img/لا للقلق.jpg)

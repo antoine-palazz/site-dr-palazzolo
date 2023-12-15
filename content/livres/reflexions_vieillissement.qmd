@@ -4,6 +4,7 @@ date: 2015-06-11
 slug: reflexions_vieillissement
 tags:
   - vieillissement
+  - francais
 type: book
 image: img/reflexions_vieillissement.jpg
 ---

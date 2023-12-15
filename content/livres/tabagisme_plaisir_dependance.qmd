@@ -5,6 +5,7 @@ slug: tabagisme_plaisir_dependeance
 tags:
   - tabac
   - dépendance
+  - francais
 type: book
 image: img/tabagisme_plaisir_dependeance.jpg
 ---
