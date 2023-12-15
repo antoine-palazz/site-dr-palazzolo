@@ -1,0 +1,24 @@
+---
+title: "Guide de l'urgence psychiatrique"
+date: 2009-08-24
+slug: guide_urgence_psychiatrique
+tags:
+  - psychiatrie
+type: book
+image: img/guide_urgence_psychiatrique.jpg
+---
+
+La prise en charge de l’urgence psychiatrique a beaucoup évolué ces dernières années, en particulier dans les services d’urgence des hôpitaux.
+Ainsi, il ne s’agit plus aujourd’hui d’une simple dynamique transitoire, dans l’attente d’une place dans un service spécialisé, mais bien d’un véritable processus de soins qui s’organise autour du sujet en détresse psychique.
+Une détresse psychique qui, bien souvent, est également physique et sociale.
+Angoisse, dépression, idées suicidaires, délire, hallucinations…
+comment accueillir un patient en état de crise? Quel arsenal thérapeutique mettre en place?
+Quelles sont les procédures légales ?
+Quel dispositif spécifique envisager s’il s’agit d’un adolescent ou d’une personne âgée ?
+Pour répondre à ces questions, cet ouvrage réunit médecins généralistes, psychiatres, urgentistes, psychologues, travailleurs sociaux…
+En effet, face à une telle diversité clinique et psychopathologique, l’organisation des soins autour d’une personne en détresse psychique mobilise des intervenants très divers.
+Ensemble, ils proposent dans ce livre une approche pluridisciplinaire qui aidera le praticien, en ville ou à l’hôpital, à aborder avec plus de recul des situations complexes auxquelles il se trouve quotidiennement confronté.
+
+<br>
+
+![_Guide de l'urgence psychiatrique_](img/guide_urgence_psychiatrique.jpg)
