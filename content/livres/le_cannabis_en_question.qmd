@@ -1,0 +1,21 @@
+---
+title: "Le cannabis en question"
+date: 2006-02-01
+slug: le_cannabis_en_question
+tags:
+  - cannabis
+  - francais
+type: book
+image: img/le_cannabis_en_question.jpg
+---
+
+Tout savoir sur le cannabis.
+Destiné aux proches des consommateurs, cet ouvrage fait le point sur les dernières connaissances concernant la consommation de cannabis.
+Une information complète et sans jugement sur ses effets sur la santé. 
+La consommation de cannabis est aujourd'hui au coeur de nombreux débats de société.
+Dépénalisation ou répression, le débat s'est longtemps placé sur le plan de la morale alors que parallèlement la consommation chez les jeunes augmente régulièrement.
+Cette inquiétante augmentation de la consommation de cannabis a incité de nombreux chercheurs et médecins à s'intéresser objectivement et scientifiquement aux effets du cannabis sur la santé.
+
+<br>
+
+![_Le cannabis en question_](img/le_cannabis_en_question.jpg)
