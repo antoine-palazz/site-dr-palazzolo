@@ -46,7 +46,7 @@ project:
     - content/livres/les_troubles_de_la_personnalite.qmd
     - content/livres/ma_bible_des_tcc.qmd
     - content/livres/mots_corps_maux_ame.qmd
-    - content/livres/nespavost_sbavte_se_ji_navzdy.qmd
+    - content/livres/nespavost_zbavte_se_ji_navzdy.qmd
     - content/livres/observance_medicamenteuse.qmd
     - content/livres/petit_precis_psychologie_positive.qmd
     - content/livres/petite_histoire_masturbation.qmd
@@ -66,7 +66,7 @@ project:
     - content/livres/surmonter_l_alcoolisme.qmd
     - content/livres/surmonter_la_depression_1.qmd
     - content/livres/surmonter_la_depression_2.qmd
-    - content/livres/tabagimse_plaisir_dependance.qmd
+    - content/livres/tabagisme_plaisir_dependance.qmd
     - content/livres/vaincre_l_anxiete_sans_medoc.qmd
     - content/livres/vieillissement_bipolaire_schizo.qmd
     - content/livres/words_of_pain.qmd
@@ -158,7 +158,7 @@ website:
         - content/livres/les_troubles_de_la_personnalite.qmd
         - content/livres/ma_bible_des_tcc.qmd
         - content/livres/mots_corps_maux_ame.qmd
-        - content/livres/nespavost_sbavte_se_ji_navzdy.qmd
+        - content/livres/nespavost_zbavte_se_ji_navzdy.qmd
         - content/livres/observance_medicamenteuse.qmd
         - content/livres/petit_precis_psychologie_positive.qmd
         - content/livres/petite_histoire_masturbation.qmd
@@ -178,7 +178,7 @@ website:
         - content/livres/surmonter_l_alcoolisme.qmd
         - content/livres/surmonter_la_depression_1.qmd
         - content/livres/surmonter_la_depression_2.qmd
-        - content/livres/tabagimse_plaisir_dependance.qmd
+        - content/livres/tabagisme_plaisir_dependance.qmd
         - content/livres/vaincre_l_anxiete_sans_medoc.qmd
         - content/livres/vieillissement_bipolaire_schizo.qmd
         - content/livres/words_of_pain.qmd
