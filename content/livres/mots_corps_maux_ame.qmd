@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/mots_corps_maux_ame.jpg
+image: ../../img/mots_corps_maux_ame.jpg
 ---
 
 L'homme souffrant ne peut être réduit à un corps malade, il est un être bio-psycho-social unique.
@@ -16,4 +16,4 @@ En se servant de leur pratique du terrain et de leur expérience de thérapeutes
 
 <br>
 
-![_Des mots du corps aux mauxde l'âme - Le concept d'harmonisation_](img/mots_corps_maux_ame.jpg)
+![_Des mots du corps aux mauxde l'âme - Le concept d'harmonisation_](../../img/mots_corps_maux_ame.jpg)

@@ -8,7 +8,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/gestion_stress_aquaphobie_tcc.jpg
+image: ../../img/gestion_stress_aquaphobie_tcc.jpg
 ---
 
 L’aquaphobie touche près d’une personne sur cinq.
@@ -21,4 +21,4 @@ Et dans un tel contexte, la plongée sous-marine peut être un outil très eﬃc
 
 <br>
 
-![_La gestion du stress et de l'aquaphobie par les TCC - L'apport de la plongée sous-marine_](img/gestion_stress_aquaphobie_tcc.jpg)
+![_La gestion du stress et de l'aquaphobie par les TCC - L'apport de la plongée sous-marine_](../../img/gestion_stress_aquaphobie_tcc.jpg)

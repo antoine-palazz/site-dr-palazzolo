@@ -4,11 +4,11 @@ date: 2023-12-25
 slug: livres_dr_palazzolo
 tags:
 type: book
-image: img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 Vous trouverez ici l'ensemble des livres du Dr Palazzolo.
 
 <br>
 
-![_Dr Jérôme Palazzolo_](img/photo_linkedin.jpg)
+![_Dr Jérôme Palazzolo_](../../img/photo_linkedin.jpg)

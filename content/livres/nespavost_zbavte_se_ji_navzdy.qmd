@@ -6,7 +6,7 @@ tags:
   - insomnie
   - russe
 type: book
-image: img/nespavost_sbavte_se_ji_navzdy.jpg
+image: ../../img/nespavost_sbavte_se_ji_navzdy.jpg
 ---
 
 ## En russe
@@ -23,4 +23,4 @@ Vous y trouverez des informations sur les troubles du sommeil, leurs types, des 
 
 <br>
 
-![_Nespavost - zbavte se jí navždy! (Insomnie - Débarrassez-vous-en !)_](img/nespavost_sbavte_se_ji_navzdy.jpg)
+![_Nespavost - zbavte se jí navždy! (Insomnie - Débarrassez-vous-en !)_](../../img/nespavost_sbavte_se_ji_navzdy.jpg)

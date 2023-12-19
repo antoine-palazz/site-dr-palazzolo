@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/dynamique_equipe_soignante.jpg
+image: ../../img/dynamique_equipe_soignante.jpg
 ---
 
 L'objectif de cet ouvrage est de mettre en lumière la réalité quotidienne des soignants en milieu hospitalier psychiatrique.
@@ -21,4 +21,4 @@ En permettant de mieux se situer face à eux-mêmes, les différents personnels 
 
 <br>
 
-![_La dynamique de l'équipe soignante en psychiatrie - Les réunions institutionnelles : approche systémique et psychanalytique_](img/dynamique_equipe_soignante.jpg)
+![_La dynamique de l'équipe soignante en psychiatrie - Les réunions institutionnelles : approche systémique et psychanalytique_](../../img/dynamique_equipe_soignante.jpg)

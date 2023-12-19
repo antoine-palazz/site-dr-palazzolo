@@ -7,7 +7,7 @@ tags:
   - contention
   - francais
 type: book
-image: img/chambre_isolement_contention.jpg
+image: ../../img/chambre_isolement_contention.jpg
 ---
 
 L’histoire de la psychiatrie a marqué l’inconscient collectif de représentations carcérales liées aux pratiques d’isolement et de contention physique des patients.
@@ -23,4 +23,4 @@ Cette réflexion sur les pratiques professionnelles dépasse le choix du cadre c
 
 <br>
 
-![_Chambre d'isolement et contention en psychiatrie_](img/chambre_isolement_contention.jpg)
+![_Chambre d'isolement et contention en psychiatrie_](../../img/chambre_isolement_contention.jpg)

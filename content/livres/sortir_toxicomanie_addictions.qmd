@@ -7,7 +7,7 @@ tags:
   - toxicomanie
   - francais
 type: book
-image: img/sortir_toxicomanie_addictions.jpg
+image: ../../img/sortir_toxicomanie_addictions.jpg
 ---
 
 "Il est peut-être drogué...".
@@ -26,4 +26,4 @@ Jérôme Palazzolo reprend ici de manière détaillée l’ensemble des question
 
 <br>
 
-![_Aidez vos proches à sortir de la toxicomanie et des addictions_](img/sortir_toxicomanie_addictions.jpg)
+![_Aidez vos proches à sortir de la toxicomanie et des addictions_](../../img/sortir_toxicomanie_addictions.jpg)

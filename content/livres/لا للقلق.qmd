@@ -6,7 +6,7 @@ tags:
   - anxiete
   - arabe
 type: book
-image: img/لا للقلق.jpg
+image: ../../img/لا للقلق.jpg
 ---
 
 ## En arabe
@@ -21,4 +21,4 @@ Il présente de nombreux témoignages ainsi que toutes les solutions facilement 
 
 <br>
 
-![_لا للقلق (Non à l'anxiété)_](img/لا للقلق.jpg)
+![_لا للقلق (Non à l'anxiété)_](../../img/لا للقلق.jpg)

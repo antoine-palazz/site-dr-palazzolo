@@ -6,7 +6,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/les_therapies_breves.jpg
+image: ../../img/les_therapies_breves.jpg
 ---
 
 Les TCC (Thérapies Comportementales et Cognitives) sont nées il y a plus de soixante ans de la volonté d'appliquer les avancées de la psychologie scientifique à la prise en charge des troubles mentaux.
@@ -18,4 +18,4 @@ Nous espérons que cet ouvrage, dont l'objectif est de faire un point détaillé
 
 <br>
 
-![_Les thérapies brèves : Actualités et perspectives des TCC_](img/les_therapies_breves.jpg)
+![_Les thérapies brèves : Actualités et perspectives des TCC_](../../img/les_therapies_breves.jpg)

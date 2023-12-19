@@ -6,7 +6,7 @@ tags:
   - anxiete
   - francais
 type: book
-image: img/vaincre_l_anxiete_sans_medoc.jpg
+image: ../../img/vaincre_l_anxiete_sans_medoc.jpg
 ---
 
 Mains moites, coeur qui bat à cent à l’heure, impression d’étouffer, étourdissement, sensation d’une catastrophe imminente, voire perte de connaissance…
@@ -23,4 +23,4 @@ Découvrez :
 
 <br>
 
-![_Vaincre l'anxiété sans médicaments_](img/vaincre_l_anxiete_sans_medoc.jpg)
+![_Vaincre l'anxiété sans médicaments_](../../img/vaincre_l_anxiete_sans_medoc.jpg)

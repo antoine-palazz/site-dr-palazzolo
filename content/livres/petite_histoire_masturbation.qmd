@@ -6,7 +6,7 @@ tags:
   - masturbation
   - francais
 type: book
-image: img/petite_histoire_masturbation.jpg
+image: ../../img/petite_histoire_masturbation.jpg
 ---
 
 Woody Allen en disait : « Après tout, c’est une façon de faire l’amour avec quelqu’un qu’on aime bien. »
@@ -21,4 +21,4 @@ Pour comprendre sans juger.
 
 <br>
 
-![_Petite histoire de la masturbation_](img/petite_histoire_masturbation.jpg)
+![_Petite histoire de la masturbation_](../../img/petite_histoire_masturbation.jpg)

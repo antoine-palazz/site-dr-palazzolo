@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/guide_urgence_psychiatrique.jpg
+image: ../../img/guide_urgence_psychiatrique.jpg
 ---
 
 La prise en charge de l’urgence psychiatrique a beaucoup évolué ces dernières années, en particulier dans les services d’urgence des hôpitaux.
@@ -22,4 +22,4 @@ Ensemble, ils proposent dans ce livre une approche pluridisciplinaire qui aidera
 
 <br>
 
-![_Guide de l'urgence psychiatrique_](img/guide_urgence_psychiatrique.jpg)
+![_Guide de l'urgence psychiatrique_](../../img/guide_urgence_psychiatrique.jpg)

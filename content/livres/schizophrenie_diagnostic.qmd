@@ -6,7 +6,7 @@ tags:
   - schizophrenie
   - francais
 type: book
-image: img/schizophrenie_diagnostic.jpg
+image: ../../img/schizophrenie_diagnostic.jpg
 ---
 
 Comment annoncer à un patient schizophrène sa maladie ?
@@ -20,4 +20,4 @@ Clair et accessible, il s'adresse à tous les professionnels engagés dans les s
 
 <br>
 
-![_Schizophrénie : l'annonce du diagnostic_](img/schizophrenie_diagnostic.jpg)
+![_Schizophrénie : l'annonce du diagnostic_](../../img/schizophrenie_diagnostic.jpg)

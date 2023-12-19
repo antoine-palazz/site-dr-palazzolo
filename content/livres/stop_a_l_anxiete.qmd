@@ -6,7 +6,7 @@ tags:
   - anxiete
   - francais
 type: book
-image: img/stop_a_l_anxiete.jpg
+image: ../../img/stop_a_l_anxiete.jpg
 ---
 
 Mains moites, cœur qui bat à cent à l’heure, impression d’étouffer, étourdissement, voire perte de connaissance... L’anxiété peut gâcher votre vie et celle de votre entourage.
@@ -22,4 +22,4 @@ Parce que l'anxiété n'est pas une fatalité, trouvez des solutions en vous-mê
 
 <br>
 
-![_Stop à l'anxiété_](img/stop_a_l_anxiete.jpg)
+![_Stop à l'anxiété_](../../img/stop_a_l_anxiete.jpg)

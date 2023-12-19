@@ -7,7 +7,7 @@ tags:
   - alcool
   - francais
 type: book
-image: img/surmonter_l_alcoolisme.jpg
+image: ../../img/surmonter_l_alcoolisme.jpg
 ---
 
 " Il est peut-être alcoolique… ".
@@ -25,4 +25,4 @@ Un livre pour vous conseiller, vous soutenir et vous aider à accompagner votre 
 
 <br>
 
-![_Aidez vos proches à surmonter l'alcoolisme_](img/surmonter_l_alcoolisme.jpg)
+![_Aidez vos proches à surmonter l'alcoolisme_](../../img/surmonter_l_alcoolisme.jpg)

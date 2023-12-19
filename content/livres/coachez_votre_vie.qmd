@@ -6,7 +6,7 @@ tags:
   - sport
   - francais
 type: book
-image: img/coachez_votre_vie.jpg
+image: ../../img/coachez_votre_vie.jpg
 ---
 
 Comment donner à sa vie toutes ses chances de réussite ? Comment exprimer tout son potentiel dans sa vie quotidienne et professionnelle ?
@@ -22,4 +22,4 @@ Un guide pour coacher votre vie, vous mettre en accord avec vous-même et réali
 
 <br>
 
-![_Coachez votre vie_](img/coachez_votre_vie.jpg)
+![_Coachez votre vie_](../../img/coachez_votre_vie.jpg)

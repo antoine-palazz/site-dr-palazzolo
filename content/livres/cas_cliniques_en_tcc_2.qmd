@@ -6,7 +6,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/cas_cliniques_en_tcc_2.jpg
+image: ../../img/cas_cliniques_en_tcc_2.jpg
 ---
 
 Les thérapies comportementales et cognitives (TCC) représentent aujourd'hui le courant psychothérapique le plus largement validé par les méthodes de l'Evidence Based Medicine, autrement dit par les approches scientifiques.
@@ -18,4 +18,4 @@ Si de nombreux ouvrages traitent des modalités théoriques de ce type d’inter
 
 <br>
 
-![_Cas cliniques en thérapies comportementales et cognitives - 2è édition_](img/cas_cliniques_en_tcc_2.jpg)
+![_Cas cliniques en thérapies comportementales et cognitives - 2è édition_](../../img/cas_cliniques_en_tcc_2.jpg)

@@ -6,7 +6,7 @@ tags:
   - cannabis
   - francais
 type: book
-image: img/le_cannabis_en_question.jpg
+image: ../../img/le_cannabis_en_question.jpg
 ---
 
 Tout savoir sur le cannabis.
@@ -18,4 +18,4 @@ Cette inquiétante augmentation de la consommation de cannabis a incité de nomb
 
 <br>
 
-![_Le cannabis en question_](img/le_cannabis_en_question.jpg)
+![_Le cannabis en question_](../../img/le_cannabis_en_question.jpg)

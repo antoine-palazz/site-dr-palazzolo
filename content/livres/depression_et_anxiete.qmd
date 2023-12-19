@@ -7,7 +7,7 @@ tags:
   - anxiete
   - francais
 type: book
-image: img/depression_et_anxiete.jpg
+image: ../../img/depression_et_anxiete.jpg
 ---
 
 Le médecin généraliste est en première ligne pour la prise en charge des patients atteints d’un état anxieux ou dépressif.
@@ -31,4 +31,4 @@ Le médecin doit s’adapter à ce nouveau partenariat malade - médecin ; il do
 
 <br>
 
-![_Dépression et anxiété - Mieux les comprendre pour mieux les prendre en charge_](img/depression_et_anxiete.jpg)
+![_Dépression et anxiété - Mieux les comprendre pour mieux les prendre en charge_](../../img/depression_et_anxiete.jpg)

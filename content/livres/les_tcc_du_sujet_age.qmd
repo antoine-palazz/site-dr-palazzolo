@@ -7,7 +7,7 @@ tags:
   - vieillissement
   - francais
 type: book
-image: img/les_tcc_du_sujet_age.jpg
+image: ../../img/les_tcc_du_sujet_age.jpg
 ---
 
 Les thérapies cognitivo-comportementales (TCC) sont une forme de psychothérapie structurée et brève qui se concentre sur les rôles-clés que les cognitions (les pensées) et les comportements jouent dans l’apparition et le maintien de la pathologie psychique.
@@ -22,4 +22,4 @@ Mais des adaptations spécifiques concernant les stratégies et les processus th
 
 <br>
 
-![_Les thérapies cognitivo-comportementales du sujet âgé_](img/les_tcc_du_sujet_age.jpg)
+![_Les thérapies cognitivo-comportementales du sujet âgé_](../../img/les_tcc_du_sujet_age.jpg)

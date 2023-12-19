@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/observance_medicamenteuse.jpg
+image: ../../img/observance_medicamenteuse.jpg
 ---
 
 Toutes les recherches en psychologie médicale le prouvent : la motivation personnelle et une relation de confiance avec le médecin sont indispensables à une bonne observance médicamenteuse.
@@ -16,4 +16,4 @@ Destiné aux praticiens désireux d'optimiser l'état clinique de leurs patients
 
 <br>
 
-![_Observance médicamenteuse et psychiatrie_](img/observance_medicamenteuse.jpg)
+![_Observance médicamenteuse et psychiatrie_](../../img/observance_medicamenteuse.jpg)

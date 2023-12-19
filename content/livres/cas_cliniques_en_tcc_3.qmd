@@ -6,7 +6,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/cas_cliniques_en_tcc_3.jpg
+image: ../../img/cas_cliniques_en_tcc_3.jpg
 ---
 
 Cet ouvrage commence là où bien des livres et des articles finissent, à la question : « Comment vais-je m’y prendre avec ce patient précis ? ».
@@ -19,4 +19,4 @@ Ces réflexions sont empreintes d’émotions qui nous rappellent combien la mal
 
 <br>
 
-![_Cas cliniques en thérapies comportementales et cognitives - 3è édition_](img/cas_cliniques_en_tcc_3.jpg)
+![_Cas cliniques en thérapies comportementales et cognitives - 3è édition_](../../img/cas_cliniques_en_tcc_3.jpg)

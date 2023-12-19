@@ -6,7 +6,7 @@ tags:
   - anxiete
   - francais
 type: book
-image: img/controle_et_gestion_du_stress.jpg
+image: ../../img/controle_et_gestion_du_stress.jpg
 ---
 
 L’influence des croyances des individus en matière de contrôle sur leur propre performance, selon qu’ils attribuent leurs succès ou échecs à leur propre action, à celle des autres (adversaires, concurrents…) ou au fait du hasard, est majeure.
@@ -18,4 +18,4 @@ L’objectif de ce livre est donc de proposer au lecteur des méthodes simples i
 
 <br>
 
-![_Sentiment de contrôle et gestion du stress - Une psychologie cognitive de la performance_](img/controle_et_gestion_du_stress.jpg)
+![_Sentiment de contrôle et gestion du stress - Une psychologie cognitive de la performance_](../../img/controle_et_gestion_du_stress.jpg)

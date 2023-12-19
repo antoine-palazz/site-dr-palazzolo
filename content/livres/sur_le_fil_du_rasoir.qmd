@@ -6,7 +6,7 @@ tags:
   - bipolaire
   - francais
 type: book
-image: img/sur_le_fil_du_rasoir.jpg
+image: ../../img/sur_le_fil_du_rasoir.jpg
 ---
 
 Cet ouvrage, construit comme un film, tente, de séquence en séquence, de rassembler une histoire, une histoire intime et personnelle.
@@ -19,4 +19,4 @@ Ce témoignage est une véritable leçon d'existence et un espoir pour tous ceux
 
 <br>
 
-![_Sur le fil du rasoir_](img/sur_le_fil_du_rasoir.jpg)
+![_Sur le fil du rasoir_](../../img/sur_le_fil_du_rasoir.jpg)

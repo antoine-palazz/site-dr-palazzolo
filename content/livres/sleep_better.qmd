@@ -6,7 +6,7 @@ tags:
   - insomnie
   - anglais
 type: book
-image: img/sleep_better.jpg
+image: ../../img/sleep_better.jpg
 ---
 
 ## En anglais
@@ -39,4 +39,4 @@ Pour rappeler que nous avons peut-être perdu les règles simples que nous avion
 
 <br>
 
-![_Sleep better (Mieux dormir)_](img/sleep_better.jpg)
+![_Sleep better (Mieux dormir)_](../../img/sleep_better.jpg)

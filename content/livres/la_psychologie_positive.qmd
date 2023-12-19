@@ -6,7 +6,7 @@ tags:
   - psychologie_positive
   - francais
 type: book
-image: img/la_psychologie_positive.jpg
+image: ../../img/la_psychologie_positive.jpg
 ---
 
 Non, la psychologie positive n’est pas la pensée positive.
@@ -23,4 +23,4 @@ Le docteur Jérôme Palazzolo fait le point sur la question, cas concrets à l�
 
 <br>
 
-![_La psychologie positive_](img/la_psychologie_positive.jpg)
+![_La psychologie positive_](../../img/la_psychologie_positive.jpg)

@@ -7,7 +7,7 @@ tags:
   - dépendance
   - francais
 type: book
-image: img/tabagisme_plaisir_dependeance.jpg
+image: ../../img/tabagisme_plaisir_dependeance.jpg
 ---
 
 On a cru pendant longtemps que l'usage du tabac était une habitude liée à des composantes psychologiques et sociales ; la volonté aurait alors dû suffire pour obtenir l'arrêt.
@@ -22,4 +22,4 @@ Il ne s’agit pas ici de juger ou de culpabiliser, mais bien d’informer : fum
 
 <br>
 
-![_Tabagisme : plaisir et dépendance - Données actuelles et perspectives_](img/tabagisme_plaisir_dependeance.jpg)
+![_Tabagisme : plaisir et dépendance - Données actuelles et perspectives_](../../img/tabagisme_plaisir_dependeance.jpg)

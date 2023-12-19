@@ -6,7 +6,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/se_soigner_par_les_tcc.jpg
+image: ../../img/se_soigner_par_les_tcc.jpg
 ---
 
 Les thérapies cognitives et comportementales (TCC) se sont imposées ces dernières décennies comme le traitement de référence de nombreuses affections.
@@ -20,4 +20,4 @@ Et ce défi est brillamment réussi !
 
 <br>
 
-![_Se soigner par les TCC_](img/se_soigner_par_les_tcc.jpg)
+![_Se soigner par les TCC_](../../img/se_soigner_par_les_tcc.jpg)

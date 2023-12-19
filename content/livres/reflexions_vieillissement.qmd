@@ -6,7 +6,7 @@ tags:
   - vieillissement
   - francais
 type: book
-image: img/reflexions_vieillissement.jpg
+image: ../../img/reflexions_vieillissement.jpg
 ---
 
 Le vieillissement croissant de la population et l'augmentation régulière de l'espérance de vie ont conduit les pouvoirs publics et les professionnels du soin à s'intéresser de près à la santé mentale des personnes âgées, ainsi qu'à l'optimisation de la prise en charge spécifique de ces dernières.
@@ -18,4 +18,4 @@ Notre but dans cet ouvrage collectif, écrit par les étudiants du Master 2 de p
 
 <br>
 
-![_Réflexions psychologiques autour du vieillissement normal et pathologique_](img/reflexions_vieillissement.jpg)
+![_Réflexions psychologiques autour du vieillissement normal et pathologique_](../../img/reflexions_vieillissement.jpg)

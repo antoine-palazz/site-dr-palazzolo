@@ -6,7 +6,7 @@ tags:
   - cannabis
   - francais
 type: book
-image: img/cannabis_du_plaisir_au_risque.jpg
+image: ../../img/cannabis_du_plaisir_au_risque.jpg
 ---
 
 La consommation de cannabis est aujourd'hui au centre d'un débat de société dans la plupart des pays développés.
@@ -21,4 +21,4 @@ Véritable synthèse des données les plus actuelles sur le sujet, cet ouvrage e
 
 <br>
 
-![_Le cannabis : du plaisir au risque - Tout comprendre pour mieux prendre en charge_](img/cannabis_du_plaisir_au_risque.jpg)
+![_Le cannabis : du plaisir au risque - Tout comprendre pour mieux prendre en charge_](../../img/cannabis_du_plaisir_au_risque.jpg)

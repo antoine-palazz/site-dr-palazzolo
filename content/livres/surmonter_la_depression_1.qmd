@@ -6,7 +6,7 @@ tags:
   - depression
   - francais
 type: book
-image: img/surmonter_la_depression_1.jpg
+image: ../../img/surmonter_la_depression_1.jpg
 ---
 
 C’est un fait, la communication soignant-soigné passe mal, et la communication soignant-proches du soigné est encore plus aléatoire.
@@ -24,4 +24,4 @@ J’ai essayé de reprendre ici l’ensemble des questions qui me sont posées t
 
 <br>
 
-![_Aidez vos proches à surmonter la dépression - 1ère édition_](img/surmonter_la_depression_1.jpg)
+![_Aidez vos proches à surmonter la dépression - 1ère édition_](../../img/surmonter_la_depression_1.jpg)

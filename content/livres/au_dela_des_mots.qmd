@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/au_dela_des_mots.jpg
+image: ../../../../img/au_dela_des_mots.jpg
 ---
 
 Cet ouvrage regroupe le témoignage de patients atteints d'une maladie mentale.
@@ -15,4 +15,4 @@ Parmi les thèmes abordés : la violence, l’anorexie, la dépression, le déli
 
 <br>
 
-![_Au-delà des mots - Paroles oubliées ou importance de l'écoute_](img/au_dela_des_mots.jpg)
+![_Au-delà des mots - Paroles oubliées ou importance de l'écoute_](../../img/au_dela_des_mots.jpg)

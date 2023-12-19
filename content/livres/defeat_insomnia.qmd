@@ -6,7 +6,7 @@ tags:
   - insomnie
   - anglais
 type: book
-image: img/defeat_insomnia.jpg
+image: ../../img/defeat_insomnia.jpg
 ---
 
 ## En anglais
@@ -37,4 +37,4 @@ Comme vous pouvez le constater, "Defeat Insomnia" n'est pas un livre d'experts s
 
 <br>
 
-![_Into the land of dreams: Defeat Insomnia (Vaincre l'insomnie)_](img/defeat_insomnia.jpg)
+![_Into the land of dreams: Defeat Insomnia (Vaincre l'insomnie)_](../../img/defeat_insomnia.jpg)

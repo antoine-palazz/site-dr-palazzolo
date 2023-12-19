@@ -6,7 +6,7 @@ tags:
   - douleur
   - anglais
 type: book
-image: img/words_of_pain.jpg
+image: ../../img/words_of_pain.jpg
 ---
 
 ## En anglais
@@ -33,4 +33,4 @@ Tous les textes transcrits dans ce livre sont le travail de patients hospitalis�
 
 <br>
 
-![_Beyond the words of pain (Au-delà des mots de douleur)_](img/words_of_pain.jpg)
+![_Beyond the words of pain (Au-delà des mots de douleur)_](../../img/words_of_pain.jpg)

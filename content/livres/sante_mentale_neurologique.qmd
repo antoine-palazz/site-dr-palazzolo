@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/sante_mentale_neurologique.jpg
+image: ../../img/sante_mentale_neurologique.jpg
 ---
 
 Selon l’OMS, quatre cent cinquante millions de personnes souffrent de troubles mentaux ou neurologiques.
@@ -21,4 +21,4 @@ Cet ouvrage, de par ses approches multiples alliant des regards psychiatrique, p
 
 <br>
 
-![_Conscience et représentation de la santé mentale et neurologique_](img/sante_mentale_neurologique.jpg)
+![_Conscience et représentation de la santé mentale et neurologique_](../../img/sante_mentale_neurologique.jpg)

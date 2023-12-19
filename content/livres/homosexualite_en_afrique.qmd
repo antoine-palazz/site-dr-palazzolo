@@ -7,7 +7,7 @@ tags:
   - sida
   - francais
 type: book
-image: img/homosexualite_en_afrique.jpg
+image: ../../img/homosexualite_en_afrique.jpg
 ---
 
 L’homophobie en Afrique est considérée comme l’un des principaux obstacles à la mise en place de stratégies de prévention du VIH.
@@ -19,4 +19,4 @@ Cet ouvrage est un encouragement pour les équipes au service des personnes vuln
 
 <br>
 
-![_L'homosexualité en Afrique : Regard anthropologique et psychologique - L'exemple de la Côte d'Ivoire et du Mali_](img/homosexualite_en_afrique.jpg)
+![_L'homosexualité en Afrique : Regard anthropologique et psychologique - L'exemple de la Côte d'Ivoire et du Mali_](../../img/homosexualite_en_afrique.jpg)

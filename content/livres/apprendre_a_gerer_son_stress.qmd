@@ -6,7 +6,7 @@ tags:
   - anxiete
   - francais
 type: book
-image: img/apprendre_a_gerer_son_stress.jpg
+image: ../../img/apprendre_a_gerer_son_stress.jpg
 ---
 
 Omniprésent dans notre vie quotidienne, le stress est bien souvent un compagnon dont on rêve de se débarrasser.
@@ -21,4 +21,4 @@ Comment ne pas glisser de la simple phase d'alarme à celle de l'épuisement ?
 
 <br>
 
-![_Apprendre à gérer son stress - L'expérience d'un champion, l'expérience d'une vie_](img/apprendre_a_gerer_son_stress.jpg)
+![_Apprendre à gérer son stress - L'expérience d'un champion, l'expérience d'une vie_](../../img/apprendre_a_gerer_son_stress.jpg)

@@ -9,7 +9,7 @@ tags:
   - vieillissement
   - francais
 type: book
-image: img/psychotherapies_du_sujet_age.jpg
+image: ../../img/psychotherapies_du_sujet_age.jpg
 ---
 
 Le vieillissement pathologique impose une prise en charge adaptée, qui a pour objectif de dépister, évaluer, traiter et prévenir tous les types de pathologies, mais aussi de prendre en compte le bien-être psychologique, dans le souci de préserver au maximum l'autonomie.
@@ -28,4 +28,4 @@ Révolutionnaire, il apporte de nouvelles stratégies pour instaurer un soin psy
 
 <br>
 
-![_Psychothérapies du sujet âgé - Prise en charge des pathologies du vieillissement_](img/psychotherapies_du_sujet_age.jpg)
+![_Psychothérapies du sujet âgé - Prise en charge des pathologies du vieillissement_](../../img/psychotherapies_du_sujet_age.jpg)

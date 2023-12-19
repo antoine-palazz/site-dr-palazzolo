@@ -6,7 +6,7 @@ tags:
   - insomnie
   - francais
 type: book
-image: img/en_finir_avec_l_insomnie.jpg
+image: ../../img/en_finir_avec_l_insomnie.jpg
 ---
 
 Si les insomnies vous gâchent la vie. Réagissez !
@@ -19,4 +19,4 @@ Prenez votre insomnie en main et... dormez bien !
 
 <br>
 
-![_En finir avec l'insomnie : c'est possible !_](img/en_finir_avec_l_insomnie.jpg)
+![_En finir avec l'insomnie : c'est possible !_](../../img/en_finir_avec_l_insomnie.jpg)

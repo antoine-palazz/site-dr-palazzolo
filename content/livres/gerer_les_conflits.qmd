@@ -6,7 +6,7 @@ tags:
   - conflit
   - francais
 type: book
-image: img/gerer_les_conflits.jpg
+image: ../../img/gerer_les_conflits.jpg
 ---
 
 Comment faire face aux différents conflits auxquels nous sommes confrontés dans la vie courante ?
@@ -19,4 +19,4 @@ Les deux auteurs, référents internationaux, proposent des techniques psycholog
 
 <br>
 
-![_Gérer les conflits et l'agressivité au quotidien_](img/gerer_les_conflits.jpg)
+![_Gérer les conflits et l'agressivité au quotidien_](../../img/gerer_les_conflits.jpg)

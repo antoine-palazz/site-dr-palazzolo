@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/information_du_patient.jpg
+image: ../../img/information_du_patient.jpg
 ---
 
 Le secret médical n’existe pas à l’égard du patient.
@@ -25,4 +25,4 @@ Si la législation est dans ce cadre bien définie et évolutive en fonction des
 
 <br>
 
-![_L'information du patient dans le cadre de la recherche en médecine_](img/information_du_patient.jpg)
+![_L'information du patient dans le cadre de la recherche en médecine_](../../img/information_du_patient.jpg)

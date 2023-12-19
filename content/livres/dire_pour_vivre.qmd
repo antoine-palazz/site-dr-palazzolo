@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/dire_pour_vivre.jpg
+image: ../../img/dire_pour_vivre.jpg
 ---
 
 Nous tentons toujours de mettre des mots sur nos émotions, sur nos maladies, mais seule la vérité toute nue nous permet de nous élever et de nous guérir.
@@ -21,4 +21,4 @@ De nombreux récits nous bouleversent... peut-être parce qu'ils sont si proches
 
 <br>
 
-![_Dire pour vivre - Pathologies psychiques: témoignage au quotidien_](img/dire_pour_vivre.jpg)
+![_Dire pour vivre - Pathologies psychiques: témoignage au quotidien_](../../img/dire_pour_vivre.jpg)

@@ -6,7 +6,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/les_troubles_de_la_personnalite.jpg
+image: ../../img/les_troubles_de_la_personnalite.jpg
 ---
 
 Les troubles de la personnalité sont à l'origine d'une déviation des traits de caractère habituels.
@@ -16,4 +16,4 @@ Cet ouvrage pratique, destiné aussi bien aux professionnels du soin qu'au grand
 
 <br>
 
-![_Les troubles de la personnalité](img/les_troubles_de_la_personnalite.jpg)
+![_Les troubles de la personnalité](../../img/les_troubles_de_la_personnalite.jpg)

@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/institution_psychiatrique.jpg
+image: ../../img/institution_psychiatrique.jpg
 ---
 
 En France, la conception traditionnelle du soin, ancrée dans une médecine paternaliste et hermétique, fait aujourd’hui figure de vestige.
@@ -22,4 +22,4 @@ L’ouvrage du Docteur Jérôme Palazzolo, psychiatre niçois, permet de faire l
 
 <br>
 
-![_L'institution psychiatrique - Le psychiatre, le malade et leur environnement_](img/institution_psychiatrique.jpg)
+![_L'institution psychiatrique - Le psychiatre, le malade et leur environnement_](../../img/institution_psychiatrique.jpg)

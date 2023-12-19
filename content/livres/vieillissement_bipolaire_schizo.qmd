@@ -8,7 +8,7 @@ tags:
   - schizophrénie
   - francais
 type: book
-image: img/vieillissement_bipolaire_schizo.jpg
+image: ../../img/vieillissement_bipolaire_schizo.jpg
 ---
 
 Le vieillissement croissant de la population et l’augmentation régulière de l’espérance de vie ont conduit les pouvoirs publics et les professionnels du soin à s’intéresser de près à la santé mentale des personnes âgées, ainsi qu’à l’optimisation de la prise en charge spécifique de ces dernières.
@@ -24,4 +24,4 @@ Notre objectif est de faire le point sur les connaissances actuelles inhérentes
 
 <br>
 
-![_Vieillissement, trouble bipolaire et schizophrénie_](img/vieillissement_bipolaire_schizo.jpg)
+![_Vieillissement, trouble bipolaire et schizophrénie_](../../img/vieillissement_bipolaire_schizo.jpg)

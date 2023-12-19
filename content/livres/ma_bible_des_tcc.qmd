@@ -6,7 +6,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/ma_bible_des_tcc.jpg
+image: ../../img/ma_bible_des_tcc.jpg
 ---
 
 Troubles anxieux, dépression, troubles obsessionnels compulsifs, phobies, addictions...
@@ -26,4 +26,4 @@ Les principaux questionnaires et échelles d’évaluation utilisés.
 
 <br>
 
-![_Les essentiels des TCC_](img/ma_bible_des_tcc.jpg)
+![_Les essentiels des TCC_](../../img/ma_bible_des_tcc.jpg)

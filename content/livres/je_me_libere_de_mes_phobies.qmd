@@ -6,7 +6,7 @@ tags:
   - phobie
   - francais
 type: book
-image: img/je_me_libere_de_mes_phobies.jpg
+image: ../../img/je_me_libere_de_mes_phobies.jpg
 ---
 
 Libérez-vous de vos phobies !
@@ -21,4 +21,4 @@ Vous allez être surpris par vos capacités à vous dépasser !
 
 <br>
 
-![_Je me libère de mes phobies_](img/je_me_libere_de_mes_phobies.jpg)
+![_Je me libère de mes phobies_](../../img/je_me_libere_de_mes_phobies.jpg)

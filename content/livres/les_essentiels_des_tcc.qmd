@@ -6,7 +6,7 @@ tags:
   - tcc
   - francais
 type: book
-image: img/les_essentiels_des_tcc.jpg
+image: ../../img/les_essentiels_des_tcc.jpg
 ---
 
 Les thérapies cognitivo-comportementales (TCC) sont de plus en plus performantes pour traiter de nombreuses affections psychiques (troubles anxieux, troubles de l’humeur, troubles des conduites alimentaires, addictions, troubles de la personnalité) et sont donc de plus en plus pratiquées.
@@ -17,4 +17,4 @@ L’objectif de cet ouvrage pratique, destiné aussi bien aux thérapeutes aguer
 
 <br>
 
-![_Les essentiels des TCC_](img/les_essentiels_des_tcc.jpg)
+![_Les essentiels des TCC_](../../img/les_essentiels_des_tcc.jpg)

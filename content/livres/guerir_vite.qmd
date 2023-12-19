@@ -9,7 +9,7 @@ tags:
   - depression
   - phobie
 type: book
-image: img/guerir_vite.jpg
+image: ../../img/guerir_vite.jpg
 ---
 
 Les thérapies cognitivo-comportementales (TCC) ont le vent en poupe.
@@ -37,4 +37,4 @@ Il est temps à présent de vous laisser parcourir cet ouvrage, qui je l’espè
 
 <br>
 
-![_Guérir vite - Soigner les angoisses, la dépression et les phobies par la TCC_](img/guerir_vite.jpg)
+![_Guérir vite - Soigner les angoisses, la dépression et les phobies par la TCC_](../../img/guerir_vite.jpg)

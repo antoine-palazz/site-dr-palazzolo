@@ -7,7 +7,7 @@ tags:
   - alcool
   - roumain
 type: book
-image: img/invinga_dependenta_de_alcool.jpg
+image: ../../img/invinga_dependenta_de_alcool.jpg
 ---
 
 ## En roumain
@@ -46,4 +46,4 @@ Un guide utile pour ceux qui ont un membre de la famille, un ami ou un collègue
 
 <br>
 
-![_Ajutati-i pe cei dragi sa-si invinga dependenta de alcool (Aidez vos proches à vaincre leur dépendance à l'alcool)_](img/invinga_dependenta_de_alcool.jpg)
+![_Ajutati-i pe cei dragi sa-si invinga dependenta de alcool (Aidez vos proches à vaincre leur dépendance à l'alcool)_](../../img/invinga_dependenta_de_alcool.jpg)

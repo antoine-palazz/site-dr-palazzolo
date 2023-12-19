@@ -6,7 +6,7 @@ tags:
   - conduite
   - francais
 type: book
-image: img/ecarts_de_conduite.jpg
+image: ../../img/ecarts_de_conduite.jpg
 ---
 
 La sécurité liée à la conduite automobile bénéficie depuis un certain nombre d’années d’efforts soutenus dans le cadre de l’amélioration des infrastructures et des véhicules eux-mêmes.
@@ -21,4 +21,4 @@ L’objectif de ce manuel pratique est de traiter de manière approfondie une qu
 
 <br>
 
-![_Ecarts de conduite - Sécurité routière et psychopathologie_](img/ecarts_de_conduite.jpg)
+![_Ecarts de conduite - Sécurité routière et psychopathologie_](../../img/ecarts_de_conduite.jpg)

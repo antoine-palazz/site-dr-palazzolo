@@ -6,7 +6,7 @@ tags:
   - psychose
   - francais
 type: book
-image: img/les_psychoses.jpg
+image: ../../img/les_psychoses.jpg
 ---
 
 De jeunes psychiatres ont fondé le club Avenir Psy, centré sur une volonté commune d'échange et de partage des connaissances en psychiatrie.
@@ -17,4 +17,4 @@ La diversité des axes de recherche justifie le présent ouvrage, fruit de la r�
 
 <br>
 
-![_Les psychoses : données actuelles et perspectives_](img/les_psychoses.jpg)
+![_Les psychoses : données actuelles et perspectives_](../../img/les_psychoses.jpg)

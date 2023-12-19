@@ -7,7 +7,7 @@ tags:
   - contention
   - francais
 type: book
-image: img/isolement_contention_contrainte.jpg
+image: ../../img/isolement_contention_contrainte.jpg
 ---
 
 L’isolement, la contention et la contrainte en psychiatrie sont des données dont l’histoire remonte à la nuit des temps.
@@ -21,4 +21,4 @@ Certainement pas lorsque les raisons tiennent davantage à faire jouer à la psy
 
 <br>
 
-![_Isolement, contention et contrainte en psychiatrie_](img/isolement_contention_contrainte.jpg)
+![_Isolement, contention et contrainte en psychiatrie_](../../img/isolement_contention_contrainte.jpg)

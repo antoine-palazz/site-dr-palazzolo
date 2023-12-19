@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/informer_patient_en_psychiatrie.jpg
+image: ../../img/informer_patient_en_psychiatrie.jpg
 ---
 
 Les récents développements de la jurisprudence et la promulgation de la loi du 4 mars 2002 sur les droits des malades ont sans doute donné un éclairage trop juridique à l'exercice de la médecine, qui ne peut se comprendre sans l'établissement d'une relation de qualité entre le médecin et son patient.
@@ -15,4 +15,4 @@ L'objecif de cet ouvrage est de réaliser un point complet sur les aspects jurid
 
 <br>
 
-![_Informer le patient en psychiatrie : Rôle de chaque intervenant - Entre légitimité et obligation_](img/informer_patient_en_psychiatrie.jpg)
+![_Informer le patient en psychiatrie : Rôle de chaque intervenant - Entre légitimité et obligation_](../../img/informer_patient_en_psychiatrie.jpg)

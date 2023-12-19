@@ -6,7 +6,7 @@ tags:
   - sida
   - francais
 type: book
-image: img/sida_et_seropositivite.jpg
+image: ../../img/sida_et_seropositivite.jpg
 ---
 
 La pandémie de VIH/sida est un fléau planétaire qui frappe particulièrement l’Afrique et de façon plus cruelle ses femmes et ses enfants.
@@ -20,4 +20,4 @@ Cet ouvrage, destiné aussi bien à un public spécialisé qu’à un lectorat g
 
 <br>
 
-![_Sida et séropositivité_](img/sida_et_seropositivite.jpg)
+![_Sida et séropositivité_](../../img/sida_et_seropositivite.jpg)

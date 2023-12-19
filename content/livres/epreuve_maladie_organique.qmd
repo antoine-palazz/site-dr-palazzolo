@@ -6,7 +6,7 @@ tags:
   - psychiatrie
   - francais
 type: book
-image: img/epreuve_maladie_organique.jpg
+image: ../../img/epreuve_maladie_organique.jpg
 ---
 
 Dans cet ouvrage, les auteurs se sont intéressés à des patientes ayant bénéficié d’une mastectomie après qu’un cancer du sein ait été diagnostiqué, et recourant ensuite à une reconstruction mammaire.
@@ -17,4 +17,4 @@ Au-delà du contexte de l’atteinte cancéreuse, cet ouvrage permet également 
 
 <br>
 
-![_L'épreuve de la maladie organique - Un regard anthropologique_](img/epreuve_maladie_organique.jpg)
+![_L'épreuve de la maladie organique - Un regard anthropologique_](../../img/epreuve_maladie_organique.jpg)

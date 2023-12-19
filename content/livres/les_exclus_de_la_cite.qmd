@@ -6,7 +6,7 @@ tags:
   - exclusion
   - francais
 type: book
-image: img/les_exclus_de_la_cite.jpg
+image: ../../img/les_exclus_de_la_cite.jpg
 ---
 
 Le phénomène des enfants des rues est un drame mondial.
@@ -20,4 +20,4 @@ Une telle approche est le prérequis nécessaire à toute action d’accompagnem
 
 <br>
 
-![_Les exclus de la cité - Regard anthropologique et psychopathologique sur les enfants des rues_](img/les_exclus_de_la_cite.jpg)
+![_Les exclus de la cité - Regard anthropologique et psychopathologique sur les enfants des rues_](../../img/les_exclus_de_la_cite.jpg)

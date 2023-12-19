@@ -6,7 +6,7 @@ tags:
   - psychologie_positive
   - francais
 type: book
-image: img/petit_precis_psychologie_positive.jpg
+image: ../../img/petit_precis_psychologie_positive.jpg
 ---
 
 La psychologie positive est l’étude du bon fonctionnement de l’esprit humain, la mise en valeur des capacités mentales et émotionnelles qui nous aident à savourer le quotidien, à résoudre les problèmes et à surmonter l’adversité.
@@ -17,4 +17,4 @@ L’objectif est que ce manuscrit soit un véritable compagnon qui vous épaule 
 
 <br>
 
-![_Petit précis de psychologie positive_](img/petit_precis_psychologie_positive.jpg)
+![_Petit précis de psychologie positive_](../../img/petit_precis_psychologie_positive.jpg)

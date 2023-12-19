@@ -6,7 +6,7 @@ tags:
   - plongee
   - francais
 type: book
-image: img/risques_et_plongee.jpg
+image: ../../img/risques_et_plongee.jpg
 ---
 
 La plongée sous-marine est considérée comme un loisir à risque.
@@ -19,4 +19,4 @@ Répondre à de telles questions nécessite d’expliquer sans juger, d’inform
 
 <br>
 
-![_Risques et plongée - Actualités et perspectives_](img/risques_et_plongee.jpg)
+![_Risques et plongée - Actualités et perspectives_](../../img/risques_et_plongee.jpg)
