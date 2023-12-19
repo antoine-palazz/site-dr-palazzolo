@@ -2,7 +2,7 @@
 title: "Cas cliniques en TCC - 1ère édition"
 date: 2004-03-01
 slug: cas_cliniques_en_tcc_1
-tags:
+categories:
   - tcc
   - francais
 type: book

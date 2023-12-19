@@ -2,7 +2,7 @@
 title: "Guide de l'urgence psychiatrique"
 date: 2009-08-24
 slug: guide_urgence_psychiatrique
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

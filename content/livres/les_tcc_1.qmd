@@ -2,7 +2,7 @@
 title: "Les thérapies cognitives et comportementales - 1ère édition"
 date: 2016-05-22
 slug: les_tcc_1
-tags:
+categories:
   - tcc
   - francais
 type: book

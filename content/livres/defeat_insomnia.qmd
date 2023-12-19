@@ -2,7 +2,7 @@
 title: "Defeat Insomnia"
 date: 2014-08-05
 slug: defeat_insomnia
-tags:
+categories:
   - insomnie
   - anglais
 type: book

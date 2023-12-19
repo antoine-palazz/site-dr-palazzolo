@@ -2,7 +2,7 @@
 title: "Strategies and methods for a fast recovery"
 date: 2010-11-12
 slug: strategies_fast_recovery
-tags:
+categories:
   - tcc
   - anglais
 type: book

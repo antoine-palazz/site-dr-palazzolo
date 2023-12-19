@@ -2,7 +2,7 @@
 title: "Se soigner par les TCC"
 date: 2023-10-24
 slug: se_soigner_par_les_tcc
-tags:
+categories:
   - tcc
   - francais
 type: book

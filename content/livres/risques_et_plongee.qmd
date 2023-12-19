@@ -2,7 +2,7 @@
 title: "Risques et plongée"
 date: 2013-01-02
 slug: risques_et_plongee
-tags:
+categories:
   - plongee
   - francais
 type: book

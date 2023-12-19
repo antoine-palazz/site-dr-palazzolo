@@ -2,7 +2,7 @@
 title: "Aidez vos proches à surmonter la dépression - 1ère édition"
 date: 2006-03-29
 slug: surmonter_la_depression_1
-tags:
+categories:
   - depression
   - francais
 type: book

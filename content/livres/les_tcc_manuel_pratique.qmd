@@ -2,7 +2,7 @@
 title: "Les thérapies cognitives et comportementales - Manuel Pratique"
 date: 2007-05-02
 slug: les_tcc_manuel_pratique
-tags:
+categories:
   - tcc
   - francais
 type: book

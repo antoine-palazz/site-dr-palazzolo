@@ -2,7 +2,7 @@
 title: "L'information du patient dans le cadre de la recherche en médecine"
 date: 2004-09-28
 slug: information_du_patient
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

@@ -2,7 +2,7 @@
 title: "Le cannabis : du plaisir au risque"
 date: 2005-05-17
 slug: cannabis_du_plaisir_au_risque
-tags:
+categories:
   - cannabis
   - francais
 type: book

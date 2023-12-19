@@ -200,7 +200,6 @@ format:
     code-overflow: wrap
     template-partials: 
       - ../../_partials/title-block-link-buttons/title-block.html
-  ipynb: default
 
 
 crossref:
@@ -215,7 +214,7 @@ validate-yaml: false
 jupyter: python3
 
 wrap: preserve
-keep-ipynb: true
+keep-ipynb: false
 #cache: true
 
 #bibliography: references.bib

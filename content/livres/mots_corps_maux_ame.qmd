@@ -2,7 +2,7 @@
 title: "Des mots du corps aux mauxde l'âme"
 date: 2005-11-17
 slug: mots_corps_maux_ame
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

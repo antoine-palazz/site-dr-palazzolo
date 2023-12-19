@@ -2,7 +2,7 @@
 title: "Ajutati-i pe cei dragi sa-si invinga dependenta de alcool"
 date: 2007-01-01
 slug: invinga_dependenta_de_alcool
-tags:
+categories:
   - addiction
   - alcool
   - roumain

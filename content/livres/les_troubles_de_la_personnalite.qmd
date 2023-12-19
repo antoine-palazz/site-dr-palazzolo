@@ -2,7 +2,7 @@
 title: "Les troubles de la personnalité"
 date: 2014-09-18
 slug: les_troubles_de_la_personnalite
-tags:
+categories:
   - tcc
   - francais
 type: book

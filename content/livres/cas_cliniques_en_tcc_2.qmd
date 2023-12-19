@@ -2,7 +2,7 @@
 title: "Cas cliniques en TCC - 2è édition"
 date: 2007-01-10
 slug: cas_cliniques_en_tcc_2
-tags:
+categories:
   - tcc
   - francais
 type: book

@@ -2,7 +2,7 @@
 title: "Coachez votre vie"
 date: 2007-09-27
 slug: coachez_votre_vie
-tags:
+categories:
   - sport
   - francais
 type: book

@@ -2,7 +2,7 @@
 title: "Communication et observance en psychiatrie"
 date: 2014-09-22
 slug: communication_observance_psy
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

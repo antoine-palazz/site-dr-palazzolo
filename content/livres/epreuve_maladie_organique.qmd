@@ -2,7 +2,7 @@
 title: "L'épreuve de la maladie organique"
 date: 2009-09-04
 slug: epreuve_maladie_organique
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

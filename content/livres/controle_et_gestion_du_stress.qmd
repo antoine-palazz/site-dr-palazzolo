@@ -2,7 +2,7 @@
 title: "Sentiment de contrôle et gestion du stress"
 date: 2013-07-24
 slug: controle_et_gestion_du_stress
-tags:
+categories:
   - anxiete
   - francais
 type: book

@@ -2,7 +2,7 @@
 title: "لا للقلق"
 date: 2020-01-01
 slug: لا للقلق
-tags:
+categories:
   - anxiete
   - arabe
 type: book

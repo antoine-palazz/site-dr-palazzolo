@@ -2,7 +2,7 @@
 title: "Sleep better"
 date: 2015-08-23
 slug: sleep_better
-tags:
+categories:
   - insomnie
   - anglais
 type: book

@@ -2,7 +2,7 @@
 title: "L'institution psychiatrique"
 date: 2003-09-01
 slug: institution_psychiatrique
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

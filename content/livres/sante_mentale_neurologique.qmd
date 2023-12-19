@@ -2,7 +2,7 @@
 title: "Conscience et représentation de la santé mentale et neurologique"
 date: 2011-12-15
 slug: sante_mentale_neurologique
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

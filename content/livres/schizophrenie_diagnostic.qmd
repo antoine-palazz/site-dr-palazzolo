@@ -2,7 +2,7 @@
 title: "Schizophrénie : l'annonce du diagnostic"
 date: 2006-06-01
 slug: schizophrenie_diagnostic
-tags:
+categories:
   - schizophrenie
   - francais
 type: book

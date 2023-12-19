@@ -2,7 +2,7 @@
 title: "Petite histoire de la masturbation"
 date: 2009-04-17
 slug: petite_histoire_masturbation
-tags:
+categories:
   - masturbation
   - francais
 type: book

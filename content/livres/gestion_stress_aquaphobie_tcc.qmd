@@ -2,7 +2,7 @@
 title: "La gestion du stress et de l'aquaphobie par les TCC"
 date: 2010-10-18
 slug: gestion_stress_aquaphobie_tcc
-tags:
+categories:
   - anxiete
   - phobie
   - tcc

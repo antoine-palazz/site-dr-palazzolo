@@ -2,7 +2,7 @@
 title: "Cas cliniques en TCC - 3è édition"
 date: 2012-01-25
 slug: cas_cliniques_en_tcc_3
-tags:
+categories:
   - tcc
   - francais
 type: book

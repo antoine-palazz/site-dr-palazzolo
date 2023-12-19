@@ -2,7 +2,7 @@
 title: "Les thérapies brèves"
 date: 2013-10-28
 slug: les_therapies_breves
-tags:
+categories:
   - tcc
   - francais
 type: book

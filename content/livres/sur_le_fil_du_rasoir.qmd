@@ -2,7 +2,7 @@
 title: "Sur le fil du rasoir"
 date: 2005-05-17
 slug: sur_le_fil_du_rasoir
-tags:
+categories:
   - bipolaire
   - francais
 type: book

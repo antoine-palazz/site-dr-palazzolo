@@ -2,7 +2,7 @@
 title: "Aidez vos proches à surmonter l'alcoolisme"
 date: 2006-03-29
 slug: surmonter_l_alcoolisme
-tags:
+categories:
   - addiction
   - alcool
   - francais

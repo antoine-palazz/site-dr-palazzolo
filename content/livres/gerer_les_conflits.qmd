@@ -2,7 +2,7 @@
 title: "Gérer les conflits et l'agressivité"
 date: 2019-06-18
 slug: gerer_les_conflits
-tags:
+categories:
   - conflit
   - francais
 type: book

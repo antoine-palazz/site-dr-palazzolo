@@ -2,7 +2,7 @@
 title: "Psychothérapies du sujet âgé"
 date: 2016-10-19
 slug: psychotherapies_du_sujet_age
-tags:
+categories:
   - tcc
   - emdr
   - psychanalyse

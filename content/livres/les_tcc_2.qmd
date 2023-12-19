@@ -2,7 +2,7 @@
 title: "Les thérapies cognitives et comportementales - 2nde édition"
 date: 2020-01-08
 slug: les_tcc_2
-tags:
+categories:
   - tcc
   - francais
 type: book

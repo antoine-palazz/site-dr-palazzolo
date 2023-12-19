@@ -2,7 +2,7 @@
 title: "Ecarts de conduite"
 date: 2004-07-15
 slug: ecarts_de_conduite
-tags:
+categories:
   - conduite
   - francais
 type: book

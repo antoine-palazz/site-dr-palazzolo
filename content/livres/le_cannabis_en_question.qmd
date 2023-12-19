@@ -2,7 +2,7 @@
 title: "Le cannabis en question"
 date: 2006-02-01
 slug: le_cannabis_en_question
-tags:
+categories:
   - cannabis
   - francais
 type: book

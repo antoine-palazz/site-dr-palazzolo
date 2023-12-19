@@ -2,7 +2,7 @@
 title: "Vieillissement, trouble bipolaire et schizophrénie"
 date: 2006-02-01
 slug: vieillissement_bipolaire_schizo
-tags:
+categories:
   - vieillissement
   - bipolaire
   - schizophrénie

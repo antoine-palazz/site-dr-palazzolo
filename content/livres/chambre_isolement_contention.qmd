@@ -2,7 +2,7 @@
 title: "Chambre d'isolement et contention en psychiatrie"
 date: 2002-05-01
 slug: chambre_isolement_contention
-tags:
+categories:
   - isolement
   - contention
   - francais

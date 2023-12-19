@@ -2,7 +2,7 @@
 title: "Réflexions psychologiques autour du vieillissement normal et pathologique"
 date: 2015-06-11
 slug: reflexions_vieillissement
-tags:
+categories:
   - vieillissement
   - francais
 type: book

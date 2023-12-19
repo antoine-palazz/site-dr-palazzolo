@@ -2,7 +2,7 @@
 title: "Ma bible des TCC"
 date: 2021-06-09
 slug: ma_bible_des_tcc
-tags:
+categories:
   - tcc
   - francais
 type: book

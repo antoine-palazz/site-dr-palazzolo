@@ -2,7 +2,7 @@
 title: "Je triomphe de l'insomnie"
 date: 2018-01-24
 slug: je_triomphe_de_l_insomnie
-tags:
+categories:
   - insomnie
   - francais
 type: book

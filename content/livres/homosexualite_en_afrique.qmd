@@ -2,7 +2,7 @@
 title: "L'homosexualité en Afrique"
 date: 2013-07-04
 slug: homosexualite_en_afrique
-tags:
+categories:
   - homosexualite
   - sida
   - francais

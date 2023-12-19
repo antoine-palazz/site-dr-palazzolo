@@ -2,7 +2,7 @@
 title: "Dire pour vivre"
 date: 2016-05-22
 slug: dire_pour_vivre
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

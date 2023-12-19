@@ -2,7 +2,7 @@
 title: "Observance médicamenteuse et psychiatrie"
 date: 2004-04-01
 slug: observance_medicamenteuse
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

@@ -2,7 +2,7 @@
 title: "Trois approches du soin psychique en dialogue : TCC, EMDR et Psychanalyse"
 date: 2016-12-02
 slug: 3_approches_du_soin_psychique
-tags:
+categories:
   - tcc
   - emdr
   - psychanalyse

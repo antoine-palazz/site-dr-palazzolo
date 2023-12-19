@@ -2,7 +2,7 @@
 title: "Apprendre à gérer son stress"
 date: 2005-10-01
 slug: apprendre_a_gerer_son_stress
-tags:
+categories:
   - anxiete
   - francais
 type: book

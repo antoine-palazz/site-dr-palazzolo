@@ -2,7 +2,7 @@
 title: "Les essentiels des TCC"
 date: 2023-08-23
 slug: les_essentiels_des_tcc
-tags:
+categories:
   - tcc
   - francais
 type: book

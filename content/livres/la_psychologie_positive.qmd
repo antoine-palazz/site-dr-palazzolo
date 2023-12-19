@@ -2,7 +2,7 @@
 title: "La psychologie positive"
 date: 2020-09-23
 slug: la_psychologie_positive
-tags:
+categories:
   - psychologie_positive
   - francais
 type: book

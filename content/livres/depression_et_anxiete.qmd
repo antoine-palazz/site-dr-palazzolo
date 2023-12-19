@@ -2,7 +2,7 @@
 title: "Dépression et anxiété"
 date: 2008-01-09
 slug: depression_et_anxiete
-tags:
+categories:
   - depression
   - anxiete
   - francais

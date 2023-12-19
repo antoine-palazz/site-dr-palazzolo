@@ -2,7 +2,7 @@
 title: "Sida et séropositivité"
 date: 2010-07-16
 slug: sida_et_seropositivite
-tags:
+categories:
   - sida
   - francais
 type: book

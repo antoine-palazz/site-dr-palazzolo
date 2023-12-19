@@ -2,7 +2,7 @@
 title: "Les psychoses"
 date: 2005-10-01
 slug: les_psychoses
-tags:
+categories:
   - psychose
   - francais
 type: book

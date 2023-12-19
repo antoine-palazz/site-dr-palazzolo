@@ -2,7 +2,7 @@
 title: "Vaincre l'anxiété sans médicaments"
 date: 2017-03-21
 slug: vaincre_l_anxiete_sans_medoc
-tags:
+categories:
   - anxiete
   - francais
 type: book

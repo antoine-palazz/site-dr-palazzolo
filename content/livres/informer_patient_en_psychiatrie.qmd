@@ -2,7 +2,7 @@
 title: "Informer le patient en psychiatrie"
 date: 2003-08-19
 slug: informer_patient_en_psychiatrie
-tags:
+categories:
   - psychiatrie
   - francais
 type: book

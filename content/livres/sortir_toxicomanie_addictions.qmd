@@ -2,7 +2,7 @@
 title: "Aidez vos proches à sortir de la toxicomanie et des addictions"
 date: 2012-06-07
 slug: sortir_toxicomanie_addictions
-tags:
+categories:
   - addiction
   - toxicomanie
   - francais
