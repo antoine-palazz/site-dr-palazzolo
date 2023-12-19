@@ -42,7 +42,7 @@ jobs:
   pages:
     name: Render-Blog
     runs-on: ubuntu-latest
-    container: antoine-palazz/site-dr-palazzolo:latest
+    # container: antoine-palazz/site-dr-palazzolo:latest
     # needs: docker
     if: ${{ !github.event.pull_request.head.repo.fork }}
     steps:
