@@ -38,7 +38,7 @@ Pour prendre rendez-vous, appeler le 06 61 02 95 08.
 :::::
 
 ::::: {.g-col-lg-6 .g-col-12 .g-col-md-12}
-![](./photo_profil.jpg)
+![](img/photo_profil.jpg)
 :::::
 
 ::::

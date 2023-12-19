@@ -1,0 +1,16 @@
+pynsee
+xlrd
+contextily
+graphviz
+plotnine
+geoplot
+kaleido
+yellowbrick
+wordcloud
+pywaffle
+scikit-image
+webdriver-manager
+spacy
+gensim
+duckdb
+black
