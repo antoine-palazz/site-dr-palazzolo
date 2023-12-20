@@ -11,6 +11,7 @@ image: ../../img/coachez_votre_vie.jpg
 
 Comment donner à sa vie toutes ses chances de réussite ? Comment exprimer tout son potentiel dans sa vie quotidienne et professionnelle ?
 Un psychothérapeute et un coach sportif de haut niveau associent leur savoir-faire et nous expliquent, exercices et témoignages à l'appui, comment :
+
 - définir un objectif,
 - trouver la motivation,
 - mobiliser ses ressources,
