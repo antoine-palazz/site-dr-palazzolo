@@ -1,7 +1,7 @@
 ---
 title: "Communications orales au sein de congrès scientifiques nationaux"
 date: 2023-12-25
-slug: communications_congres_nationaux 
+# slug: communications_congres_nationaux 
 type: book
 image: ../../../../img/photo_linkedin.jpg
 ---

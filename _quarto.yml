@@ -91,7 +91,7 @@ project:
     - content/publications_communications/interviews.qmd
 
     - content/autres_activites/index.qmd
-    - content/autres_activites/autres_activites_encadrement_recherche.qmd
+    - content/autres_activites/encadrement_recherche.qmd
     - content/autres_activites/autre.qmd
 
 website:
@@ -133,6 +133,7 @@ website:
       Code source disponible sur [`Github`](https://github.com/antoine-palazz/site-dr-palazzolo)
     right: |
       Site construit avec {{< fa brands python >}} et [`Quarto`](https://quarto.org/)<br>
+      Par [Antoine Palazzolo](https://www.linkedin.com/in/antoine-palazzolo/)<br>
       Inspiration pour la mise en forme du site [ici](https://pythonds.linogaliana.fr/)<br>
 
   sidebar: 
@@ -176,7 +177,7 @@ website:
       #collapse-level: 2
       contents:
         - content/autres_activites/index.qmd
-        - content/autres_activites/autres_activites_encadrement_recherche.qmd
+        - content/autres_activites/encadrement_recherche.qmd
         - content/autres_activites/autre.qmd
 
 filters:
@@ -201,7 +202,7 @@ crossref:
   chapters: true
 
 format-links: false
-author: Antoine Palazzolo
+author: Jérôme Palazzolo
 page-layout: article
 title-block-banner: "#e9f3fa"
 

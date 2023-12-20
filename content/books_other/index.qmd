@@ -1,7 +1,7 @@
 ---
 title: "Dr Palazzolo's books"
 date: 2023-12-25
-slug: books_other_dr_palazzolo
+# slug: books_other_dr_palazzolo
 type: book
 image: ../../img/photo_linkedin.jpg
 ---
