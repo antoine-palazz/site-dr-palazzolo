@@ -5,9 +5,11 @@ title-block-style: none
 css: homepage.css
 listing:
     id: sample-listings
-    contents: content/**/*.qmd
+    contents: content/livres_fr/*.qmd
     type: grid
-    sort: "number"
+    sort: date desc
+    sort-ui: [title, date]
+    filter-ui: [title, date]
     categories: true
     #fields: [image, title, github, gitlab]
     #template: cards.ejs
@@ -61,7 +63,7 @@ Retrouvez le Dr Palazzolo sur :
 
 ## Livres {.unnumbered}
 
-Pour naviguer parmi les ouvrages du Dr Palazzolo :
+Pour naviguer parmi les ouvrages en français du Dr Palazzolo :
 
 ::: {#sample-listings}
 :::
@@ -73,7 +75,7 @@ import os
 import glob
 import yaml
 
-list_files = glob.glob("./content/livres_fr/*.qmd", recursive=True) + glob.glob("./content/books_other/*.qmd", recursive=True)
+list_files = glob.glob("./content/livres_fr/*.qmd", recursive=True)
 posts = [l for l in list_files if l.endswith('.qmd') ]
 
 def extract_slug_from_markdown(file_path):
