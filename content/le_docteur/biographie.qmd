@@ -1,0 +1,9 @@
+---
+title: "Biographie"
+date: 2023-12-25
+slug: biographie  
+type: book
+image: ../../../../img/photo_linkedin.jpg
+---
+
+A compléter :)

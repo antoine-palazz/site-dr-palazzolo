@@ -1,0 +1,15 @@
+---
+title: "Accueil"
+date: 2023-12-25
+slug: publications_communications
+type: book
+image: ../../img/photo_linkedin.jpg
+---
+
+L'ensemble des autres publications et communications du Dr Palazzolo
+
+<br>
+
+![_Le Docteur Palazzolo_](../../img/photo_linkedin.jpg)
+
+```

@@ -47,7 +47,19 @@ Pour prendre rendez-vous, appeler le 06 61 02 95 08.
 
 <br>
 
-## Thèmes en vrac {.unnumbered}
+## Réseaux
+
+Retrouvez le Dr Palazzolo sur :
+
+- [Facebook](https://www.facebook.com/DrPalazzolo/)
+- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)
+- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)
+- [Instagram](https://www.instagram.com/palazz06/?)
+- [X](https://twitter.com/palazz06)
+
+<br>
+
+## Livres {.unnumbered}
 
 Pour naviguer parmi les ouvrages du Dr Palazzolo :
 
@@ -61,7 +73,7 @@ import os
 import glob
 import yaml
 
-list_files = glob.glob("./content/**/*.qmd", recursive=True)
+list_files = glob.glob("./content/livres_fr/*.qmd", recursive=True) + glob.glob("./content/books_other/*.qmd", recursive=True)
 posts = [l for l in list_files if l.endswith('.qmd') ]
 
 def extract_slug_from_markdown(file_path):
