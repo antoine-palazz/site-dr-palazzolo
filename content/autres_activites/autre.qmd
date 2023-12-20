@@ -1,9 +1,0 @@
----
-title: "Autre"
-date: 2023-12-25
-# slug: autre  
-type: book
-image: ../../../../img/photo_linkedin.jpg
----
-
-A compléter :)
