@@ -5,6 +5,8 @@ gensim
 geoplot
 graphviz
 kaleido
+jupyter
+nbclient
 nbformat
 plotnine
 pynsee

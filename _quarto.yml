@@ -90,9 +90,9 @@ project:
     - content/publications_communications/posters_congres.qmd
     - content/publications_communications/interviews.qmd
 
-    - content/index.qmd
-    - content/autres_activites_encadrement_recherche.qmd
-    - content/autre.qmd
+    - content/autres_activites/index.qmd
+    - content/autres_activites/autres_activites_encadrement_recherche.qmd
+    - content/autres_activites/autre.qmd
 
 website:
   title: "Dr Jérôme Palazzolo"
@@ -105,8 +105,13 @@ website:
     left:
       - file: index.qmd
         text: Home
-      - sidebar:livres_fr
-      - sidebar:books_other
+      - sidebar:le_docteur
+      - file: content/livres_fr/index.qmd
+        text: Livres (fr)
+      - file: content/books_other/index.qmd
+        text: Books (other)
+      - sidebar:publications_communications
+      - sidebar:autres_activites
     tools:
       - icon: github
         menu:
@@ -170,9 +175,9 @@ website:
       title: "Autres activités"
       #collapse-level: 2
       contents:
-        - content/index.qmd
-        - content/autres_activites_encadrement_recherche.qmd
-        - content/autre.qmd
+        - content/autres_activites/index.qmd
+        - content/autres_activites/autres_activites_encadrement_recherche.qmd
+        - content/autres_activites/autre.qmd
 
 filters:
   - lightbox
