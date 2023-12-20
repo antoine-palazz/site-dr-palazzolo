@@ -65,5 +65,13 @@
       "/content/livres_fr/chambre_isolement_contention.html",
       "/content/livres_fr/isolement_contention_contrainte.html"
     ]
+  },
+  {
+    "listing": "/content/livres_fr/index.html",
+    "items": []
+  },
+  {
+    "listing": "/content/books_other/index.html",
+    "items": []
   }
 ]
