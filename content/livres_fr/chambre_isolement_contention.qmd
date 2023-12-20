@@ -1,0 +1,26 @@
+---
+title: "Chambre d'isolement et contention en psychiatrie"
+date: 2002-05-01
+slug: chambre_isolement_contention
+categories:
+  - isolement
+  - contention
+  
+type: book
+image: ../../img/chambre_isolement_contention.jpg
+---
+
+L’histoire de la psychiatrie a marqué l’inconscient collectif de représentations carcérales liées aux pratiques d’isolement et de contention physique des patients.
+Actuellement, ces pratiques ne constituent qu’un mode d’intervention dans la diversité des multiples prises en charge thérapeutiques.
+La littérature témoigne des différentes conditions d’application de ces procédures dans les unités d’hospitalisation, et nous renvoie aux questions éthiques posées en fonction du sens que peut donner le patient à leur utilisation.
+Trois séries de problèmes peuvent ainsi être repérées :
+- des problèmes éthiques, qui interrogent le respect des libertés individuelles, l’existence de contre-pouvoirs, le respect du rôle de chacun, la légitimité des procédures;
+- des problèmes cliniques, qui impliquent de poser l’indication à bon escient, d’accompagner l’isolement et/ou la contention ; il s’agit en fait de privilégier la relation thérapeutique, de réfléchir aux conséquences concernant les soignés comme les soignants. Un patient psychotique est un patient atteint d’une maladie chronique, qui rechute souvent. Pourquoi demanderait-il à être hospitalisé, alors qu’il sait qu’il va être enfermé dans une cellule ? La qualité de l’alliance thérapeutique est un point à ne pas négliger;
+- des problèmes pratiques, liés aux éléments de surveillance, aux procédures à mettre en place, à la gestion de la violence.
+De la notion de traitement moral à celle d’isolement thérapeutique -associé ou non à une contention- au sein d’une chambre vide de tout mobilier et close, la réflexion initiée par les équipes soignantes a largement contribué à l’évolution de la mise en œuvre de ce type de pratique.
+Le respect d’un cadre éthique passe par des positions personnelles qui s’enrichissent d’une réflexion institutionnelle sur le sens que peut avoir pour le patient chaque acte thérapeutique.
+Cette réflexion sur les pratiques professionnelles dépasse le choix du cadre conceptuel dans lequel chaque institution travaille, et se réfère à des choix plus intimes consistant à œuvrer pour le respect de la dignité de nos patients. 
+
+<br>
+
+![_Chambre d'isolement et contention en psychiatrie_](../../img/chambre_isolement_contention.jpg)

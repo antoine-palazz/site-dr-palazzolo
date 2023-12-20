@@ -1,0 +1,21 @@
+---
+title: "Réflexions psychologiques autour du vieillissement normal et pathologique"
+date: 2015-06-11
+slug: reflexions_vieillissement
+categories:
+  - vieillissement
+  
+type: book
+image: ../../img/reflexions_vieillissement.jpg
+---
+
+Le vieillissement croissant de la population et l'augmentation régulière de l'espérance de vie ont conduit les pouvoirs publics et les professionnels du soin à s'intéresser de près à la santé mentale des personnes âgées, ainsi qu'à l'optimisation de la prise en charge spécifique de ces dernières.
+En effet, la présence éventuelle d'une maladie chronique joue un rôle majeur dans la qualité de vie du sénior.
+Il existe une importante variabilité interindividuelle pour ce qui concerne la réaction des individus face au vieillissement.
+Généralement, l'influence des facteurs génétiques diminue avec l'avancée en âge, et inversement l'importance des facteurs environnementaux augmente.
+Les facteurs psychologiques jouent un rôle particulier dans ce contexte.
+Notre but dans cet ouvrage collectif, écrit par les étudiants du Master 2 de psychologie clinique et gérontologique de l'Université de Nice – Sophia Antipolis, est de faire une synthèse objective de la question du vieillissement normal et pathologique, en abordant de manière didactique les différentes problématiques auxquelles se retrouvent confrontés le psychologue, le médecin, le patient, ses proches et l'ensemble des soignants.
+
+<br>
+
+![_Réflexions psychologiques autour du vieillissement normal et pathologique_](../../img/reflexions_vieillissement.jpg)

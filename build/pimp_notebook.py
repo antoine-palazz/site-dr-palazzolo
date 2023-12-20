@@ -141,5 +141,5 @@ if __name__ == '__main__':
     list_files = [l for l in lines if l.endswith('.qmd')]
 
     for fl in list_files:
-        if not fl.endswith("_index.md"):
+        if not fl.endswith("_index.qmd"):
             change_box_markdown(fl)

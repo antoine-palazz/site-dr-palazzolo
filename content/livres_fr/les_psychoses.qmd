@@ -1,0 +1,20 @@
+---
+title: "Les psychoses"
+date: 2005-10-01
+slug: les_psychoses
+categories:
+  - psychose
+  
+type: book
+image: ../../img/les_psychoses.jpg
+---
+
+De jeunes psychiatres ont fondé le club Avenir Psy, centré sur une volonté commune d'échange et de partage des connaissances en psychiatrie.
+L'ouvrage que le club Avenir Psy nous propose fait le point sur l'actualité des psychoses, du dépistage précoce aux thérapies psychoéducatives.
+Sont également présentés : l'annonce du diagnostic, les situations d'urgence, les troubles cognitifs et émotionnels, le sommeil, l'addiction et l'utilisation de substances psychoactives.
+Ce sujet d'actualité, largement débattu et encore objet de controverses multiples, est aujourd'hui au centre des préoccupations dans le domaine médical.
+La diversité des axes de recherche justifie le présent ouvrage, fruit de la réflexion de praticiens d'orientation complémentaire.
+
+<br>
+
+![_Les psychoses : données actuelles et perspectives_](../../img/les_psychoses.jpg)

@@ -1,0 +1,19 @@
+---
+title: "Trois approches du soin psychique en dialogue : TCC, EMDR et Psychanalyse"
+date: 2016-12-02
+slug: 3_approches_du_soin_psychique
+categories:
+  - tcc
+  - emdr
+  - psychanalyse
+
+type: book
+image: ../../img/3_approches_du_soin_psychique.jpg
+---
+
+Là où la plupart des spécialistes se confondent en débats contradictoires ou indécidables et refusent de reconnaître une quelconque légitimité à tout modèle qui n’est pas le leur, les auteurs de cet ouvrage ont choisi le dialogue, l’ouverture, la confrontation des idées et le débat constructif et intelligible.
+Trois représentants d'approches thérapeutiques peu souvent associées (TCC, EMDR, Psychanalyse) ont choisi de confronter leurs pratiques en prenant soin de rester compréhensibles par le lecteur, lui permettant ainsi de mieux apprécier ce qui différencie mais également ce qui rapproche ces dispositifs de soin par la parole.
+
+<br>
+
+![_Trois approches du soin psychique en dialogue : TCC, EMDR et Psychanalyse_](../../img/3_approches_du_soin_psychique.jpg)

@@ -1,0 +1,23 @@
+---
+title: "لا للقلق"
+date: 2020-01-01
+slug: لا للقلق
+categories:
+  - anxiete
+type: book
+image: ../../img/لا للقلق.jpg
+---
+
+## En arabe
+
+يقدم هذا الكتاب العملي طرقاً بسيطة ودائمة للتغلب على القلق بعيدًا عن استخدام الأدوية، ويمكن التعرف على الأعراض الجسدية والسلوكية التي ينبغي تحديدها بهدف القيام بالتشخيص المناسب، واختبارات لتقييم درجة قلقك، و أسباب القلق المتنوعة، مع عرض العديد من الإفادات، وجميع الحلول التي يمكن تطبيقها بسـهولة: كالاسترخاء والتنفس والتغذية والتمارين البدنية والطب البديل وكذلك العلاجات المكملة (mindfulness والتركيز الكامل للذهن والتنويم المغناطيسي والتقنيات الإدراكية- السلوكية)
+
+## En français
+
+Ce livre pratique propose des méthodes simples et durables pour surmonter l'anxiété sans recourir à l'utilisation de médicaments.
+Il permet d'identifier les symptômes physiques et comportementaux nécessaires pour un diagnostic approprié, ainsi que des tests pour évaluer votre niveau d'anxiété et les diverses causes de l'anxiété.
+Il présente de nombreux témoignages ainsi que toutes les solutions facilement applicables telles que la relaxation, la respiration, la nutrition, l'exercice physique, la médecine alternative, aussi bien que des traitements complémentaires tels que la pleine conscience, la concentration mentale, l'hypnose et les techniques cognitivo-comportementales.
+
+<br>
+
+![_لا للقلق (Non à l'anxiété)_](../../img/لا للقلق.jpg)

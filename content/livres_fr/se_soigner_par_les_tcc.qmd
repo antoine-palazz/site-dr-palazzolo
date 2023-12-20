@@ -1,0 +1,23 @@
+---
+title: "Se soigner par les TCC"
+date: 2023-10-24
+slug: se_soigner_par_les_tcc
+categories:
+  - tcc
+  
+type: book
+image: ../../img/se_soigner_par_les_tcc.jpg
+---
+
+Les thérapies cognitives et comportementales (TCC) se sont imposées ces dernières décennies comme le traitement de référence de nombreuses affections.
+Phobie, trouble panique, boulimie, dépression, phobie sociale, baisse du désir sexuel sont autant de pathologies pour lesquelles les TCC ont démontré leur efficacité.
+Mais comment est-il possible de guérir à la fois rapidement et efficacement ?
+C'est justement ce que Jérôme Palazzolo démontre avec beaucoup de pédagogie dans cet ouvrage.
+S'appuyant sur de nombreux cas concrets, il décrit séance par séance, tout le cheminement du travail thérapeutique en partant de l'établissement du diagnostic jusqu'à l'atteinte des objectifs fixés avec le patient.
+Nous suivons ainsi pas à pas l'accompagnement d'Yves et de ses troubles paniques, de Nora et de sa phobie des araignées, d'Audrey et de ses problèmes de couple, de Jean-Marie et de sa dépression ou encore de Nathalie et de ses problèmes de poids.
+Avec ce livre, Jérôme Palazzolo s'est fixé un défi : celui de proposer au lecteur un manuel pratique, accessible et didactique.
+Et ce défi est brillamment réussi !
+
+<br>
+
+![_Se soigner par les TCC_](../../img/se_soigner_par_les_tcc.jpg)

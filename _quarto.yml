@@ -2,75 +2,78 @@ project:
   type: website
   render:
     - index.qmd
-    - content/livres/index.qmd
-    - content/livres/3_approches_du_soin_psychique.qmd
-    - content/livres/apprendre_a_gerer_son_stress.qmd
-    - content/livres/au_dela_des_mots.qmd
-    - content/livres/cannabis_du_plaisir_au_risque.qmd
-    - content/livres/cas_cliniques_en_tcc_1.qmd
-    - content/livres/cas_cliniques_en_tcc_2.qmd
-    - content/livres/cas_cliniques_en_tcc_3.qmd
-    - content/livres/chambre_isolement_contention.qmd
-    - content/livres/coachez_votre_vie.qmd
-    - content/livres/communication_observance_psy.qmd
-    - content/livres/controle_et_gestion_du_stress.qmd
-    - content/livres/defeat_insomnia.qmd
-    - content/livres/depression_et_anxiete.qmd
-    - content/livres/dire_pour_vivre.qmd
-    - content/livres/dynamique_equipe_soignante.qmd
-    - content/livres/ecarts_de_conduite.qmd
-    - content/livres/en_finir_avec_l_insomnie.qmd
-    - content/livres/epreuve_maladie_organique.qmd
-    - content/livres/gerer_les_conflits.qmd
-    - content/livres/gestion_stress_aquaphobie_tcc.qmd
-    - content/livres/guerir_vite.qmd
-    - content/livres/guide_urgence_psychiatrique.qmd
-    - content/livres/homosexualite_en_afrique.qmd
-    - content/livres/information_du_patient.qmd
-    - content/livres/informer_patient_en_psychiatrie.qmd
-    - content/livres/institution_psychiatrique.qmd
-    - content/livres/invinga_dependenta_de_alcool.qmd
-    - content/livres/isolement_contention_contrainte.qmd
-    - content/livres/je_me_libere_de_mes_phobies.qmd
-    - content/livres/je_triomphe_de_l_insomnie.qmd
-    - content/livres/la_psychologie_positive.qmd
-    - content/livres/le_cannabis_en_question.qmd
-    - content/livres/les_essentiels_des_tcc.qmd
-    - content/livres/les_exclus_de_la_cite.qmd
-    - content/livres/les_psychoses.qmd
-    - content/livres/les_tcc_1.qmd
-    - content/livres/les_tcc_2.qmd
-    - content/livres/les_tcc_du_sujet_age.qmd
-    - content/livres/les_tcc_manuel_pratique.qmd
-    - content/livres/les_therapies_breves.qmd
-    - content/livres/les_troubles_de_la_personnalite.qmd
-    - content/livres/ma_bible_des_tcc.qmd
-    - content/livres/mots_corps_maux_ame.qmd
-    - content/livres/nespavost_zbavte_se_ji_navzdy.qmd
-    - content/livres/observance_medicamenteuse.qmd
-    - content/livres/petit_precis_psychologie_positive.qmd
-    - content/livres/petite_histoire_masturbation.qmd
-    - content/livres/psychotherapies_du_sujet_age.qmd
-    - content/livres/reflexions_vieillissement.qmd
-    - content/livres/risques_et_plongee.qmd
-    - content/livres/sante_mentale_neurologique.qmd
-    - content/livres/schizophrenie_diagnostic.qmd
-    - content/livres/se_soigner_par_les_tcc.qmd
-    - content/livres/sida_et_seropositivite.qmd
-    - content/livres/sleep_better.qmd
-    - content/livres/sortir_toxicomanie_addictions.qmd
-    - content/livres/stop_a_l_anxiete_sans_medoc.qmd
-    - content/livres/stop_a_l_anxiete.qmd
-    - content/livres/strategies_fast_recovery.qmd
-    - content/livres/sur_le_fil_du_rasoir.qmd
-    - content/livres/surmonter_l_alcoolisme.qmd
-    - content/livres/surmonter_la_depression_1.qmd
-    - content/livres/surmonter_la_depression_2.qmd
-    - content/livres/tabagisme_plaisir_dependance.qmd
-    - content/livres/vaincre_l_anxiete_sans_medoc.qmd
-    - content/livres/vieillissement_bipolaire_schizo.qmd
-    - content/livres/words_of_pain.qmd
-    - content/livres/لا للقلق.qmd
+
+    - content/books_other/index.qmd
+    - content/books_other/defeat_insomnia.qmd
+    - content/books_other/invinga_dependenta_de_alcool.qmd
+    - content/books_other/nespavost_zbavte_se_ji_navzdy.qmd
+    - content/books_other/sleep_better.qmd
+    - content/books_other/strategies_fast_recovery.qmd
+    - content/books_other/words_of_pain.qmd
+    - content/books_other/لا للقلق.qmd
+
+    - content/livres_fr/index.qmd
+    - content/livres_fr/3_approches_du_soin_psychique.qmd
+    - content/livres_fr/apprendre_a_gerer_son_stress.qmd
+    - content/livres_fr/au_dela_des_mots.qmd
+    - content/livres_fr/cannabis_du_plaisir_au_risque.qmd
+    - content/livres_fr/cas_cliniques_en_tcc_1.qmd
+    - content/livres_fr/cas_cliniques_en_tcc_2.qmd
+    - content/livres_fr/cas_cliniques_en_tcc_3.qmd
+    - content/livres_fr/chambre_isolement_contention.qmd
+    - content/livres_fr/coachez_votre_vie.qmd
+    - content/livres_fr/communication_observance_psy.qmd
+    - content/livres_fr/controle_et_gestion_du_stress.qmd
+    - content/livres_fr/depression_et_anxiete.qmd
+    - content/livres_fr/dire_pour_vivre.qmd
+    - content/livres_fr/dynamique_equipe_soignante.qmd
+    - content/livres_fr/ecarts_de_conduite.qmd
+    - content/livres_fr/en_finir_avec_l_insomnie.qmd
+    - content/livres_fr/epreuve_maladie_organique.qmd
+    - content/livres_fr/gerer_les_conflits.qmd
+    - content/livres_fr/gestion_stress_aquaphobie_tcc.qmd
+    - content/livres_fr/guerir_vite.qmd
+    - content/livres_fr/guide_urgence_psychiatrique.qmd
+    - content/livres_fr/homosexualite_en_afrique.qmd
+    - content/livres_fr/information_du_patient.qmd
+    - content/livres_fr/informer_patient_en_psychiatrie.qmd
+    - content/livres_fr/institution_psychiatrique.qmd
+    - content/livres_fr/isolement_contention_contrainte.qmd
+    - content/livres_fr/je_me_libere_de_mes_phobies.qmd
+    - content/livres_fr/je_triomphe_de_l_insomnie.qmd
+    - content/livres_fr/la_psychologie_positive.qmd
+    - content/livres_fr/le_cannabis_en_question.qmd
+    - content/livres_fr/les_essentiels_des_tcc.qmd
+    - content/livres_fr/les_exclus_de_la_cite.qmd
+    - content/livres_fr/les_psychoses.qmd
+    - content/livres_fr/les_tcc_1.qmd
+    - content/livres_fr/les_tcc_2.qmd
+    - content/livres_fr/les_tcc_du_sujet_age.qmd
+    - content/livres_fr/les_tcc_manuel_pratique.qmd
+    - content/livres_fr/les_therapies_breves.qmd
+    - content/livres_fr/les_troubles_de_la_personnalite.qmd
+    - content/livres_fr/ma_bible_des_tcc.qmd
+    - content/livres_fr/mots_corps_maux_ame.qmd
+    - content/livres_fr/observance_medicamenteuse.qmd
+    - content/livres_fr/petit_precis_psychologie_positive.qmd
+    - content/livres_fr/petite_histoire_masturbation.qmd
+    - content/livres_fr/psychotherapies_du_sujet_age.qmd
+    - content/livres_fr/reflexions_vieillissement.qmd
+    - content/livres_fr/risques_et_plongee.qmd
+    - content/livres_fr/sante_mentale_neurologique.qmd
+    - content/livres_fr/schizophrenie_diagnostic.qmd
+    - content/livres_fr/se_soigner_par_les_tcc.qmd
+    - content/livres_fr/sida_et_seropositivite.qmd
+    - content/livres_fr/sortir_toxicomanie_addictions.qmd
+    - content/livres_fr/stop_a_l_anxiete_sans_medoc.qmd
+    - content/livres_fr/stop_a_l_anxiete.qmd
+    - content/livres_fr/sur_le_fil_du_rasoir.qmd
+    - content/livres_fr/surmonter_l_alcoolisme.qmd
+    - content/livres_fr/surmonter_la_depression_1.qmd
+    - content/livres_fr/surmonter_la_depression_2.qmd
+    - content/livres_fr/tabagisme_plaisir_dependance.qmd
+    - content/livres_fr/vaincre_l_anxiete_sans_medoc.qmd
+    - content/livres_fr/vieillissement_bipolaire_schizo.qmd
 
 website:
   title: "Dr Jérôme Palazzolo"
@@ -83,7 +86,8 @@ website:
     left:
       - file: index.qmd
         text: Home
-      - sidebar:livres
+      - sidebar:livres_fr
+      - sidebar:books_other
     tools:
       - icon: github
         menu:
@@ -111,78 +115,84 @@ website:
     - id: home
       title: "Homepage"
       href: index.qmd
-    - id: livres
-      title: "Livres"
+    - id: livres_fr
+      title: "Livres (fr)"
       #collapse-level: 2
       contents:
-        - content/livres/3_approches_du_soin_psychique.qmd
-        - content/livres/apprendre_a_gerer_son_stress.qmd
-        - content/livres/au_dela_des_mots.qmd
-        - content/livres/cannabis_du_plaisir_au_risque.qmd
-        - content/livres/cas_cliniques_en_tcc_1.qmd
-        - content/livres/cas_cliniques_en_tcc_2.qmd
-        - content/livres/cas_cliniques_en_tcc_3.qmd
-        - content/livres/chambre_isolement_contention.qmd
-        - content/livres/coachez_votre_vie.qmd
-        - content/livres/communication_observance_psy.qmd
-        - content/livres/controle_et_gestion_du_stress.qmd
-        - content/livres/defeat_insomnia.qmd
-        - content/livres/depression_et_anxiete.qmd
-        - content/livres/dire_pour_vivre.qmd
-        - content/livres/dynamique_equipe_soignante.qmd
-        - content/livres/ecarts_de_conduite.qmd
-        - content/livres/en_finir_avec_l_insomnie.qmd
-        - content/livres/epreuve_maladie_organique.qmd
-        - content/livres/gerer_les_conflits.qmd
-        - content/livres/gestion_stress_aquaphobie_tcc.qmd
-        - content/livres/guerir_vite.qmd
-        - content/livres/guide_urgence_psychiatrique.qmd
-        - content/livres/homosexualite_en_afrique.qmd
-        - content/livres/information_du_patient.qmd
-        - content/livres/informer_patient_en_psychiatrie.qmd
-        - content/livres/institution_psychiatrique.qmd
-        - content/livres/invinga_dependenta_de_alcool.qmd
-        - content/livres/isolement_contention_contrainte.qmd
-        - content/livres/je_me_libere_de_mes_phobies.qmd
-        - content/livres/je_triomphe_de_l_insomnie.qmd
-        - content/livres/la_psychologie_positive.qmd
-        - content/livres/le_cannabis_en_question.qmd
-        - content/livres/les_essentiels_des_tcc.qmd
-        - content/livres/les_exclus_de_la_cite.qmd
-        - content/livres/les_psychoses.qmd
-        - content/livres/les_tcc_1.qmd
-        - content/livres/les_tcc_2.qmd
-        - content/livres/les_tcc_du_sujet_age.qmd
-        - content/livres/les_tcc_manuel_pratique.qmd
-        - content/livres/les_therapies_breves.qmd
-        - content/livres/les_troubles_de_la_personnalite.qmd
-        - content/livres/ma_bible_des_tcc.qmd
-        - content/livres/mots_corps_maux_ame.qmd
-        - content/livres/nespavost_zbavte_se_ji_navzdy.qmd
-        - content/livres/observance_medicamenteuse.qmd
-        - content/livres/petit_precis_psychologie_positive.qmd
-        - content/livres/petite_histoire_masturbation.qmd
-        - content/livres/psychotherapies_du_sujet_age.qmd
-        - content/livres/reflexions_vieillissement.qmd
-        - content/livres/risques_et_plongee.qmd
-        - content/livres/sante_mentale_neurologique.qmd
-        - content/livres/schizophrenie_diagnostic.qmd
-        - content/livres/se_soigner_par_les_tcc.qmd
-        - content/livres/sida_et_seropositivite.qmd
-        - content/livres/sleep_better.qmd
-        - content/livres/sortir_toxicomanie_addictions.qmd
-        - content/livres/stop_a_l_anxiete_sans_medoc.qmd
-        - content/livres/stop_a_l_anxiete.qmd
-        - content/livres/strategies_fast_recovery.qmd
-        - content/livres/sur_le_fil_du_rasoir.qmd
-        - content/livres/surmonter_l_alcoolisme.qmd
-        - content/livres/surmonter_la_depression_1.qmd
-        - content/livres/surmonter_la_depression_2.qmd
-        - content/livres/tabagisme_plaisir_dependance.qmd
-        - content/livres/vaincre_l_anxiete_sans_medoc.qmd
-        - content/livres/vieillissement_bipolaire_schizo.qmd
-        - content/livres/words_of_pain.qmd
-        - content/livres/لا للقلق.qmd
+        - content/livres_fr/index.qmd
+        - content/livres_fr/3_approches_du_soin_psychique.qmd
+        - content/livres_fr/apprendre_a_gerer_son_stress.qmd
+        - content/livres_fr/au_dela_des_mots.qmd
+        - content/livres_fr/cannabis_du_plaisir_au_risque.qmd
+        - content/livres_fr/cas_cliniques_en_tcc_1.qmd
+        - content/livres_fr/cas_cliniques_en_tcc_2.qmd
+        - content/livres_fr/cas_cliniques_en_tcc_3.qmd
+        - content/livres_fr/chambre_isolement_contention.qmd
+        - content/livres_fr/coachez_votre_vie.qmd
+        - content/livres_fr/communication_observance_psy.qmd
+        - content/livres_fr/controle_et_gestion_du_stress.qmd
+        - content/livres_fr/depression_et_anxiete.qmd
+        - content/livres_fr/dire_pour_vivre.qmd
+        - content/livres_fr/dynamique_equipe_soignante.qmd
+        - content/livres_fr/ecarts_de_conduite.qmd
+        - content/livres_fr/en_finir_avec_l_insomnie.qmd
+        - content/livres_fr/epreuve_maladie_organique.qmd
+        - content/livres_fr/gerer_les_conflits.qmd
+        - content/livres_fr/gestion_stress_aquaphobie_tcc.qmd
+        - content/livres_fr/guerir_vite.qmd
+        - content/livres_fr/guide_urgence_psychiatrique.qmd
+        - content/livres_fr/homosexualite_en_afrique.qmd
+        - content/livres_fr/information_du_patient.qmd
+        - content/livres_fr/informer_patient_en_psychiatrie.qmd
+        - content/livres_fr/institution_psychiatrique.qmd
+        - content/livres_fr/isolement_contention_contrainte.qmd
+        - content/livres_fr/je_me_libere_de_mes_phobies.qmd
+        - content/livres_fr/je_triomphe_de_l_insomnie.qmd
+        - content/livres_fr/la_psychologie_positive.qmd
+        - content/livres_fr/le_cannabis_en_question.qmd
+        - content/livres_fr/les_essentiels_des_tcc.qmd
+        - content/livres_fr/les_exclus_de_la_cite.qmd
+        - content/livres_fr/les_psychoses.qmd
+        - content/livres_fr/les_tcc_1.qmd
+        - content/livres_fr/les_tcc_2.qmd
+        - content/livres_fr/les_tcc_du_sujet_age.qmd
+        - content/livres_fr/les_tcc_manuel_pratique.qmd
+        - content/livres_fr/les_therapies_breves.qmd
+        - content/livres_fr/les_troubles_de_la_personnalite.qmd
+        - content/livres_fr/ma_bible_des_tcc.qmd
+        - content/livres_fr/mots_corps_maux_ame.qmd
+        - content/livres_fr/observance_medicamenteuse.qmd
+        - content/livres_fr/petit_precis_psychologie_positive.qmd
+        - content/livres_fr/petite_histoire_masturbation.qmd
+        - content/livres_fr/psychotherapies_du_sujet_age.qmd
+        - content/livres_fr/reflexions_vieillissement.qmd
+        - content/livres_fr/risques_et_plongee.qmd
+        - content/livres_fr/sante_mentale_neurologique.qmd
+        - content/livres_fr/schizophrenie_diagnostic.qmd
+        - content/livres_fr/se_soigner_par_les_tcc.qmd
+        - content/livres_fr/sida_et_seropositivite.qmd
+        - content/livres_fr/sortir_toxicomanie_addictions.qmd
+        - content/livres_fr/stop_a_l_anxiete_sans_medoc.qmd
+        - content/livres_fr/stop_a_l_anxiete.qmd
+        - content/livres_fr/sur_le_fil_du_rasoir.qmd
+        - content/livres_fr/surmonter_l_alcoolisme.qmd
+        - content/livres_fr/surmonter_la_depression_1.qmd
+        - content/livres_fr/surmonter_la_depression_2.qmd
+        - content/livres_fr/tabagisme_plaisir_dependance.qmd
+        - content/livres_fr/vaincre_l_anxiete_sans_medoc.qmd
+        - content/livres_fr/vieillissement_bipolaire_schizo.qmd
+    - id: books_other
+      title: "Books (other)"
+      #collapse-level: 2
+      contents:
+        - content/books_other/index.qmd
+        - content/books_other/defeat_insomnia.qmd
+        - content/books_other/invinga_dependenta_de_alcool.qmd
+        - content/books_other/nespavost_zbavte_se_ji_navzdy.qmd
+        - content/books_other/sleep_better.qmd
+        - content/books_other/strategies_fast_recovery.qmd
+        - content/books_other/words_of_pain.qmd
+        - content/books_other/لا للقلق.qmd
 
 filters:
   - lightbox
