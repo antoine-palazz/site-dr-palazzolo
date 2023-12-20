@@ -1,7 +1,7 @@
 ---
 title: "Communications affichées au sein de congrès scientifiques"
 date: 2023-12-25
-# slug: posters_congres 
+slug: posters_congres 
 type: book
 image: ../../../../img/photo_linkedin.jpg
 ---

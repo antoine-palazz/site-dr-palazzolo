@@ -1,7 +1,7 @@
 ---
 title: "Articles publiés dans des revues indexées"
 date: 2023-12-25
-# slug: articles_revues_indexees  
+slug: articles_revues_indexees  
 type: book
 image: ../../../../img/photo_linkedin.jpg
 ---

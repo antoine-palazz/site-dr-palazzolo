@@ -1,7 +1,7 @@
 ---
 title: "Formation et expérience professionnelle"
 date: 2023-12-25
-# slug: cv  
+slug: cv  
 type: book
 image: ../../../../img/photo_linkedin.jpg
 ---

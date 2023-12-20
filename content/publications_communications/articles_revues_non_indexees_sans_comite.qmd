@@ -1,7 +1,7 @@
 ---
 title: "Articles publiés dans des revues non indexées sans comité de lecture"
 date: 2023-12-25
-# slug: articles_revues_non_indexees_sans_comite
+slug: articles_revues_non_indexees_sans_comite
 type: book
 image: ../../../../img/photo_linkedin.jpg
 ---

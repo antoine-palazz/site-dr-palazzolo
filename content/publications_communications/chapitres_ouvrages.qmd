@@ -1,7 +1,7 @@
 ---
 title: "Chapitres d'ouvrages"
 date: 2023-12-25
-# slug: chapitres_ouvrages  
+slug: chapitres_ouvrages  
 type: book
 image: ../../../../img/photo_linkedin.jpg
 ---
