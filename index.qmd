@@ -61,11 +61,11 @@ Toutes les informations pratiques pour les consultations au cabinet du docteur [
 
 Retrouvez le Dr Palazzolo sur :
 
-- [Facebook](https://www.facebook.com/DrPalazzolo/) {{< fa brands facebook >}}
-- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/){{< fa brands linkedin >}}
-- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw) {{< fa brands youtube >}}
-- [Instagram](https://www.instagram.com/palazz06/?) {{< fa brands instagram >}}
-- [X](https://twitter.com/palazz06) {{< fa brands twitter >}}
+- [Facebook](https://www.facebook.com/DrPalazzolo/)  {{< fa brands facebook >}}
+- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)  {{< fa brands linkedin >}}
+- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
+- [Instagram](https://www.instagram.com/palazz06/?)  {{< fa brands instagram >}}
+- [X](https://twitter.com/palazz06)  {{< fa brands twitter >}}
 
 <br>
 
