@@ -31,9 +31,17 @@ Site du Dr Jérôme Palazzolo
 
 <br>
 
-Ce site web recense l'ensemble des ouvrages réalisés par le Dr Jérôme Palazzolo.
+Ce site web recense l'ensemble des travaux réalisés par le Dr Jérôme Palazzolo.
 
-Pour prendre rendez-vous, appeler le 06 61 02 95 08.
+<br>
+
+Pour prendre rendez-vous, appeler le secrétariat téléphonique au 06 61 02 95 08.
+
+Ouvert du lundi au vendredi de 10h à 18h.
+
+<br>
+
+Toutes les informations pratiques pour les consultations au cabinet du docteur [ici](a-completer.com)
 
 <br>
 
@@ -53,11 +61,11 @@ Pour prendre rendez-vous, appeler le 06 61 02 95 08.
 
 Retrouvez le Dr Palazzolo sur :
 
-- [Facebook](https://www.facebook.com/DrPalazzolo/)
-- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)
-- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)
-- [Instagram](https://www.instagram.com/palazz06/?)
-- [X](https://twitter.com/palazz06)
+- [Facebook](https://www.facebook.com/DrPalazzolo/) {{< fa brands facebook >}}
+- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/){{< fa brands linkedin >}}
+- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw) {{< fa brands youtube >}}
+- [Instagram](https://www.instagram.com/palazz06/?) {{< fa brands instagram >}}
+- [X](https://twitter.com/palazz06) {{< fa brands twitter >}}
 
 <br>
 

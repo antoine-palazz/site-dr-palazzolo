@@ -5,6 +5,7 @@ project:
     - index.qmd
 
     - content/le_docteur/index.qmd
+    - content/le_docteur/consultations.qmd
     - content/le_docteur/biographie.qmd
     - content/le_docteur/cv.qmd
 
@@ -106,8 +107,10 @@ website:
       - file: index.qmd
         text: Home
       - sidebar:le_docteur
+      # - sidebar:livres_fr
       - file: content/livres_fr/index.qmd
         text: Livres (fr)
+      # - sidebar:books_other
       - file: content/books_other/index.qmd
         text: Books (other)
       - sidebar:publications_communications
@@ -147,6 +150,7 @@ website:
       #collapse-level: 2
       contents:
         - content/le_docteur/index.qmd
+        - content/le_docteur/consultations.qmd
         - content/le_docteur/biographie.qmd
         - content/le_docteur/cv.qmd
 
@@ -290,8 +294,9 @@ keep-ipynb: false
 citation:
   title: "Site du Dr Jérôme Palazzolo"
   type: book
-  url: https://docteurjeromepalazzolo.fr  # A modifier ?
+  language: fr
+  url: https://www.docteurjeromepalazzolo.fr  # A modifier ?
 
+appendix-cite-as: display
 google-scholar: true
-
 commentable: true

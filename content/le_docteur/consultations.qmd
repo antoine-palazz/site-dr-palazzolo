@@ -1,0 +1,9 @@
+---
+title: "Consultations"
+date: 2023-12-25
+slug: consultations
+type: book
+image: ../../../../img/photo_linkedin.jpg
+---
+
+A compléter avec les informations pratiques liées aux rendez-vous, tarifs, remboursement, adresse, etc.

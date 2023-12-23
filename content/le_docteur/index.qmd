@@ -14,11 +14,11 @@ Tout savoir sur le Docteur Palazzolo !
 
 Retrouvez le Dr Palazzolo sur :
 
-- [Facebook](https://www.facebook.com/DrPalazzolo/)
-- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)
-- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)
-- [Instagram](https://www.instagram.com/palazz06/?)
-- [X](https://twitter.com/palazz06)
+- [Facebook](https://www.facebook.com/DrPalazzolo/) {{< fa brands facebook >}}
+- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/){{< fa brands linkedin >}}
+- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw) {{< fa brands youtube >}}
+- [Instagram](https://www.instagram.com/palazz06/?) {{< fa brands instagram >}}
+- [X](https://twitter.com/palazz06) {{< fa brands twitter >}}
 
 <br>
 

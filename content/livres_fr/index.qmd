@@ -18,5 +18,5 @@ listing:
 
 Vous retrouverez ici l'ensemble des livres rédigés en français du Dr Palazzolo.
 
-::: {#sample-listings}
+::: {#sample-listings-fr}
 :::
