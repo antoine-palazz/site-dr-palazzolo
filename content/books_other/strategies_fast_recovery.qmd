@@ -4,6 +4,7 @@ date: 2010-11-12
 slug: strategies_fast_recovery
 categories:
   - tcc
+  - anglais
 type: book
 image: ../../img/strategies_fast_recovery.jpg
 ---

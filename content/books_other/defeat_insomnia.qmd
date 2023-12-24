@@ -4,6 +4,7 @@ date: 2014-08-05
 slug: defeat_insomnia
 categories:
   - insomnie
+  - anglais
 type: book
 image: ../../img/defeat_insomnia.jpg
 ---

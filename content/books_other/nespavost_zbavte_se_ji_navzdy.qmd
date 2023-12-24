@@ -4,6 +4,7 @@ date: 2007-01-01
 slug: nespavost_zbavte_se_ji_navzdy
 categories:
   - insomnie
+  - russe
 type: book
 image: ../../img/nespavost_zbavte_se_ji_navzdy.jpg
 ---

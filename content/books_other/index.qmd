@@ -6,7 +6,7 @@ type: book
 image: ../../img/photo_linkedin.jpg
 listing:
     id: sample-listings-other
-    contents: content/books_other/*.qmd
+    contents: ../books_other/*.qmd
     type: grid
     sort: date desc
     sort-ui: [title, date]

@@ -5,6 +5,7 @@ slug: invinga_dependenta_de_alcool
 categories:
   - addiction
   - alcool
+  - roumain
 type: book
 image: ../../img/invinga_dependenta_de_alcool.jpg
 ---

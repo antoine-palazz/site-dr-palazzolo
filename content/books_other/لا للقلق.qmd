@@ -4,6 +4,7 @@ date: 2020-01-01
 slug: لا للقلق
 categories:
   - anxiete
+  - arabe
 type: book
 image: ../../img/لا للقلق.jpg
 ---
