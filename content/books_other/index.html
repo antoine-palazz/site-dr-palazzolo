@@ -76,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
       
       searchColumns: ["listing-title","listing-date"],
     };
@@ -357,7 +357,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="addiction">addiction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="alcool">alcool <span class="quarto-category-count">(1)</span></div><div class="category" data-category="anglais">anglais <span class="quarto-category-count">(4)</span></div><div class="category" data-category="anxiete">anxiete <span class="quarto-category-count">(1)</span></div><div class="category" data-category="arabe">arabe <span class="quarto-category-count">(1)</span></div><div class="category" data-category="douleur">douleur <span class="quarto-category-count">(1)</span></div><div class="category" data-category="insomnie">insomnie <span class="quarto-category-count">(3)</span></div><div class="category" data-category="roumain">roumain <span class="quarto-category-count">(1)</span></div><div class="category" data-category="russe">russe <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tcc">tcc <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -375,13 +375,268 @@ ul.task-list li input[type="checkbox"] {
 <p>You can find here all the books from Dr Palazzolo that have been translated in other languages.</p>
 <div id="listing-sample-listings-other" class="quarto-listing quarto-listing-container-grid">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-sample-listings-other-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-sample-listings-other'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-
+<div class="g-col-1" data-index="0" data-categories="anxiete,arabe" data-listing-date-sort="1577836800000" data-listing-file-modified-sort="1703438486223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="../../content/books_other/لا للقلق.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../../img/لا للقلق.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+لا للقلق
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('anxiete'); return false;">
+anxiete
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('arabe'); return false;">
+arabe
+</div>
+</div>
+<div class="card-text listing-description">
+يقدم هذا الكتاب العملي طرقاً بسيطة ودائمة للتغلب على القلق بعيدًا عن استخدام الأدوية، ويمكن التعرف على الأعراض الجسدية والسلوكية التي ينبغي تحديدها بهدف القيام بالتشخيص…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jérôme Palazzolo
+</div>
+<div class="listing-date">
+Jan 1, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="douleur,anglais" data-listing-date-sort="1536796800000" data-listing-file-modified-sort="1703438486223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="../../content/books_other/words_of_pain.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../../img/words_of_pain.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Beyond the words of pain
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('douleur'); return false;">
+douleur
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('anglais'); return false;">
+anglais
+</div>
+</div>
+<div class="card-text listing-description">
+Throughout this book, the reader will discover testimonies of patients collected by Dr.&nbsp;Jerome Palazzolo, psychiatrist in Nice (France), in the context of an intra and extra…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jérôme Palazzolo
+</div>
+<div class="listing-date">
+Sep 13, 2018
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="insomnie,anglais" data-listing-date-sort="1440288000000" data-listing-file-modified-sort="1703438486223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="../../content/books_other/sleep_better.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../../img/sleep_better.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sleep better
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('insomnie'); return false;">
+insomnie
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('anglais'); return false;">
+anglais
+</div>
+</div>
+<div class="card-text listing-description">
+Sleep Better is a clear and comprehensive approach of a health trouble that so many people are suffering from.
+To defeat insomnia and to rejoin the Land of dreams means that…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jérôme Palazzolo
+</div>
+<div class="listing-date">
+Aug 23, 2015
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="insomnie,anglais" data-listing-date-sort="1407196800000" data-listing-file-modified-sort="1703438486223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
+<a href="../../content/books_other/defeat_insomnia.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../../img/defeat_insomnia.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Defeat Insomnia
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('insomnie'); return false;">
+insomnie
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('anglais'); return false;">
+anglais
+</div>
+</div>
+<div class="card-text listing-description">
+“Defeat Insomnia” is a clear and comprehensive approach to a health trouble from which many people suffer.
+To defeat insomnia and to rejoin the Land of Dreams means that we…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jérôme Palazzolo
+</div>
+<div class="listing-date">
+Aug 5, 2014
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="tcc,anglais" data-listing-date-sort="1289520000000" data-listing-file-modified-sort="1703438486223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="../../content/books_other/strategies_fast_recovery.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../../img/strategies_fast_recovery.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Strategies and methods for a fast recovery
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('tcc'); return false;">
+tcc
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('anglais'); return false;">
+anglais
+</div>
+</div>
+<div class="card-text listing-description">
+Cognitive-behavioral therapies (CBT) have the wind in one’s sails.
+We can’t watch any more TV forecast in the second part of evening without finding a talk about this…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jérôme Palazzolo
+</div>
+<div class="listing-date">
+Nov 12, 2010
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="addiction,alcool,roumain" data-listing-date-sort="1167609600000" data-listing-file-modified-sort="1703438486223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
+<a href="../../content/books_other/invinga_dependenta_de_alcool.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../../img/invinga_dependenta_de_alcool.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ajutati-i pe cei dragi sa-si invinga dependenta de alcool
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('addiction'); return false;">
+addiction
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('alcool'); return false;">
+alcool
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('roumain'); return false;">
+roumain
+</div>
+</div>
+<div class="card-text listing-description">
+Stresul si problemele cu care ne confruntam zilnic imping pe tot mai multi dintre noi in patima alcoolului.
+Granita dintre viciu si boala este una extrem de fragila.
+Aceasta…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jérôme Palazzolo
+</div>
+<div class="listing-date">
+Jan 1, 2007
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="insomnie,russe" data-listing-date-sort="1167609600000" data-listing-file-modified-sort="1703438486223" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<a href="../../content/books_other/nespavost_zbavte_se_ji_navzdy.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../../img/nespavost_zbavte_se_ji_navzdy.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Nespavost - zbavte se jí navždy!
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('insomnie'); return false;">
+insomnie
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('russe'); return false;">
+russe
+</div>
+</div>
+<div class="card-text listing-description">
+V knize přinášíme step by step program proti nespavosti.
+Jde o velmi praktickou příručku se cvičeními, dotazníky a shrnutími na konci každé…
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Jérôme Palazzolo
+</div>
+<div class="listing-date">
+Jan 1, 2007
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
