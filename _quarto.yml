@@ -93,7 +93,7 @@ project:
 
     - content/autres_activites/index.qmd
     - content/autres_activites/encadrement_recherche.qmd
-    - content/autres_activites/autre.qmd
+    # - content/autres_activites/autre.qmd
 
 website:
   title: "Dr Jérôme Palazzolo"
@@ -116,7 +116,7 @@ website:
       - file: content/books_other/index.qmd
         text: Books (other)
       - sidebar:publications_communications
-      - sidebar:autres_activites
+      # - sidebar:autres_activites
     tools:
       - icon: github
         menu:
@@ -237,7 +237,7 @@ website:
         - content/books_other/لا للقلق.qmd
 
     - id: publications_communications
-      title: "Publications & communications"
+      title: "Travaux"
       #collapse-level: 2
       contents:
         - content/publications_communications/index.qmd
@@ -251,7 +251,7 @@ website:
         - content/publications_communications/interviews.qmd
 
     - id: autres_activites
-      title: "Autres activités"
+      title: "Autres"
       #collapse-level: 2
       contents:
         - content/autres_activites/index.qmd
