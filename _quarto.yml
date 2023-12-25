@@ -107,6 +107,8 @@ website:
       - file: index.qmd
         text: Home
       - sidebar:le_docteur
+      - text: Interviews
+        href: https://www.facebook.com/media/set/?set=a.10150356662827691&type=3
       # - sidebar:livres_fr
       - file: content/livres_fr/index.qmd
         text: Livres (fr)
