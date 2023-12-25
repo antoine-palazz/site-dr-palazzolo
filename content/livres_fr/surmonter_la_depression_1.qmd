@@ -4,6 +4,8 @@ date: 2006-03-29
 slug: surmonter_la_depression_1
 categories:
   - depression
+  - tcc
+  - psychotherapie
   
 type: book
 image: ../../img/surmonter_la_depression_1.jpg

@@ -4,6 +4,8 @@ date: 2005-10-01
 slug: apprendre_a_gerer_son_stress
 categories:
   - anxiete
+  - stress
+  - tcc
 
 type: book
 image: ../../img/apprendre_a_gerer_son_stress.jpg

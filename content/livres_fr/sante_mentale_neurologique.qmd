@@ -3,7 +3,10 @@ title: "Conscience et représentation de la santé mentale et neurologique"
 date: 2011-12-15
 slug: sante_mentale_neurologique
 categories:
-  - psychiatrie
+  - psychotherapie
+  - tcc
+  - depression
+  - phobies
   
 type: book
 image: ../../img/sante_mentale_neurologique.jpg

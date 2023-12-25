@@ -3,7 +3,8 @@ title: "L'épreuve de la maladie organique"
 date: 2009-09-04
 slug: epreuve_maladie_organique
 categories:
-  - psychiatrie
+  - psychotherapie
+  - tcc
   
 type: book
 image: ../../img/epreuve_maladie_organique.jpg

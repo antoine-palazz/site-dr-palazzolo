@@ -3,7 +3,11 @@ title: "Vaincre l'anxiété sans médicaments"
 date: 2017-03-21
 slug: vaincre_l_anxiete_sans_medoc
 categories:
+  - psychotherapie
+  - tcc
+  - phobies
   - anxiete
+  - stress
   
 type: book
 image: ../../img/vaincre_l_anxiete_sans_medoc.jpg

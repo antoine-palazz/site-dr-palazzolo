@@ -4,6 +4,8 @@ date: 2023-08-23
 slug: les_essentiels_des_tcc
 categories:
   - tcc
+  - psychotherapie
+  - phobies
   
 type: book
 image: ../../img/les_essentiels_des_tcc.jpg
@@ -14,6 +16,8 @@ Aujourd'hui, la démarche thérapeuthique ne vise pas seulement à diminuer des 
 Les TCC représentent donc un outil important dans le suivi des psychopathologies, mais aussi un formidable espoir.
 
 L’objectif de cet ouvrage pratique, destiné aussi bien aux thérapeutes aguerris qu’aux étudiants ou au grand public, est de synthétiser les principales caractéristiques de cette méthode de soin psychologique très populaire et fondée sur des preuves.
+
+Retrouvez l'ouvrage sur [Amazon](https://www.amazon.fr/essentiels-TCC-Manuel-J%C3%A9r%C3%B4me-Palazzolo/dp/B0BXD1V1DS).
 
 <br>
 

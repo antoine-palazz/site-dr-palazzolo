@@ -4,6 +4,8 @@ date: 2004-03-01
 slug: cas_cliniques_en_tcc_1
 categories:
   - tcc
+  - phobies
+  - psychotherapie
   
 type: book
 image: ../../img/cas_cliniques_en_tcc_1.jpg

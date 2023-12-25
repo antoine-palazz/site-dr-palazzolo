@@ -4,6 +4,7 @@ date: 2006-02-01
 slug: le_cannabis_en_question
 categories:
   - cannabis
+  - addiction
   
 type: book
 image: ../../img/le_cannabis_en_question.jpg

@@ -3,8 +3,6 @@ title: "Observance médicamenteuse et psychiatrie"
 date: 2004-04-01
 slug: observance_medicamenteuse
 categories:
-  - psychiatrie
-  
 type: book
 image: ../../img/observance_medicamenteuse.jpg
 ---

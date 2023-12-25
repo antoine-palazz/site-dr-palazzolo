@@ -4,10 +4,10 @@ date: 2005-08-17
 slug: guerir_vite
 categories:
   - tcc
-  
   - anxiete
   - depression
-  - phobie
+  - phobies
+
 type: book
 image: ../../img/guerir_vite.jpg
 ---

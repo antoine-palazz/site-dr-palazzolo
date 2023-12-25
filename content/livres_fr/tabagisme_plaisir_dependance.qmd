@@ -3,8 +3,9 @@ title: "Tabagisme : plaisir et dépendance"
 date: 2009-01-16
 slug: tabagisme_plaisir_dependance
 categories:
-  - tabac
-  - dépendance
+  - addiction
+  - tcc
+  - psychotherapie
   
 type: book
 image: ../../img/tabagisme_plaisir_dependance.jpg

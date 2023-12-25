@@ -4,6 +4,9 @@ date: 2013-10-28
 slug: les_therapies_breves
 categories:
   - tcc
+  - psychotherapie
+  - phobies
+  - depression
   
 type: book
 image: ../../img/les_therapies_breves.jpg

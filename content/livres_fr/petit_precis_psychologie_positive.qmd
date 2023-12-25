@@ -3,6 +3,8 @@ title: "Petit précis de psychologie positive"
 date: 2015-12-18
 slug: petit_precis_psychologie_positive
 categories:
+  - psychotherapie
+  - tcc
   - psychologie_positive
   
 type: book

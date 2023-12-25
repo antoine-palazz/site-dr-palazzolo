@@ -4,6 +4,7 @@ date: 2005-05-17
 slug: cannabis_du_plaisir_au_risque
 categories:
   - cannabis
+  - addiction
   
 type: book
 image: ../../img/cannabis_du_plaisir_au_risque.jpg

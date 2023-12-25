@@ -3,7 +3,11 @@ title: "Stop à l'anxiété"
 date: 2018-06-12
 slug: stop_a_l_anxiete
 categories:
+  - psychotherapie
+  - tcc
+  - phobies
   - anxiete
+  - stress
   
 type: book
 image: ../../img/stop_a_l_anxiete.jpg

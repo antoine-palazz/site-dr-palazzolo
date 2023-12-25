@@ -4,6 +4,9 @@ date: 2020-01-01
 slug: لا للقلق
 categories:
   - anxiete
+  - tcc
+  - stress
+  - psychotherapie
   - arabe
 type: book
 image: ../../img/لا للقلق.jpg

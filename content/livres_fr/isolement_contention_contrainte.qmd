@@ -2,10 +2,7 @@
 title: "Isolement, contention et contrainte en psychiatrie"
 date: 2000-06-27
 slug: isolement_contention_contrainte
-categories:
-  - isolement
-  - contention
-  
+categories:  
 type: book
 image: ../../img/isolement_contention_contrainte.jpg
 ---

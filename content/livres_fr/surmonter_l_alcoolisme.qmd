@@ -4,7 +4,8 @@ date: 2006-03-29
 slug: surmonter_l_alcoolisme
 categories:
   - addiction
-  - alcool
+  - tcc
+  - psychotherapie
   
 type: book
 image: ../../img/surmonter_l_alcoolisme.jpg

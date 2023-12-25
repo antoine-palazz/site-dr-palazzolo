@@ -3,6 +3,8 @@ title: "La psychologie positive"
 date: 2020-09-23
 slug: la_psychologie_positive
 categories:
+  - psychotherapie
+  - tcc
   - psychologie_positive
   
 type: book

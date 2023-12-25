@@ -4,6 +4,9 @@ date: 2023-10-24
 slug: se_soigner_par_les_tcc
 categories:
   - tcc
+  - psychotherapie
+  - phobies
+  - depression
   
 type: book
 image: ../../img/se_soigner_par_les_tcc.jpg

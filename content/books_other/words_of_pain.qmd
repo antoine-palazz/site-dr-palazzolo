@@ -3,7 +3,7 @@ title: "Beyond the words of pain"
 date: 2018-09-13
 slug: words_of_pain
 categories:
-  - douleur
+  - psychotherapie
   - anglais
 type: book
 image: ../../img/words_of_pain.jpg

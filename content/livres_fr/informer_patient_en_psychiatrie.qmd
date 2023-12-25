@@ -3,7 +3,10 @@ title: "Informer le patient en psychiatrie"
 date: 2003-08-19
 slug: informer_patient_en_psychiatrie
 categories:
-  - psychiatrie
+  - psychotherapie
+  - depression
+  - phobies
+  - tcc
   
 type: book
 image: ../../img/informer_patient_en_psychiatrie.jpg

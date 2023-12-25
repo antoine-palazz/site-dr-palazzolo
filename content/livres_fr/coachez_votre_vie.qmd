@@ -3,7 +3,8 @@ title: "Coachez votre vie"
 date: 2007-09-27
 slug: coachez_votre_vie
 categories:
-  - sport
+  - coaching
+  - tcc
   
 type: book
 image: ../../img/coachez_votre_vie.jpg

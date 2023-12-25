@@ -3,7 +3,7 @@ title: "Les psychoses"
 date: 2005-10-01
 slug: les_psychoses
 categories:
-  - psychose
+  - schizophrenie
   
 type: book
 image: ../../img/les_psychoses.jpg

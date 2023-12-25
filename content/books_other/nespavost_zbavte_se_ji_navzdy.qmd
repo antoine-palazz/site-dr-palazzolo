@@ -4,12 +4,14 @@ date: 2007-01-01
 slug: nespavost_zbavte_se_ji_navzdy
 categories:
   - insomnie
-  - russe
+  - depression
+  - tcc
+  - tcheque
 type: book
 image: ../../img/nespavost_zbavte_se_ji_navzdy.jpg
 ---
 
-## En russe
+## En tchèque
 
 V knize přinášíme step by step program proti nespavosti.
 Jde o velmi praktickou příručku se cvičeními, dotazníky a shrnutími na konci každé kapitoly, které vám pomohou zbavit se nespavosti.

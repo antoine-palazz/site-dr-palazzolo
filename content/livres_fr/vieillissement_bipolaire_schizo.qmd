@@ -3,9 +3,12 @@ title: "Vieillissement, trouble bipolaire et schizophrénie"
 date: 2006-02-01
 slug: vieillissement_bipolaire_schizo
 categories:
-  - vieillissement
+  - sujet_age
   - bipolaire
-  - schizophrénie
+  - schizophrenie
+  - psychotherapie
+  - tcc
+  - depression
   
 type: book
 image: ../../img/vieillissement_bipolaire_schizo.jpg

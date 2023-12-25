@@ -4,6 +4,9 @@ date: 2021-06-09
 slug: ma_bible_des_tcc
 categories:
   - tcc
+  - psychotherapie
+  - phobies
+  - depression
   
 type: book
 image: ../../img/ma_bible_des_tcc.jpg

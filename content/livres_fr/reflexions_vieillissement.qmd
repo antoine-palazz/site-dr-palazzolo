@@ -3,7 +3,11 @@ title: "Réflexions psychologiques autour du vieillissement normal et pathologiq
 date: 2015-06-11
 slug: reflexions_vieillissement
 categories:
-  - vieillissement
+  - sujet_age
+  - tcc
+  - psychotherapie
+  - phobies
+  - depression
   
 type: book
 image: ../../img/reflexions_vieillissement.jpg

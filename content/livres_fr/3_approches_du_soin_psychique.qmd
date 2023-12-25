@@ -5,7 +5,7 @@ slug: 3_approches_du_soin_psychique
 categories:
   - tcc
   - emdr
-  - psychanalyse
+  - psychotherapie
 
 type: book
 image: ../../img/3_approches_du_soin_psychique.jpg

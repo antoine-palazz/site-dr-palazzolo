@@ -5,8 +5,8 @@ slug: psychotherapies_du_sujet_age
 categories:
   - tcc
   - emdr
-  - psychanalyse
-  - vieillissement
+  - psychotherapie
+  - sujet_age
   
 type: book
 image: ../../img/psychotherapies_du_sujet_age.jpg

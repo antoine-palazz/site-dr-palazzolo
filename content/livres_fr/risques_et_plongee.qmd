@@ -3,8 +3,7 @@ title: "Risques et plongée"
 date: 2013-01-02
 slug: risques_et_plongee
 categories:
-  - plongee
-  
+  - stress
 type: book
 image: ../../img/risques_et_plongee.jpg
 ---

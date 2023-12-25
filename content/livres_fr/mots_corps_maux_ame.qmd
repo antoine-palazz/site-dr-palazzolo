@@ -1,9 +1,9 @@
 ---
-title: "Des mots du corps aux mauxde l'âme"
+title: "Des mots du corps aux maux de l'âme"
 date: 2005-11-17
 slug: mots_corps_maux_ame
 categories:
-  - psychiatrie
+  - psychotherapie
   
 type: book
 image: ../../img/mots_corps_maux_ame.jpg

@@ -4,6 +4,8 @@ date: 2015-08-23
 slug: sleep_better
 categories:
   - insomnie
+  - depression
+  - tcc
   - anglais
 type: book
 image: ../../img/sleep_better.jpg

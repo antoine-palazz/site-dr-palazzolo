@@ -4,6 +4,8 @@ date: 2018-01-24
 slug: je_triomphe_de_l_insomnie
 categories:
   - insomnie
+  - tcc
+  - psychotherapie
   
 type: book
 image: ../../img/je_triomphe_de_l_insomnie.jpg

@@ -3,7 +3,7 @@ title: "La dynamique de l'équipe soignante en psychiatrie"
 date: 2005-02-24
 slug: dynamique_equipe_soignante
 categories:
-  - psychiatrie
+  - psychotherapie
   
 type: book
 image: ../../img/dynamique_equipe_soignante.jpg

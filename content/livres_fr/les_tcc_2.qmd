@@ -4,7 +4,10 @@ date: 2020-01-08
 slug: les_tcc_2
 categories:
   - tcc
-  
+  - psychotherapie
+  - phobies
+  - depression
+
 type: book
 image: ../../img/les_tcc_2.jpg
 ---

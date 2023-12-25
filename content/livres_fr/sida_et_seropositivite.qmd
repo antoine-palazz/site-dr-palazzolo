@@ -3,8 +3,6 @@ title: "Sida et séropositivité"
 date: 2010-07-16
 slug: sida_et_seropositivite
 categories:
-  - sida
-  
 type: book
 image: ../../img/sida_et_seropositivite.jpg
 ---

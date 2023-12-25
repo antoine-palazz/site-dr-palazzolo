@@ -3,7 +3,10 @@ title: "L'institution psychiatrique"
 date: 2003-09-01
 slug: institution_psychiatrique
 categories:
-  - psychiatrie
+  - psychotherapie
+  - depression
+  - phobies
+  - tcc
   
 type: book
 image: ../../img/institution_psychiatrique.jpg

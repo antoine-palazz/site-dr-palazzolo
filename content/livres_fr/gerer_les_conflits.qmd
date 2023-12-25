@@ -3,7 +3,9 @@ title: "Gérer les conflits et l'agressivité"
 date: 2019-06-18
 slug: gerer_les_conflits
 categories:
-  - conflit
+  - coaching
+  - psychotherapie
+  - tcc
   
 type: book
 image: ../../img/gerer_les_conflits.jpg

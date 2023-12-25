@@ -4,6 +4,9 @@ date: 2007-05-02
 slug: les_tcc_manuel_pratique
 categories:
   - tcc
+  - psychotherapie
+  - phobies
+  - depression
   
 type: book
 image: ../../img/les_tcc_manuel_pratique.jpg

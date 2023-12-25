@@ -4,7 +4,7 @@ date: 2010-10-18
 slug: gestion_stress_aquaphobie_tcc
 categories:
   - anxiete
-  - phobie
+  - phobies
   - tcc
   
 type: book

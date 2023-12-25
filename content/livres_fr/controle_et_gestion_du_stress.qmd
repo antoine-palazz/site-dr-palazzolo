@@ -4,6 +4,8 @@ date: 2013-07-24
 slug: controle_et_gestion_du_stress
 categories:
   - anxiete
+  - stress
+  - tcc
   
 type: book
 image: ../../img/controle_et_gestion_du_stress.jpg

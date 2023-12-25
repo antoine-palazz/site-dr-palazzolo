@@ -4,6 +4,7 @@ date: 2014-09-18
 slug: les_troubles_de_la_personnalite
 categories:
   - tcc
+  - psychotherapie
   
 type: book
 image: ../../img/les_troubles_de_la_personnalite.jpg

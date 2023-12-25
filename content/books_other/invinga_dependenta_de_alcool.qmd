@@ -4,7 +4,9 @@ date: 2007-01-01
 slug: invinga_dependenta_de_alcool
 categories:
   - addiction
-  - alcool
+  - psychotherapie
+  - tcc
+  - depression
   - roumain
 type: book
 image: ../../img/invinga_dependenta_de_alcool.jpg

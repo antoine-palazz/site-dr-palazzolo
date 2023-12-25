@@ -4,6 +4,9 @@ date: 2005-05-17
 slug: sur_le_fil_du_rasoir
 categories:
   - bipolaire
+  - psychotherapie
+  - tcc
+  - depression
   
 type: book
 image: ../../img/sur_le_fil_du_rasoir.jpg
