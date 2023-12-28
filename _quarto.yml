@@ -99,7 +99,10 @@ website:
   page-navigation: true
   back-to-top-navigation: true
   reader-mode: true
-  # favicon: img/logo.png
+  favicon: img/logo.jpeg
+  cookie-consent:
+    type: express
+  # google-analytics: "UA-XXXXXXXX"
   navbar:
     background: "white"
     search: true
@@ -119,9 +122,9 @@ website:
         menu:
           - text: Code source
             url:  https://github.com/antoine-palazz/site-dr-palazzolo
-  comments:
-    giscus:
-      repo: antoine-palazz/site-dr-palazzolo
+  # comments:
+  #  giscus:
+  #    repo: antoine-palazz/site-dr-palazzolo
   twitter-card: true
   site-url: https://docteurjeromepalazzolo.fr
   repo-url: https://github.com/antoine-palazz/site-dr-palazzolo
