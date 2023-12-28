@@ -16,7 +16,7 @@ else:
 lines = [l for l in lines if l.endswith('.qmd') ]
 lines += [f"content/{dir}/index.qmd" \
     for dir in [
-        "le_docteur", "livres_fr", "books_other", "publications_communications", "autres_activites"
+        "le_docteur", "livres", "publications_communications", "autres_activites"
         ]
     ]
 lines += [f"index.qmd"]
