@@ -7,7 +7,7 @@ categories:
   - tcc
   - stress
   - psychotherapie
-  - arabe
+  - traduction
 type: book
 image: ../../img/لا للقلق.jpg
 ---

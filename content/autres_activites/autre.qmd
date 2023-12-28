@@ -1,7 +1,7 @@
 ---
 title: "Autre"
-date: 2023-12-25
-slug: autre  
+date: 2000-01-01
+slug: autre
 type: book
 image: ../../../../img/photo_linkedin.jpg
 ---

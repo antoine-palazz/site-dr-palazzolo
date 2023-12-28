@@ -6,7 +6,7 @@ categories:
   - insomnie
   - depression
   - tcc
-  - tcheque
+  - traduction
 type: book
 image: ../../img/nespavost_zbavte_se_ji_navzdy.jpg
 ---

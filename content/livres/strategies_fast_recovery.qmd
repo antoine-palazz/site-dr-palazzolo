@@ -7,7 +7,7 @@ categories:
   - psychotherapie
   - depression
   - phobies
-  - anglais
+  - traduction
 type: book
 image: ../../img/strategies_fast_recovery.jpg
 ---

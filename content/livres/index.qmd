@@ -1,12 +1,12 @@
 ---
 title: "Livres du Dr Palazzolo"
 date: 2023-12-25
-slug: livres_fr_dr_palazzolo
+slug: livres_dr_palazzolo
 type: book
 image: ../../img/photo_linkedin.jpg
 listing:
-    id: sample-listings-fr
-    contents: ../livres_fr/*.qmd
+    id: sample-listings
+    contents: ../livres/*.qmd
     type: grid
     sort: date desc
     sort-ui: [title, date]
@@ -16,7 +16,8 @@ listing:
     #template: cards.ejs
 ---
 
-Vous retrouverez ici l'ensemble des livres rédigés en français du Dr Palazzolo.
+Vous retrouverez ici l'ensemble des livres rédigés par le Dr Palazzolo
+ainsi que les traductions publiées dans d'autres langues.
 
-::: {#sample-listings-fr}
+::: {#sample-listings}
 :::

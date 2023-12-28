@@ -5,7 +5,7 @@ title-block-style: none
 css: homepage.css
 listing:
     id: sample-listings
-    contents: content/livres_fr/*.qmd
+    contents: content/livres/*.qmd
     type: grid
     sort: date desc
     sort-ui: [title, date]
@@ -33,7 +33,7 @@ Site du Dr Jérôme Palazzolo
 
 Pour prendre rendez-vous, appeler le secrétariat téléphonique au 06 61 02 95 08.
 
-Ouvert du lundi au vendredi de 8h à 18h30.
+Cabinet ouvert du lundi au vendredi de 8h à 18h30.
 
 <br>
 
@@ -61,13 +61,17 @@ Retrouvez le Dr Palazzolo sur :
 - [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)  {{< fa brands linkedin >}}
 - [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
 - [Instagram](https://www.instagram.com/palazz06/?)  {{< fa brands instagram >}}
-- [X](https://twitter.com/palazz06)  {{< fa brands twitter >}}
+- [X](https://twitter.com/palazz06)  {{< fa brands x >}}
 
 <br>
 
-## Livres {.unnumbered}
+Ses interviews et apparitions dans la presse sont disponibles **[ici](https://www.facebook.com/media/set/?set=a.10150356662827691&type=3)**.
 
-Pour naviguer parmi les ouvrages en français du Dr Palazzolo :
+<br>
+
+## Livres
+
+Pour naviguer parmi les ouvrages du Dr Palazzolo :
 
 ::: {#sample-listings}
 :::

@@ -6,7 +6,7 @@ categories:
   - insomnie
   - depression
   - tcc
-  - anglais
+  - traduction
 type: book
 image: ../../img/defeat_insomnia.jpg
 ---
