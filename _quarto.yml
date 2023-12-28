@@ -118,6 +118,16 @@ website:
       - sidebar:publications_communications
       # - sidebar:autres_activites
     tools:
+      - icon: facebook
+        href: https://www.facebook.com/DrPalazzolo/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jerome-palazzolo/
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw
+      - icon: instagram
+        href: https://www.instagram.com/palazz06/
+      - icon: twitter
+        href: https://twitter.com/palazz06
       - icon: github
         menu:
           - text: Code source
