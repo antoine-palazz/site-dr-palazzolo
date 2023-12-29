@@ -102,7 +102,7 @@ website:
   favicon: img/logo.jpeg
   cookie-consent:
     type: express
-  # google-analytics: "UA-XXXXXXXX"
+  google-analytics: "G-JWQSW5E8BY"
   navbar:
     background: "white"
     search: true
