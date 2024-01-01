@@ -22,7 +22,8 @@ listing:
 ::::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
 
 :::::: h1
-Site du Dr Jérôme Palazzolo
+Site du Dr Jérôme Palazzolo,
+Médecin psychiatre - Psychothérapeute - Professeur de psychologie clinique et médicale - Conférencier
 ::::::
 
 ```{=html}
