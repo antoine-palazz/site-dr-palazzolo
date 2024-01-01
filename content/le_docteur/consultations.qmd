@@ -6,8 +6,8 @@ type: book
 image: ../../../../img/photo_linkedin.jpg
 ---
 
-Tarif consultation : 100 €
+Tarif consultation : 100 € (remboursement tout ou partie par la CPAM et par la mutuelle)
 
-Tarif consultation ALD : 65 €
+Tarif consultation ALD : 65 € (remboursement tout ou partie par la mutuelle)
 
 Le cabinet est situé au [5 quai des 2 Emmanuel, 06300 Nice](https://www.google.com/maps/place//data=!4m2!3m1!1s0x12cddab8af34eef5:0xc661cf3ccb078d18?sa=X&ved=2ahUKEwib7uubsaqDAxVVVaQEHXB4Ce8Q4kB6BAgOEA).
