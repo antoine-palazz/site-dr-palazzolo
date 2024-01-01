@@ -22,7 +22,7 @@ listing:
 ::::: {.headline .g-col-lg-6 .g-col-12 .g-col-md-12}
 
 :::::: h1
-Site du Dr Jérôme Palazzolo,
+Site officiel du Dr Jérôme Palazzolo,
 Médecin psychiatre - Psychothérapeute - Professeur de psychologie clinique et médicale - Conférencier
 ::::::
 
@@ -32,13 +32,13 @@ Médecin psychiatre - Psychothérapeute - Professeur de psychologie clinique et 
 
 <br>
 
-Pour prendre rendez-vous, appeler le secrétariat téléphonique au 06 61 02 95 08.
+Pour toute demande de rendez-vous, vous pouvez appeler le secrétariat téléphonique au 06 61 02 95 08.
 
-Cabinet ouvert du lundi au vendredi de 8h à 18h30.
+Le cabinet est ouvert du lundi au vendredi de 8h à 18h30.
 
 <br>
 
-Toutes les informations pratiques pour les consultations au cabinet du docteur [ici](https://www.docteurjeromepalazzolo.fr/content/le_docteur/consultations.html)
+Retrouvez toutes les informations pratiques concernant les consultations [ici](https://www.docteurjeromepalazzolo.fr/content/le_docteur/consultations.html)
 
 <br>
 
@@ -54,6 +54,12 @@ Toutes les informations pratiques pour les consultations au cabinet du docteur [
 
 <br>
 
+## Presse
+
+Différents interviews sont disponibles **[ici](https://www.facebook.com/media/set/?set=a.10150356662827691&type=3)**.
+
+<br>
+
 ## Réseaux
 
 Retrouvez le Dr Palazzolo sur :
@@ -66,13 +72,7 @@ Retrouvez le Dr Palazzolo sur :
 
 <br>
 
-Ses interviews et apparitions dans la presse sont disponibles **[ici](https://www.facebook.com/media/set/?set=a.10150356662827691&type=3)**.
-
-<br>
-
 ## Livres
-
-Pour naviguer parmi les ouvrages du Dr Palazzolo :
 
 ::: {#sample-listings}
 :::
