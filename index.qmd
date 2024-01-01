@@ -24,13 +24,14 @@ listing:
 :::::: h1
 Site officiel du Dr Jérôme Palazzolo
 
-Médecin psychiatre,
 
-Psychothérapeute,
+Médecin psychiatre
 
-Professeur de psychologie clinique et médicale,
+Psychothérapeute
 
-Conférencier.
+Professeur de psychologie clinique et médicale
+
+Conférencier
 ::::::
 
 ```{=html}
