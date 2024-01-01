@@ -6,4 +6,12 @@ type: book
 image: ../../../../img/photo_linkedin.jpg
 ---
 
-A compléter :)
+Médecin psychiatre libéral installé à Nice, Jérôme Palazzolo est spécialisé en psychopharmacologie et en thérapies cognitivo-comportementales.
+
+Il est également professeur de psychologie clinique et médicale au département Santé de l’Université internationale de langue française Senghor (opérateur direct de la Francophonie) à Alexandrie, en Égypte, et il anime des conférences partout dans le monde.
+
+Par ailleurs, il est chercheur associé au LAPCOS (Laboratoire d'Anthropologie et de Psychologie Cliniques, Cognitives et Sociales) de Nice, et chargé de cours à l’Université Côte d’Azur où il est co-fondateur du Diplôme Universitaire de thérapies comportementales et cognitives.
+
+En parallèle de ses études de Médecine et de sa spécialisation en Psychiatrie, Jérôme Palazzolo a suivi un cursus en Pharmacologie, en Neurosciences, en Anthropologie de la santé et en Psychologie.
+
+Il a publié de nombreux articles de référence et plus de 70 ouvrages traitant des diverses pratiques psychiatriques et des sciences humaines.
