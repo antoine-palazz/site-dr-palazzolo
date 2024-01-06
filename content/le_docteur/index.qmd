@@ -10,15 +10,11 @@ Tout savoir sur le Docteur Palazzolo !
 
 <br>
 
-## Réseaux
+## Récompenses
 
-Retrouvez le Dr Palazzolo sur :
-
-- [Facebook](https://www.facebook.com/DrPalazzolo/)  {{< fa brands facebook >}}
-- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)  {{< fa brands linkedin >}}
-- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
-- [Instagram](https://www.instagram.com/palazz06/)  {{< fa brands instagram >}}
-- [X](https://twitter.com/palazz06)  {{< fa brands x-twitter >}}
+- Lauréat des Palmes de la Médecine, 2019
+- Award « Outstanding speaker », 2nd International Conference on Lifestyle Disease & Medicine, Las Vegas,
+16-17 Mars 2020
 
 <br>
 
@@ -33,11 +29,15 @@ Retrouvez le Dr Palazzolo sur :
 
 <br>
 
-## Récompenses
+## Réseaux
 
-- Lauréat des Palmes de la Médecine, 2019
-- Award « Outstanding speaker », 2nd International Conference on Lifestyle Disease & Medicine, Las Vegas,
-16-17 Mars 2020
+Retrouvez le Dr Palazzolo sur :
+
+- [Facebook](https://www.facebook.com/DrPalazzolo/)  {{< fa brands facebook >}}
+- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)  {{< fa brands linkedin >}}
+- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
+- [Instagram](https://www.instagram.com/palazz06/)  {{< fa brands instagram >}}
+- [X](https://twitter.com/palazz06)  {{< fa brands x-twitter >}}
 
 <br>
 

@@ -3,16 +3,16 @@ toc: false
 sidebar: false
 title-block-style: none
 css: homepage.css
-listing:
-    id: sample-listings
-    contents: content/livres/*.qmd
-    type: grid
-    sort: date desc
-    sort-ui: [title, date]
-    filter-ui: [title, date]
-    categories: true
-    #fields: [image, title, github, gitlab]
-    #template: cards.ejs
+# listing:
+#     id: sample-listings
+#     contents: content/livres/*.qmd
+#     type: grid
+#     sort: date desc
+#     sort-ui: [title, date]
+#     filter-ui: [title, date]
+#     categories: true
+#     #fields: [image, title, github, gitlab]
+#     #template: cards.ejs
 ---
 
 ::: {#hero-banner .column-screen}
@@ -23,9 +23,9 @@ listing:
 
 :::::: h1
 Site officiel du Dr Jérôme Palazzolo
+::::::
 
-
-
+:::::: h2
 Médecin psychiatre
 
 Psychothérapeute
@@ -47,7 +47,7 @@ Le cabinet est ouvert du lundi au vendredi de 8h à 18h30.
 
 <br>
 
-Retrouvez toutes les informations pratiques concernant les consultations [ici](https://www.docteurjeromepalazzolo.fr/content/le_docteur/consultations.html)
+Retrouvez toutes les informations pratiques concernant les consultations **[ici](https://www.docteurjeromepalazzolo.fr/content/le_docteur/consultations.html)**.
 
 <br>
 
@@ -65,13 +65,18 @@ Retrouvez toutes les informations pratiques concernant les consultations [ici](h
 
 ## Presse
 
-Différents interviews sont disponibles **[ici](https://www.facebook.com/media/set/?set=a.10150356662827691&type=3)**.
+Différentes interviews sont disponibles **[ici](https://www.facebook.com/media/set/?set=a.10150356662827691&type=3)**.
 
-<br>
+
+## Livres
+
+Les ouvrages rédigés sont disponibles **[ici](https://www.docteurjeromepalazzolo.fr/content/livres/)**.
+
 
 ## Vidéos
 
-Différentes vidéos sont disponibles **[ici](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)**.
+Différentes vidéos sont disponibles sur **[Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)**.
+
 
 <br>
 
@@ -87,7 +92,9 @@ Retrouvez le Dr Palazzolo sur :
 
 <br>
 
+<!--
 ## Livres
 
 ::: {#sample-listings}
 :::
+-->
