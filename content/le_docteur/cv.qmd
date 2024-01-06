@@ -8,16 +8,16 @@ image: ../../../../img/photo_linkedin.jpg
 
 ## Diplômes
 
-- Habilitation à Diriger les Recherches en Psychologie : Approche pluridisciplinaire de la relation soignant-soigné. Université Côte d’Azur, 8 avril 2011.
-- Habilitation à Diriger les Recherches en Anthropologie : Approche pluridisciplinaire de la relation soignant-soigné. Université Côte d’Azur, 8 avril 2011.
-- Doctorat d’Anthropologie : Communication et observance dans la relation thérapeutique en psychiatrie. Université Côte d’Azur, 3 décembre 2004 (Mention Très Honorable, Félicitations du jury, Autorisation de reproduction).
-- Diplôme d’Etudes Spécialisées en Psychiatrie (DES) : À propos de la trajectoire des patients schizophrènes : étude prospective. Université Joseph Fourier - Grenoble I, 31 octobre 1999 (Mention Très Bien, Félicitations du jury).
-- Diplôme d’Université (DU) de Thérapie Comportementale et Cognitive : Quatre cas cliniques traités par thérapie comportementale et cognitive. Université Claude Bernard - Lyon I, 24 juin 1999.
-- Attestation d’Études Universitaires (AEU) de Thérapie Comportementale et Cognitive : Étude d’un cas clinique - trouble panique avec agoraphobie. Université Claude Bernard - Lyon I, 29 juin 1998.
-- Diplôme d’Etat de Docteur en Médecine : Isolement et contention en psychiatrie - sanctions ou thérapeutiques ? Université Joseph Fourier - Grenoble I, 27 novembre 1998 (Mention Très Honorable, Félicitations du jury, Prix de thèse 1999 de la Faculté de Médecine de Grenoble).
-- Diplôme d’Études Approfondies (DEA) de Neurosciences : Troubles cognitifs secondaires à la sismothérapie chez des patients dépressifs majeurs. Université Joseph Fourier - Grenoble I, 12 juin 1998.
-- Maîtrise de Sciences Biologiques et Médicales (MSBM) de Pharmacologie. Université Joseph Fourier - Grenoble I, 11 mai 1996.
-- Diplôme d’Université (DU) de Pharmacopsychiatrie : Le stress - ses méthodes d’évaluation et ses modalités de prise en charge. Université Joseph Fourier - Grenoble I, 18 novembre 1996.
+- Habilitation à Diriger les Recherches en Psychologie.
+- Habilitation à Diriger les Recherches en Anthropologie.
+- Doctorat d’Anthropologie (Mention Très Honorable, Félicitations du jury, Autorisation de reproduction).
+- Diplôme d’Etudes Spécialisées en Psychiatrie (Mention Très Bien, Félicitations du jury).
+- Diplôme d’Université de Thérapie Comportementale et Cognitive.
+- Attestation d’Études Universitaires de Thérapie Comportementale et Cognitive.
+- Diplôme d’Etat de Docteur en Médecine (Mention Très Honorable, Félicitations du jury, Prix de thèse de l'Université).
+- Diplôme d’Études Approfondies de Neurosciences.
+- Maîtrise de Sciences Biologiques et Médicales de Pharmacologie.
+- Diplôme d’Université de Pharmacopsychiatrie.
 
 <br>
 
