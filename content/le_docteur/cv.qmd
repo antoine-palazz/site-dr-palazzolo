@@ -23,10 +23,10 @@ image: ../../../../img/photo_linkedin.jpg
 
 ## Activités professionnelles
 
+- Médecin psychiatre libéral (depuis 2006).
 - Professeur de psychologie clinique et médicale à l’Université Internationale Senghor, Opérateur direct de la Francophonie (Alexandrie, Égypte) (depuis 2005).
 - Chercheur associé au Laboratoire d'Anthropologie et de Psychologie Cognitives et Sociales (LAPCOS), Université Côte d’Azur (depuis 2006).
 - Chargé de cours et Responsable d’enseignement à l’Université Côte d’Azur (depuis 2005).
-- Médecin psychiatre libéral (depuis 2006).
 - Médecin Spécialisé Temps Plein au Centre Hospitalier Sainte-Marie de Nice (2002-2006).
 - Médecin Assistant au Centre Hospitalier Sainte-Marie de Nice (2001-2002).
 - Lauréat du Concours National de Praticien Hospitalier (major national de la promotion 2001).
