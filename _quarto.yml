@@ -116,7 +116,7 @@ website:
       - file: content/livres/index.qmd
         text: Livres
       - href: https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw
-        text: Videos
+        text: Vidéos
       - sidebar:publications_communications
       # - sidebar:autres_activites
     tools:
