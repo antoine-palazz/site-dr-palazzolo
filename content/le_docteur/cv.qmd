@@ -82,7 +82,7 @@ image: ../../../../img/photo_linkedin.jpg
 
 - 72 ouvrages publiés.
 - 6 préfaces.
-- 25 chapitres d’ouvrages
+- 25 chapitres d’ouvrages.
 - 57 articles publiés dans des revues recensées dans la liste AERES, dont 9 en Anglais.
 - 172 articles publiés dans des revues avec comité de lecture, dont 11 en Anglais, 2 en Espagnol, 3 en Italien, 1 en Allemand.
 - 30 articles publiés dans des revues sans comité de lecture.
