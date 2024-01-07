@@ -6,6 +6,8 @@ type: book
 image: ../../../../img/photo_linkedin.jpg
 ---
 
+## Informations pratiques
+
 Le cabinet est situé au [5 Quai des Deux Emmanuel, 06300 Nice](https://www.google.com/maps/place//data=!4m2!3m1!1s0x12cddab8af34eef5:0xc661cf3ccb078d18?sa=X&ved=2ahUKEwib7uubsaqDAxVVVaQEHXB4Ce8Q4kB6BAgOEA).
 
 Secrétariat téléphonique : 06 61 02 95 08.
@@ -14,7 +16,19 @@ Le cabinet est ouvert du lundi au vendredi de 8h à 18h30.
 
 <br>
 
-<!--
+Le Dr Palazzolo est conventionné avec la CPAM en secteur 2 (avec dépassement d'honoraires)
+et avec les Caisses Sociales de Monaco.
+
+<br>
+
+## Accès
+
+- En voiture : Parking Port Lympia.
+
+- En tram : Station Port Lympia, Terminus ligne 2.
+
+- En bus : Arrêt Port Lympia.
+
 ```{python}
 #| echo: false
 #| output: true
@@ -30,16 +44,3 @@ m
 ```
 
 <br>
--->
-
-Accès en voiture : Parking Port Lympia.
-
-Accès en tram : Station Port Lympia, Terminus ligne 2.
-
-Accès en bus : Arrêt Port Lympia.
-
-<br>
-
-
-Le Dr Palazzolo est conventionné avec la CPAM en secteur 2 (avec dépassement d'honoraires)
-et avec les Caisses Sociales de Monaco.
