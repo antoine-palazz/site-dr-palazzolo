@@ -14,6 +14,23 @@ Le cabinet est ouvert du lundi au vendredi de 8h à 18h30.
 
 <br>
 
+<!--
+```{python}
+#| echo: false
+#| output: true
+
+import geopandas as gpd
+from pathlib import Path
+import folium
+
+m = folium.Map(location=[43.697763, 7.286462], zoom_start=15)
+folium.TileLayer('OpenStreetMap').add_to(m)
+folium.Marker(location=[43.697763, 7.286462], popup='Cabinet du Dr Palazzolo').add_to(m)
+m
+```
+
+<br>
+-->
 
 Accès en voiture : Parking Port Lympia.
 
