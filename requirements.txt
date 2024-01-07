@@ -1,6 +1,7 @@
 black
 contextily
 duckdb
+folium
 gensim
 geoplot
 graphviz
