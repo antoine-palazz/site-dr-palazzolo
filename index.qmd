@@ -84,11 +84,13 @@ Différentes vidéos sont disponibles **[ici](https://www.youtube.com/channel/UC
 
 Retrouvez le Dr Palazzolo sur :
 
-- [Facebook](https://www.facebook.com/DrPalazzolo/)  {{< fa brands facebook >}}
+
 - [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)  {{< fa brands linkedin >}}
-- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
+- [Facebook](https://www.facebook.com/DrPalazzolo/)  {{< fa brands facebook >}}
 - [Instagram](https://www.instagram.com/palazz06/)  {{< fa brands instagram >}}
-- [X](https://twitter.com/palazz06)  {{< fa brands x-twitter >}}
+- [Threads](https://www.threads.net/@palazz06)  {{< fa brands threads >}}
+- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
+- [X (Twitter)](https://twitter.com/palazz06)  {{< fa brands x-twitter >}}
 
 <br>
 

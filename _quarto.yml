@@ -120,14 +120,16 @@ website:
       - sidebar:publications_communications
       # - sidebar:autres_activites
     tools:
-      - icon: facebook
-        href: https://www.facebook.com/DrPalazzolo/
       - icon: linkedin
         href: https://www.linkedin.com/in/jerome-palazzolo/
-      - icon: youtube
-        href: https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw
+      - icon: facebook
+        href: https://www.facebook.com/DrPalazzolo/
       - icon: instagram
         href: https://www.instagram.com/palazz06/
+      - icon: meta
+        href: https://www.threads.net/@palazz06
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw
       - icon: twitter
         href: https://twitter.com/palazz06
       - icon: github
