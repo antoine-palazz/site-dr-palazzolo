@@ -89,7 +89,7 @@ Retrouvez le Dr Palazzolo sur :
 - [Facebook](https://www.facebook.com/DrPalazzolo/)  {{< fa brands facebook >}}
 - [Instagram](https://www.instagram.com/palazz06/)  {{< fa brands instagram >}}
 - [Threads](https://www.threads.net/@palazz06)  {{< fa brands threads >}}
-- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
+- [Youtube](https://https://www.youtube.com/@DrPalazzoloJeromeNice)  {{< fa brands youtube >}}
 - [X (Twitter)](https://twitter.com/palazz06)  {{< fa brands x-twitter >}}
 
 <br>
