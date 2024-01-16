@@ -1,6 +1,6 @@
 # Site du Dr Jérôme Palazzolo
 
-Ce dépôt est associé au site du Dr Jérôme Palazzolo.
+Ce dépôt est associé au [site du Dr Jérôme Palazzolo](www.docteurjeromepalazzolo.fr/).
 
 ## Crédits
 
