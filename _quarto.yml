@@ -280,7 +280,7 @@ format:
     toc: true
     code-overflow: wrap
     template-partials: 
-      - _partials/title-block-link-buttons/title-block.html
+      - ../../_partials/title-block-link-buttons/title-block.html
 
 
 crossref:
