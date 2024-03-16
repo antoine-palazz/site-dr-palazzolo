@@ -30,6 +30,7 @@ project:
     - content/livres/gerer_les_conflits.qmd
     - content/livres/gestion_stress_aquaphobie_tcc.qmd
     - content/livres/guerir_vite.qmd
+    - content/livres/guide_de_poche_des_tcc.qmd
     - content/livres/guide_urgence_psychiatrique.qmd
     - content/livres/homosexualite_en_afrique.qmd
     - content/livres/information_du_patient.qmd
@@ -194,6 +195,7 @@ website:
         - content/livres/gerer_les_conflits.qmd
         - content/livres/gestion_stress_aquaphobie_tcc.qmd
         - content/livres/guerir_vite.qmd
+        - content/livres/guide_de_poche_des_tcc.qmd
         - content/livres/guide_urgence_psychiatrique.qmd
         - content/livres/homosexualite_en_afrique.qmd
         - content/livres/information_du_patient.qmd
@@ -280,7 +282,7 @@ format:
     toc: true
     code-overflow: wrap
     template-partials: 
-      - ../../_partials/title-block-link-buttons/title-block.html
+      - _partials/title-block-link-buttons/title-block.html
 
 
 crossref:
