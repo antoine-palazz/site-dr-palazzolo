@@ -1,0 +1,36 @@
+---
+title: "Chapitres d'ouvrages"
+date: 2023-12-25
+slug: chapitres_ouvrages  
+type: book
+image: ../../../../img/photo_linkedin.jpg
+---
+
+- Palazzolo J – Isolement et contention en psychiatrie. In: Manuel d’éthique en psychiatrie, Rapport de la 117ème session du Congrès de Psychiatrie et de Neurologie de Langue Française, S Richa ed., Presses Universitaires François-Rabelais, Paris, 2019: 45-70
+- Palazzolo J – Réduction des risques et tabagisme : état des lieux et perspectives. In: La réduction des risques - Système de santé, pratiques individuelles et collectives, A Cohen et X Desmaison ed., Hermann, Paris, 2019: 81-99 [Sous l’égide de l’Académie des Sciences Morales et Politiques]
+- Palazzolo J – Les thérapies comportementales et cognitives. In: Approche psychothérapeutique des pathologies du vieillissement, J Palazzolo, C Baudu et A Quaderi ed., Elsevier-Masson, Paris, 2016: 160-171
+- Palazzolo J – Conclusion. In: Approche psychothérapeutique des pathologies du vieillissement, J Palazzolo, C Baudu et A Quaderi ed., Elsevier-Masson, Paris, 2016: 329-331
+- Palazzolo J – Apprentissage social. In: Dictionnaire des risques psychosociaux, P Zawieja et F Guarnieri ed., Seuil, Paris, 2014: 50-52
+- Palazzolo J – Contrôle perçu et lieu de contrôle. In: Dictionnaire des risques psychosociaux, P Zawieja et F Guarnieri ed., Seuil, Paris, 2014: 151-154
+- Palazzolo J – Préface. In : Over drive - Participez à votre santé. P Coffigneau ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2014: 9-12
+- Palazzolo J – L’observance médicamenteuse. In : Volonté et biens - Regards croisés. Y Strickler et F Siiriainen ed., L’Harmattan, Paris, 2013: 63-70
+- Palazzolo J – Introduction. In: Les thérapies brèves - Actualités et perspectives des TCC. J Palazzolo ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2013: 17-19
+- Palazzolo J – De l’observance à l’adhésion thérapeutique : l’apport des thérapies brèves. In: Les thérapies brèves - Actualités et perspectives des TCC. J Palazzolo ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2013: 175-189
+- Palazzolo J – Préface. In: L’état de stress post-traumatique : diagnostic, prise en charge et réflexions sur les facteurs prédictifs. S Morgan ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2012: 9-11
+- Palazzolo J – Préface. In: Les enfants de la psychanalyse. M Mari-Bouzid ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2012: 9-11
+- Palazzolo J – L’insight, conscience du trouble neuropsychiatrique. In: Conscience et représentation de la maladie mentale et neurologique. C Mésenge et J Palazzolo ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2011: 73-102
+- Palazzolo J – L’annonce du diagnostic de schizophrénie, une étape nécessaire pour une représentation adaptée de la maladie. In: Conscience et représentation de la maladie mentale et neurologique. C Mésenge et J Palazzolo ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2011: 125-154
+- Palazzolo J – Représentation de l’isolement thérapeutique en psychiatrie. In: Conscience et représentation de la maladie mentale et neurologique. C Mésenge et J Palazzolo ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2011: 249-276
+- Palazzolo J – Représentation de l’hospitalisation en psychiatrie. In: Conscience et représentation de la maladie mentale et neurologique. C Mésenge et J Palazzolo ed., Mon Petit Éditeur (Groupe Publibook - Petit Futé), Paris, 2011: 277-286
+- Palazzolo J – Alliance thérapeutique et relation médecin-malade : la rédaction et la remise de l’ordonnance, un rite de passage ? In: «Les rites de passage - De la Grèce d’Homère à notre XXIème siècle», Le Monde Alpin et Rhodanien 2010; 269-277
+- Palazzolo J – Les émotions : supports nécessaires de l’interaction sociale ? Entre théorisation et renégociation de l’implication professionnelle. In: «Actes éducatifs et de soins, entre éthique et gouvernance», Actes du colloque international 2009, C Felix et J Tardif ed. : http://revel.unice.fr/ symposia/actedusoin/index.html?id=615
+- Palazzolo J – Avant-propos. In: La conscience dans tous ses états - Approches anthropologiques et psychiatriques : cultures et thérapies. S Baud et N Midol ed., Rapport de la 107ème session du Congrès de Psychiatrie et de Neurologie de Langue Française, Masson, Paris, 2009: IX-XI
+- Banayan M, Palazzolo J – Insight et conscience de la maladie dans le trouble bipolaire. In: La conscience dans tous ses états - Approches anthropologiques et psychiatriques : cultures et thérapies. S Baud et N Midol ed., Rapport de la 107ème session du Congrès de Psychiatrie et de Neurologie de Langue Française, Masson, Paris, 2009: 44-59
+- Palazzolo J – L’harmonisation, un nouveau concept surgi du passé. Préface de l’ouvrage : Guérir corps et âme - Les clés du concept d’harmonisation. P Coffigneau ed., Ellébore, Paris, 2008
+- Palazzolo J, Cazade E, Chermette B, Morel V – L’isolement. In: La psychiatrie en urgence, Eisai, 2006: 84-86
+- Palazzolo J – Attirance et séduction dans l’érotomanie : ensorcellement ou harcèlement ? In: Les Cahiers de Mouans - Arts, attirance, cerveau. Mouans-Sartoux, 2003: 125-130
+- Palazzolo J, Bougerol T – L’hystérie : voyage aux confins de la nosographie. In: Florilège de cas cliniques. Lundbeck ed., Paris, 2002: 71-77
+- Palazzolo J – Aspects historiques et socio-économiques des neuroleptiques aux antipsychotiques : une nouvelle terminologie pour quels enjeux ? In: Des neuroleptiques aux antipsychotiques : entre évolutions et mutations. B Lachaux et G Moreau ed., Rapport de Thérapeutique, LXXXXIXème session du Congrès de Psychiatrie et de Neurologie de Langue Française, Medias Flashs, Paris, 2001: 71-98
+- Palazzolo J – Isolement et contention : sanctions ou thérapeutiques ? In: Comptes-rendus de la LXXXXIVème session du Congrès de Psychiatrie et de Neurologie de Langue Française. Médias Flashs, Paris, 1999: 335-340
+- Palazzolo J – Addictive behavior and drug addiction. In: Alcohol, Drugs and Traffic Safety. C Mercier- Guyon ed., Imprimerie Gutenberg, Annecy, 1997: 691-696
+- Palazzolo J – Neuropsychiatric complications of alcoholism. In: Alcohol, Drugs and Traffic Safety. C Mercier-Guyon ed., Imprimerie Gutenberg, Annecy, 1997: 821-828

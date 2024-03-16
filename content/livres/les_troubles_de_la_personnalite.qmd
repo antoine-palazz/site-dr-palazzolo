@@ -1,0 +1,20 @@
+---
+title: "Les troubles de la personnalité"
+date: 2014-09-18
+slug: les_troubles_de_la_personnalite
+categories:
+  - tcc
+  - psychotherapie
+  
+type: book
+image: ../../img/les_troubles_de_la_personnalite.jpg
+---
+
+Les troubles de la personnalité sont à l'origine d'une déviation des traits de caractère habituels.
+Le comportement problématique de l'individu devient alors chronique et stable, et on retrouve une certaine souffrance, ainsi que des perturbations dans les pensées, les comportements ou les relations que la personne entretient avec les autres.
+Les troubles de la personnalité apparaissent généralement au cours de l'adolescence, et peuvent se manifester aussi bien dans le domaine de l'apprentissage que dans celui des sentiments, des échanges interpersonnels ou du contrôle des émotions.
+Cet ouvrage pratique, destiné aussi bien aux professionnels du soin qu'au grand public, se propose de faire une synthèse de ces affections bien souvent à l'origine de discussions et d'errances diagnostiques.
+
+<br>
+
+![_Les troubles de la personnalité](../../img/les_troubles_de_la_personnalite.jpg)

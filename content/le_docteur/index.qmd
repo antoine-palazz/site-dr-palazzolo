@@ -1,0 +1,45 @@
+---
+title: "Accueil"
+date: 2023-12-25
+slug: infos_dr_palazzolo
+type: book
+image: ../../img/photo_linkedin.jpg
+---
+
+Tout savoir sur le Docteur Palazzolo !
+
+<br>
+
+## Récompenses
+
+- Lauréat des Palmes de la Médecine, 2019
+- Award « Outstanding speaker », 2nd International Conference on Lifestyle Disease & Medicine, Las Vegas,
+16-17 Mars 2020
+
+<br>
+
+## Thématiques de recherche
+
+- Relation soignant-soigné
+- Observance médicamenteuse
+- Communication médecin-malade
+- Thérapies comportementales et cognitives
+- Psychopathologie
+- Psychoéducation
+
+<br>
+
+## Réseaux
+
+Retrouvez le Dr Palazzolo sur :
+
+- [LinkedIn](https://www.linkedin.com/in/jerome-palazzolo/)  {{< fa brands linkedin >}}
+- [Facebook](https://www.facebook.com/DrPalazzolo/)  {{< fa brands facebook >}}
+- [Instagram](https://www.instagram.com/palazz06/)  {{< fa brands instagram >}}
+- [Threads](https://www.threads.net/@palazz06)  {{< fa brands threads >}}
+- [Youtube](https://www.youtube.com/channel/UCMF4Vhgt6gOYQaiE2jlKoHw)  {{< fa brands youtube >}}
+- [X (Twitter)](https://twitter.com/palazz06)  {{< fa brands x-twitter >}}
+
+<br>
+
+![_Le docteur Palazzolo_](../../img/photo_linkedin.jpg)

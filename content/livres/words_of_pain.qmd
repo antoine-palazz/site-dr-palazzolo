@@ -1,0 +1,36 @@
+---
+title: "Beyond the words of pain"
+date: 2018-09-13
+slug: words_of_pain
+categories:
+  - psychotherapie
+  - traduction
+type: book
+image: ../../img/words_of_pain.jpg
+---
+
+## En anglais
+
+Throughout this book, the reader will discover testimonies of patients collected by Dr. Jerome Palazzolo, psychiatrist in Nice (France), in the context of an intra and extra therapeutic activity.
+They have the advantage of being neither commented nor interpreted.
+They have the nudity of simple facts.
+They are simple, made of poignant sincerity, unavoidable, and pronounced in a state of anxiety that marks the lives of individuals suffering from mental disorders.
+The divergence with the order of the rational, the incommunicability of suffering, the impossibility for sick people to understand what happens to them, in short, the inability of intelligence to what should be its essential function... as much findings that highlight the importance of the problems, not only for the patients themselves, but also for those who accompany and support them everyday.
+Here, the painful and unequal combat of individuals for their dignity force respect and admiration.
+All texts transcribed in this book are the work of patients hospitalized in psychiatry or their relatives, and these thoughts are mostly imprinted of emotions that remind us how mental illness can be a source of suffering...
+
+## En français
+
+Tout au long de ce livre, le lecteur découvrira des témoignages de patients recueillis par le Dr. Jerome Palazzolo, psychiatre à Nice (France), dans le cadre d'une activité intra et extra-thérapeutique.
+Ils ont l'avantage de ne pas être commentés ni interprétés.
+Ils ont la nudité de faits simples.
+Ils sont simples, faits d'une sincérité poignante, inévitable, et prononcés dans un état d'anxiété qui marque la vie des personnes souffrant de troubles mentaux.
+
+La divergence avec l'ordre rationnel, l'incommunicabilité de la souffrance, l'impossibilité pour les malades de comprendre ce qui leur arrive, en bref, l'incapacité de l'intelligence à remplir ce qui devrait être sa fonction essentielle... autant de constats qui mettent en lumière l'importance des problèmes, non seulement pour les patients eux-mêmes, mais aussi pour ceux qui les accompagnent et les soutiennent au quotidien.
+Ici, le combat douloureux et inégal des individus pour leur dignité force le respect et l'admiration.
+
+Tous les textes transcrits dans ce livre sont le travail de patients hospitalisés en psychiatrie ou de leurs proches, et ces pensées sont principalement imprégnées d'émotions qui nous rappellent combien la maladie mentale peut être une source de souffrance...
+
+<br>
+
+![_Beyond the words of pain (Au-delà des mots de douleur)_](../../img/words_of_pain.jpg)

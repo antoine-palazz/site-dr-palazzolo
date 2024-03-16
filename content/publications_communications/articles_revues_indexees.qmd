@@ -1,0 +1,60 @@
+---
+title: "Articles publiés dans des revues indexées"
+date: 2023-12-25
+slug: articles_revues_indexees  
+type: book
+image: ../../../../img/photo_linkedin.jpg
+---
+
+- Palazzolo J – Anxiety and performance. L’Encéphale, 2020; 46(2): 158-161
+- Palazzolo J – Les thérapies comportementales et cognitives du sujet âgé : aspects pratiques et spécifiques. NPG (Neurologie - Psychiatrie - Gérontologie) 2020; 20(115): 56-60
+- Vaillant-Ciszewicz AJ, Quaderi A, Palazzolo J, Robert P, Guerin O – Techniques issues de la psychothérapie EMDR : un outil contre les troubles psycho-comportementaux. Soins Gérontologie 2019; 140: 36-40
+- Palazzolo J – Pleine conscience et pratique de la plongée sous-marine. French Journal of Psychiatry 2019; 1(2); S79
+- Seznec JC, Siaud-Facchin J, Feral, F, Palazzolo J – Les thérapies de troisième vague : une révolution ? French Journal of Psychiatry 2019; 1(2); S78
+- Palazzolo J – Historical approach of medical anthropology. Chinese Mental Health Journal (中国⼼理卫⽣ 杂志) 2018; 11: 881-885
+- Ansaldo J, Palazzolo J, Corveleyn X – Les effets de l’approche multisensorielle en ambulatoire dans la prise en soin d’une résidente institutionnalisée en EHPAD. NPG (Neurologie - Psychiatrie - Gérontologie) 2018; 18(106): 256-263
+- Tounsi H, Gouret C, Pacioselli P, Riou L, Gross L, Palazzolo J – Psychotherapies for complex trauma : a combination between EMDR and mindfulness. European Psychiatry 2017; 41: S726
+- Miloni A, Tafazzoli S, Quaderi A, Palazzolo J – Depressive disorders : a multidimensional non-drug approach. European Psychiatry 2017; 41: S536
+- Andrade S, Sassi V, Caurand M, Cohen E, Di Giorgio M, Manchon A, Palazzolo J – Benefits of EMDR therapy on the memory in the treatment of PTSD. European Psychiatry 2017; 41: S359
+- Vaillant-Ciszewicz AJ, Rossi R, Quaderi A, Palazzolo J – Les effets thérapeutiques de l’animal en EHPAD. NPG (Neurologie - Psychiatrie - Gérontologie) 2017; 17(98): 109-113
+- Deboves P, Palazzolo J, Courgeon M – Soignants en EHPAD et démence à corps de Lewy : la souffrance de ne plus rien pouvoir faire. NPG (Neurologie - Psychiatrie - Gérontologie) 2017; 17(98): 118-124
+- Palazzolo J – Le comportement d’automédication : une étude qualitative chez les sujets de plus de 65 ans en médecine générale. NPG (Neurologie - Psychiatrie - Gérontologie) 2017; 17(97): 63-69
+- Palazzolo J, Arnaud J – Contrôle perçu et lieu de contrôle : une approche plurifactorielle. Annales Médico-Psychologiques 2015; 173(5): 412-418
+- Palazzolo J, Quaderi A – Use of seclusion and restraint in the elderly : a review. The International Journal of Neuropsychopharmacology 2015; 9(suppl. 1): S 451, P 01.542
+- Vaillant-Ciszewicz AJ, Rossi R, Saladin A, Damiano L, Palazzolo J, Quaderi A – Hetero-aggressive behaviors and schizophrenia. The International Journal of Neuropsychopharmacology 2015; 9(suppl. 1): S 263, P 03.322
+- Leglise A, Thiebaut C, Ferraro L, Quaderi A, Palazzolo J – Auto-aggressive behaviors and schizophrenia. The International Journal of Neuropsychopharmacology 2015; 9(suppl. 1): S 263, P 03.323
+- Vaxelaire L, Gouvernet B, Palazzolo J – Le vécu des effets indésirables d’un traitement antipsychotique : facteurs influençant l’observance médicamenteuse. Annales Médico-Psychologiques 2014; 172(7): 534-540
+- Palazzolo J – Seclusion in psychiatry : nurses’ and patients’ point of view. International Journal of Humanities Social Sciences and Education 2014; 12(2): 57-64
+- Palazzolo J – Approche historique de l’anthropologie médicale. Epistémè, Revue Internationale de Sciences Humaines et Sociales Appliquées 2014; 10: 33-52
+- Palazzolo J, Arnaud J – Anxiété et performance : de la théorie à la pratique. Annales Médico- Psychologiques 2013; 171(6): 382-388
+- Rouillon F, Bayle FJ, Gorwood P, Lancrenon S, Lançon C, Llorca PM, Bottero A, Canceil O, Cousin FR, Giraud E, Maron M, Navarre-Coulaud A, Palazzolo J, Vacheron MN, Vidon G – Évaluation de la rémission fonctionnelle dans le trouble schizophrénique : l’échelle FROGS. L'Encéphale 2013; 39(S1): 15-21
+- Arnaud J, Codou O, Palazzolo J – Lien entre locus de contrôle et anxiété compétitive : étude portant sur 150 joueurs de tennis de haut niveau. Annales Médico-Psychologiques 2012; 170(9): 642-647
+- Palazzolo J – Observance médicamenteuse et rechutes dans la schizophrénie : des neuroleptiques classiques aux APAP. Annales Médico-Psychologiques 2009; 167(4): 308-317
+- Palazzolo J, Midol N, Candau J – Vers une gestion autonome de la médication en psychiatrie ? Approche anthropologique. Annales Médico-Psychologiques 2008; 166(9): 717-726
+- Llorca PM, Bouhours P, Moreau-Mallet V, Palazzolo J, Beyadh M, Perdrizet-Chevallier C, Peretti CS – La rispéridone injectable à action prolongée améliore le contrôle des symptômes, le fonctionnement et la satisfaction dans une population de patients français. L’Encéphale 2008; 34(2): 170-178
+- Olivero A, Palazzolo J – Informer le patient en psychiatrie : entre pratique clinique et réflexion anthropologique. Annales Médico-Psychologiques 2007; 166(3): 163-171
+- Palazzolo J – APAP et relation médecin-malade : quelques éléments de réflexion. Annales Médico-Psychologiques 2007; 165(7): 536-544
+- Palazzolo J, Weibel L, Midol N, Dunezat P – Enquête sur la perception de l’observance dans la schizophrénie (EPOS). Annales Médico-Psychologiques 2007; 165(5): 313-324
+- Banayan M, Papetti F, Palazzolo J, Pringuey D, Darcourt G – Conscience du trouble chez les sujets bipolaires euthymiques : étude transversale comparative réalisée sur 60 patients. Annales Médico-Psychologiques 2007; 165(4): 247-253
+- Llorca PM, Palazzolo J, Kahn JP, Moreau-Mallet V – Symptom control, functioning, and hospitalization status in French patients changed from oral atypical antipsychotics to risperidone long-acting injectable. International Journal of Psychiatry in Clinical Practice 2006; 10(4): 276-284
+- Durst P, Palazzolo J, Peyrelong JP, Berger M, Chalabreysse M, Billiard M, Vialle A – Méthadone et syndrome d’apnées du sommeil. The Canadian Journal of Psychiatry 2005; 50(3): 153-158
+- Palazzolo J, Brousse G, Favré P, Llorca PM – L’information du sujet schizophrène en pratique clinique : données actuelles. L’Encéphale 2005; 31: 227-234
+- Palazzolo J, Gokalsing E, Favré P – Seclusion and dangerous behavior : a review. The International Journal of Neuropsychopharmacology 2004; 7(suppl. 1): S 276, P 01.542
+- Palazzolo J – A propos de l’utilisation de l’isolement en psychiatrie : le témoignage de patients. L’Encéphale 2004; 30(3): 276-284
+- Palazzolo J – De l’utilisation des contentions en psychiatrie : le point de vue des patients. L’Encéphale 2002; 28: 454-460
+- Palazzolo J, Favré P, Julerot JM, Bougerol T – Caractéristiques des patients hospitalisés dans un Centre Hospitalier Spécialisé après une tentative de suicide. L’Encéphale 2002; 28: 39-50
+- Palazzolo J, Gokalsing E – Observance médicamenteuse et schizophrénie : état des lieux et perspectives. L’Encéphale 2002; 28(cahier 2): 21, P23
+- Palazzolo J, Favré P, Vittini P, Bougerol T – Isolement thérapeutique et contention en psychiatrie : bilan et perspectives. L’Encéphale 2001; 27: 570-577
+- Palazzolo J, Bougerol T – About the nurses’ perceptions of secluding patients on closed psychiatric wards. The International Journal of Neuropsychopharmacology 2000; 3(suppl. 1): S 265, P 08.01
+- Palazzolo J, Bougerol T – About the use of seclusion in psychiatry : therapeutic or punitive treatment ? The International Journal of Neuropsychopharmacology 2000; 3(suppl. 1): S 266, P 08.04
+- Palazzolo J, Favré P, Halim V, Bougerol T – À propos de l’utilisation de l’isolement en psychiatrie : le témoignage des soignants. L’Encéphale 2000; 26(5): 84-92
+- Palazzolo J, Piala JM, Camoin C, Rey C – À propos de la qualité du sommeil des lycéens : étude prospective. L’Encéphale 2000; 26(4): 50-57
+- Palazzolo J – Aggression and dissociative symptoms in psychiatric outpatients. European Neuropsychopharmacology 1999; 9(1): 18-20
+- Palazzolo J – Being restrained : a study of aggressiveness. European Neuropsychopharmacology, 1999; 9(1): 20-22
+- Palazzolo J, Lachaux B – Entre compliance et liberté : le témoignage d’un patient. L’Encéphale 1999; 25(6): 667-671
+- Palazzolo J, Julerot JM, Lachaux B – De l’éthique en psychiatrie au psychiatre face à l’éthique. L’Encéphale 1999; 25(6): 674-680
+- Palazzolo J, Chignon JM, Chabannes JP – Utilisation de l’isolement thérapeutique et des contentions en psychiatrie. Enquête prospective. L’Encéphale 1999; 25(5): 477-484
+- Palazzolo J – À propos de la réinsertion sociale de nos patients... L’Encéphale 1998; HS 2: 94-95
+- Palazzolo J – Antipsychiatrie : utopie ou réalité ? L’Encéphale 1998; HS 2: 96-97
+- Chabannes JP, Crespo F, Martinez O, Palazzolo J – Trajectoire sociale et schizophrénie. L’Encéphale 1997; 23(4): 20-23
+- Loo H, Gosselin O, Ribeyre JM, Kahn JP, Lançon C, Farisse J, Llorca MP, Raoul Y, Manesse P, Delage M, Murry P, Chabannes JP, Crespo F, Martinez O, Palazzolo J, Olié JP – Schizophrénies et Clozapine en France : 5 ans d'expérience, 5 ans de référence, 5 ans de différence. L’Encéphale 1997; 23(4): 31-33

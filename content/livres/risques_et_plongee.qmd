@@ -1,0 +1,21 @@
+---
+title: "Risques et plongée"
+date: 2013-01-02
+slug: risques_et_plongee
+categories:
+  - stress
+type: book
+image: ../../img/risques_et_plongee.jpg
+---
+
+La plongée sous-marine est considérée comme un loisir à risque.
+Il appartient donc au plongeur en formation et au moniteur de plongée de bien connaître les dangers inhérents à la pratique de cette activité « contre nature ».
+Nous avons tous, quel que soit notre cursus d’apprentissage, passé des heures à essayer de comprendre la genèse d’un accident de décompression, d’un barotraumatisme ou de la fameuse ivresse des profondeurs qui a tant fait couler d’encre.
+La plupart de la littérature portant sur la plongée sous-marine insiste – bien heureusement – sur ces problématiques.
+L’objectif de cet ouvrage n’est pas de reprendre dans le détail ces éléments physiopathologiques connus de tous, mais d’apporter au lecteur un point de vue plus transversal et pluridisciplinaire.
+Sont abordées ici certaines thématiques que l’on ne retrouve quasiment pas dans les manuels de formation classiques : quelle conduite à tenir face à un plongeur consommateur de cannabis et/ou de drogue dure, face à un élève aquaphobe ou dépressif, face à un sujet âgé ou stressé ?…
+Répondre à de telles questions nécessite d’expliquer sans juger, d’informer sans effrayer, de mettre en garde sans dramatiser.
+
+<br>
+
+![_Risques et plongée - Actualités et perspectives_](../../img/risques_et_plongee.jpg)

@@ -1,0 +1,35 @@
+---
+title: "Dépression et anxiété"
+date: 2008-01-09
+slug: depression_et_anxiete
+categories:
+  - depression
+  - anxiete
+  - tcc
+  
+type: book
+image: ../../img/depression_et_anxiete.jpg
+---
+
+Le médecin généraliste est en première ligne pour la prise en charge des patients atteints d’un état anxieux ou dépressif.
+Il est aussi régulièrement en première ligne pour essuyer à ce propos de nombreuses critiques.
+Il ne serait « pas assez bien formé » pour reconnaître un état dépressif ou pour traiter un état anxieux ou dépressif.
+Non seulement il ne reconnaîtrait pas assez les déprimés, mais il traiterait généralement de façon inadéquate ses patients, ne prescrivant pas assez d’antidépresseurs à ceux qui en relèveraient, et prescrivant antidépresseurs et anxiolytiques de façon erronée et abondante à des patients qui ne relèveraient pas de ce type de chimiothérapie.
+Si nous sommes la risée de l’Europe, c’est donc, à n’en pas douter, de la faute des médecins généralistes ainsi que de celle des enseignants qui ne sont pas parvenus à leur enseigner correctement la psychologie, la psychiatrie, la pharmacologie, la psychothérapie, etc.
+Ces divers lieux communs contiennent chacun, sans doute, une parcelle de vérité.
+Mais, à mon avis, le cœur du problème réside ailleurs.
+La sémiologie de base des états anxieux et dépressifs est en réalité assez aisée à reconnaître, et tout médecin – après quelques mois passés à rencontrer des malades – a appris à identifier ces états affectifs.
+Certes, la reconnaissance est plus délicate chez les patients qui masquent leurs symptômes psychologiques derrière des plaintes physiques.
+Néanmoins, la plupart des praticiens expérimentés connaissent l’existence et la fréquence de ces diagnostics difficiles.
+Des difficultés majeures sont en revanche rencontrées fréquemment : savoir saisir la dynamique des épisodes affectifs dans une vie, identifier chez un même sujet quel épisode relève d’une prise en charge, quel autre doit être respecté et de quelle nature psychologique, médicamenteuse, ou mixte doit être la prise en charge qui paraît a priori la plus indiquée.
+Il peut aussi être difficile de percevoir quelles sont les attentes conscientes et inconscientes de nos patients derrière leurs discours manifestes souvent rationalisés.
+Savoir identifier ce qui ressort surtout d’une médication plutôt que de simples conseils avisés exige ce dont le médecin généraliste manque le plus, à savoir du temps.
+Et nulle recette, nulle formation ne saurait remplacer ce temps nécessaire.
+L’ouvrage rédigé par Jérôme Palazzolo est destiné à sensibiliser les praticiens à ces difficultés.
+Il remplira certainement son objectif.
+Rédigé dans un langage clair, il propose tout d’abord quelques chiffres impressionnants tirés des études épidémiologiques les plus récentes ; il parcourt aussi les particularités de la « nouvelle relation thérapeutique » que malades et médecins entretiennent de nos jours dans une société en pleine mutation.
+Le médecin doit s’adapter à ce nouveau partenariat malade - médecin ; il doit aussi raisonner dans des termes nouveaux, volontiers médico-économiques. 
+
+<br>
+
+![_Dépression et anxiété - Mieux les comprendre pour mieux les prendre en charge_](../../img/depression_et_anxiete.jpg)
