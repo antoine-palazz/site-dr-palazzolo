@@ -1,9 +1,0 @@
----
-title: "Autre"
-date: 2000-01-01
-slug: autre
-type: book
-image: ../../../../img/photo_linkedin.jpg
----
-
-A compléter :)
