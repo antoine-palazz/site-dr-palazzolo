@@ -3,7 +3,7 @@ title: "Articles publiés dans des revues non indexées sans comité de lecture"
 date: 2023-12-25
 slug: articles_revues_non_indexees_sans_comite
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 - Palazzolo J, Vaillant-Ciszewicz AJ – Conseils de psys pour mieux vivre le confinement relativement au coronavirus covid-19 et videothérapie en ligne par Skype, WhatsApp et Messenger pour limiter le stress, l’anxiété et l’angoisse. Positif coaching, 10 Avril 2020 (https://www.thierryguilhou.com/le-blog/articles/conseils-de-psy-pour-mieux-vivre-le-confinement-relativement-au-coronavirus-covid-19-et-video-therapie-en-ligne-par-skype-whatsapp-et-messenger-pour-limiter-le-stress-l-anxiete-et-l-angoisse)
 - Palazzolo J – TOC : Les troubles obsessionnels compulsifs en 10 questions. Fiche d’information réalisée en collaboration avec Doctissimo et l’Association Française de personnes souffrant de Trouble Obsessionnel Compulsif (AFTOC), 2020 (https://www.doctissimo.fr/html/psychologie/mag_2001/

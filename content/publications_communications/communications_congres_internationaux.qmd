@@ -3,7 +3,7 @@ title: "Communications orales au sein de congrès scientifiques"
 date: 2023-12-25
 slug: communications_congres_internationaux  
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 - Palazzolo J – Les thérapies cognitivo-comportementales du sujet âgé. Rapport magistral de la 118ème session du Colloque International de l’Association du Congrès de Psychiatrie et de Neurologie de Langue Française, Lille, 16-18 Septembre 2020

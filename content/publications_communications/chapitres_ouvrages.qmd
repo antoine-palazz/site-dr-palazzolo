@@ -3,7 +3,7 @@ title: "Chapitres d'ouvrages"
 date: 2023-12-25
 slug: chapitres_ouvrages  
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 - Palazzolo J – Isolement et contention en psychiatrie. In: Manuel d’éthique en psychiatrie, Rapport de la 117ème session du Congrès de Psychiatrie et de Neurologie de Langue Française, S Richa ed., Presses Universitaires François-Rabelais, Paris, 2019: 45-70

@@ -3,7 +3,7 @@ title: "Articles publiés dans des revues non indexées avec comité de lecture"
 date: 2023-12-25
 slug: articles_revues_non_indexees_avec_comite
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 - Palazzolo J– Le syndrome général d’adaptation. Plongez ! 2020; 30: 38

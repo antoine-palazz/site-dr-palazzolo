@@ -3,7 +3,7 @@ title: "Biographie"
 date: 2023-12-25
 slug: biographie  
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 Médecin psychiatre libéral installé à Nice, Jérôme Palazzolo est spécialisé en psychopharmacologie et en thérapies cognitivo-comportementales.

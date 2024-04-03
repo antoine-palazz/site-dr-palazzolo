@@ -3,7 +3,7 @@ title: "Articles publiés dans des revues indexées"
 date: 2023-12-25
 slug: articles_revues_indexees  
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 - Palazzolo J – Anxiety and performance. L’Encéphale, 2020; 46(2): 158-161

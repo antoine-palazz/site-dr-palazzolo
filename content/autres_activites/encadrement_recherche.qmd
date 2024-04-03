@@ -3,7 +3,7 @@ title: "Encadrement de la recherche"
 date: 2023-12-25
 slug: encadrement_recherche  
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 ## Thèses

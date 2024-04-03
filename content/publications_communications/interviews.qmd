@@ -3,7 +3,7 @@ title: "Diffusion des connaissances"
 date: 2023-12-25
 slug: interviews  
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 ## Interviews presse

@@ -3,7 +3,7 @@ title: "Communications orales au sein de congrès scientifiques nationaux"
 date: 2023-12-25
 slug: communications_congres_nationaux 
 type: book
-image: ../../../../img/photo_linkedin.jpg
+image: ../../img/photo_linkedin.jpg
 ---
 
 - Palazzolo J – Les grands principes des TCC chez le sujet âgé. 40èmes Journées Annuelles de la Société Française de Gériatrie et Gérontologie, Paris, 14-16 Décembre 2020
