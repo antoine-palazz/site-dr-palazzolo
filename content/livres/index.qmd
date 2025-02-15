@@ -1,6 +1,6 @@
 ---
 title: "Livres du Dr Palazzolo"
-date: 2023-12-25
+date: 2025-02-08
 slug: livres_dr_palazzolo
 type: book
 image: ../../img/photo_linkedin.jpg

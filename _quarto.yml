@@ -19,6 +19,7 @@ project:
     - content/livres/cas_cliniques_en_tcc_3.qmd
     - content/livres/chambre_isolement_contention.qmd
     - content/livres/coachez_votre_vie.qmd
+    - content/livres/comment_gerer_l_agressivite.qmd
     - content/livres/communication_observance_psy.qmd
     - content/livres/controle_et_gestion_du_stress.qmd
     - content/livres/depression_et_anxiete.qmd
@@ -39,7 +40,8 @@ project:
     - content/livres/isolement_contention_contrainte.qmd
     - content/livres/je_me_libere_de_mes_phobies.qmd
     - content/livres/je_triomphe_de_l_insomnie.qmd
-    - content/livres/la_psychologie_positive.qmd
+    - content/livres/la_psychologie_positive_1.qmd
+    - content/livres/la_psychologie_positive_2.qmd
     - content/livres/le_cannabis_en_question.qmd
     - content/livres/les_essentiels_des_tcc.qmd
     - content/livres/les_exclus_de_la_cite.qmd
@@ -184,6 +186,7 @@ website:
         - content/livres/cas_cliniques_en_tcc_3.qmd
         - content/livres/chambre_isolement_contention.qmd
         - content/livres/coachez_votre_vie.qmd
+        - content/livres/comment_gerer_l_agressivite.qmd
         - content/livres/communication_observance_psy.qmd
         - content/livres/controle_et_gestion_du_stress.qmd
         - content/livres/depression_et_anxiete.qmd
@@ -204,7 +207,8 @@ website:
         - content/livres/isolement_contention_contrainte.qmd
         - content/livres/je_me_libere_de_mes_phobies.qmd
         - content/livres/je_triomphe_de_l_insomnie.qmd
-        - content/livres/la_psychologie_positive.qmd
+        - content/livres/la_psychologie_positive_1.qmd
+        - content/livres/la_psychologie_positive_2.qmd
         - content/livres/le_cannabis_en_question.qmd
         - content/livres/les_essentiels_des_tcc.qmd
         - content/livres/les_exclus_de_la_cite.qmd
