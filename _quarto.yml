@@ -48,6 +48,7 @@ project:
     - content/livres/les_psychoses.qmd
     - content/livres/les_tcc_1.qmd
     - content/livres/les_tcc_2.qmd
+    - content/livres/les_tcc_3.qmd
     - content/livres/les_tcc_du_sujet_age.qmd
     - content/livres/les_tcc_manuel_pratique.qmd
     - content/livres/les_therapies_breves.qmd
@@ -215,6 +216,7 @@ website:
         - content/livres/les_psychoses.qmd
         - content/livres/les_tcc_1.qmd
         - content/livres/les_tcc_2.qmd
+        - content/livres/les_tcc_3.qmd
         - content/livres/les_tcc_du_sujet_age.qmd
         - content/livres/les_tcc_manuel_pratique.qmd
         - content/livres/les_therapies_breves.qmd
