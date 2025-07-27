@@ -1,6 +1,7 @@
 black
 folium
-gensim
+geopandas
 jupyter
+pandas
 quarto
-spacy
+urlchecker

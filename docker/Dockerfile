@@ -23,8 +23,8 @@ RUN pip install -r requirements.txt && \
 
 RUN pip freeze 
 
-RUN python -m spacy download en_core_web_sm
-RUN python -m gensim.downloader --download glove-wiki-gigaword-200
+# RUN python -m spacy download en_core_web_sm
+# RUN python -m gensim.downloader --download glove-wiki-gigaword-200
 
 EXPOSE 5000
 CMD ["pip", "freeze"]

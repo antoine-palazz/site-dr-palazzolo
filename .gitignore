@@ -3,7 +3,7 @@ _book/
 _site/
 *index.ipynb
 *.parquet
-*.ipynb
+*ipynb
 *.ipynb_checkpoints/
 index-listing.json
 index.html
