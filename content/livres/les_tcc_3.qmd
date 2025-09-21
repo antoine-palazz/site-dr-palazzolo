@@ -1,5 +1,5 @@
 ---
-title: "Les thérapies cognitives et comportementales - 3è édition"
+title: "Les thérapies cognitives et comportementales - 3ème édition"
 date: 2025-07-01
 slug: les_tcc_3
 categories:
@@ -18,4 +18,4 @@ Relativement brèves, elles sont scientifiquement évaluées et supposent une é
 Dans la troisième édition mise à jour de cet ouvrage, Jérôme Palazzolo montre concrètement comment les TCC améliorent jour après jour la qualité de vie des personnes en souffrance.
 <br>
 
-![_Les thérapies cognitives et comportementales - Troisième édition_](../../img/les_tcc_3.jpg)
+![_Les thérapies cognitives et comportementales - 3ème édition_](../../img/les_tcc_3.jpg)

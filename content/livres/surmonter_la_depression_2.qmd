@@ -1,5 +1,5 @@
 ---
-title: "Aidez vos proches à surmonter la dépression - 2nde édition"
+title: "Aidez vos proches à surmonter la dépression - 2ème édition"
 date: 2012-04-02
 slug: surmonter_la_depression_2
 categories:
@@ -25,4 +25,4 @@ Jérôme Palazzolo reprend ici de manière détaillée l’ensemble des question
 
 <br>
 
-![_Aidez vos proches à surmonter la dépression - 2nde édition_](../../img/surmonter_la_depression_2.jpg)
+![_Aidez vos proches à surmonter la dépression - 2ème édition_](../../img/surmonter_la_depression_2.jpg)

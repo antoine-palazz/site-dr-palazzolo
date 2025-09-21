@@ -1,5 +1,5 @@
 ---
-title: "Les thérapies cognitives et comportementales - 2nde édition"
+title: "Les thérapies cognitives et comportementales - 2ème édition"
 date: 2020-01-08
 slug: les_tcc_2
 categories:
@@ -19,4 +19,4 @@ Dans la seconde édition de cet ouvrage, Jérôme Palazzolo montre concrètement
 
 <br>
 
-![_Les thérapies cognitives et comportementales - Seconde édition_](../../img/les_tcc_2.jpg)
+![_Les thérapies cognitives et comportementales - 2ème édition_](../../img/les_tcc_2.jpg)

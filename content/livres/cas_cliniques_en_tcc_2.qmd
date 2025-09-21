@@ -1,5 +1,5 @@
 ---
-title: "Cas cliniques en TCC - 2è édition"
+title: "Cas cliniques en TCC - 2ème édition"
 date: 2007-01-10
 slug: cas_cliniques_en_tcc_2
 categories:
@@ -20,4 +20,4 @@ Si de nombreux ouvrages traitent des modalités théoriques de ce type d’inter
 
 <br>
 
-![_Cas cliniques en thérapies comportementales et cognitives - 2è édition_](../../img/cas_cliniques_en_tcc_2.jpg)
+![_Cas cliniques en thérapies comportementales et cognitives - 2ème édition_](../../img/cas_cliniques_en_tcc_2.jpg)

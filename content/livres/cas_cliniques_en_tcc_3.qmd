@@ -1,5 +1,5 @@
 ---
-title: "Cas cliniques en TCC - 3è édition"
+title: "Cas cliniques en TCC - 3ème édition"
 date: 2012-01-25
 slug: cas_cliniques_en_tcc_3
 categories:
@@ -21,4 +21,4 @@ Ces réflexions sont empreintes d’émotions qui nous rappellent combien la mal
 
 <br>
 
-![_Cas cliniques en thérapies comportementales et cognitives - 3è édition_](../../img/cas_cliniques_en_tcc_3.jpg)
+![_Cas cliniques en thérapies comportementales et cognitives - 3ème édition_](../../img/cas_cliniques_en_tcc_3.jpg)

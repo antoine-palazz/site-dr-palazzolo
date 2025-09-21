@@ -1,0 +1,29 @@
+---
+title: "La Santé mentale pour les nuls"
+date: 2025-09-18
+slug: la_sante_mentale_pour_les_nuls
+categories:
+  - psychotherapie
+  - stress
+
+type: book
+image: ../../img/la_sante_mentale_pour_les_nuls.jpg
+---
+
+Être en bonne santé mentale ne se limite pas à l’absence de troubles psychiques.
+C’est un état d’équilibre indispensable pour s’épanouir, faire face aux défis du quotidien, entretenir des relations positives, étudier, travailler et participer pleinement à la vie sociale.
+La santé mentale est une composante essentielle de notre bien-être global.
+
+Mais que signifie réellement avoir une « bonne santé mentale » ?
+Nous connaissons tous des périodes de stress, de fatigue ou de doutes.
+Ces moments de fragilité sont normaux, mais il est parfois difficile de distinguer un simple inconfort passager des premiers signes d’un trouble psychique.
+
+Cet opus, de la célèbre collection jaune et noire, propose une approche claire et accessible pour mieux comprendre ces différences et identifier les signes qui doivent alerter.
+
+Le Dr Jérôme Palazzolo définit précisément ce qu’est la santé mentale, présente les principaux troubles et explique comment en reconnaître les symptômes.
+Au-delà du constat, il invite chacun à explorer son propre équilibre intérieur, en toute bienveillance.
+À travers des techniques simples et des conseils concrets, il propose des solutions pour renforcer sa santé mentale et avancer plus sereinement au quotidien.
+
+<br>
+
+![_La santé mentale pour les nuls_](../../img/la_sante_mentale_pour_les_nuls.jpg)
