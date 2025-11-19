@@ -1,42 +1,71 @@
 #title-block-header {
-    display: none ;
-  }
-  
-  code {
-   color:#e83e8c;
-   background-color: transparent !important;
-  }
-  
-  #hero-banner {
-    padding-top: 35px;
-    background-color: #062926;
-    color: white;
-  }
-  
-  #quarto-content main { 
-    margin-top: 0;
-    padding-top: 0;
-  }
-  
-  html {
-    scroll-behavior: smooth;
-  }
-  
-  .headline {
+  display: none;
+}
+
+code {
+  color: #e83e8c;
+  background-color: transparent !important;
+}
+
+/* Hero banner base styles */
+#hero-banner {
+  padding-top: 35px;
+  color: white;
+}
+
+#quarto-content main {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.headline {
   font-size: 1.25em;
   font-weight: 300;
   padding-bottom: 1em;
+}
+
+.headline p {
+  margin: 0;
+  padding-bottom: 0.2rem;
+}
+
+.headline a {
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.headline a:hover {
+  color: #0056b3;
+}
+
+.headline ul li {
+  margin-bottom: 0.3em;
+  transition: transform 0.2s ease;
+}
+
+.headline ul li:hover {
+  transform: translateX(5px);
+}
+
+/* Add smooth gradient animation to hero */
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
   }
-  
-  .headline p {
-    margin: 0;
-    padding-bottom: 0.2rem;
+  50% {
+    background-position: 100% 50%;
   }
-  
-  .headline a {
-    text-decoration: none;
+  100% {
+    background-position: 0% 50%;
   }
-  
-  .headline ul li {
-    margin-bottom: 0.3em;
-  }
+}
+
+#hero-banner {
+  background: linear-gradient(135deg, #062926 0%, #094540 50%, #0a5a4f 100%);
+  background-size: 200% 200%;
+  animation: gradientShift 15s ease infinite;
+}
