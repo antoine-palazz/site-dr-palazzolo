@@ -1,0 +1,122 @@
+/*-- Navigation Enhancements --*/
+
+/* Navbar improvements */
+.navbar {
+  backdrop-filter: blur(10px);
+  background-color: rgba(255, 255, 255, 0.95) !important;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+.navbar.scrolled {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.dark .navbar {
+  background-color: rgba(26, 27, 30, 0.95) !important;
+}
+
+/* Navbar link hover effect - exclude dropdowns to prevent interference with arrows */
+.navbar-nav .nav-link {
+  position: relative;
+  transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:not(.dropdown-toggle)::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background-color: $primary-blue;
+  transition: width 0.3s ease, left 0.3s ease;
+  pointer-events: none;
+}
+
+.navbar-nav .nav-link:not(.dropdown-toggle):hover::after {
+  width: 100%;
+  left: 0;
+}
+
+/* Sidebar improvements */
+.sidebar {
+  transition: transform 0.3s ease;
+}
+
+.sidebar .sidebar-item {
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.sidebar .sidebar-item:hover {
+  background-color: rgba(0, 86, 179, 0.08);
+  transform: translateX(3px);
+}
+
+.sidebar .sidebar-item.active {
+  border-left: 3px solid $primary-blue;
+  background-color: rgba(0, 86, 179, 0.12);
+  font-weight: 500;
+}
+
+/* Back to top button enhancement */
+#quarto-back-to-top {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+#quarto-back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+#quarto-back-to-top:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* Search box improvements */
+.aa-Input {
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.aa-Input:focus {
+  border-color: $primary-blue;
+  box-shadow: 0 0 0 3px rgba(0, 86, 179, 0.1);
+}
+
+/* Dropdown menu animations */
+.dropdown-menu {
+  animation: slideDown 0.2s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Social media icons hover */
+.navbar .quarto-navbar-tools a {
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.navbar .quarto-navbar-tools a:hover {
+  transform: scale(1.15);
+  color: $primary-blue;
+}
+
+/* Mobile menu improvements */
+@media (max-width: 991px) {
+  .navbar-collapse {
+    animation: slideDown 0.3s ease-out;
+  }
+}
+

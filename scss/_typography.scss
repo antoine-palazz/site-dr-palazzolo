@@ -1,0 +1,126 @@
+/*-- Typography Enhancements --*/
+
+/* Better text rendering */
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+/* Improved headings */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  color: inherit;
+}
+
+/* Better paragraph spacing */
+p {
+  line-height: 1.7;
+  margin-bottom: 1.2em;
+}
+
+/* Improved list styling */
+ul, ol {
+  line-height: 1.7;
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Better link styles */
+a {
+  color: $primary-blue;
+  text-decoration: none;
+  transition: color 0.2s ease, opacity 0.2s ease;
+  position: relative;
+}
+
+a:hover {
+  color: darken($primary-blue, 10%);
+}
+
+/* Underline animation for links in content - EXCLUDE card links */
+.quarto-title-block a:not(.btn),
+main a:not(.btn):not(.card-link):not(.quarto-grid-link) {
+  text-decoration: underline;
+  text-decoration-color: transparent;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.3s ease;
+}
+
+.quarto-title-block a:not(.btn):hover,
+main a:not(.btn):not(.card-link):not(.quarto-grid-link):hover {
+  text-decoration-color: currentColor;
+}
+
+/* CRITICAL FIX: Force NO underline on Quarto card links (overrides above rules) */
+.quarto-grid-link,
+a.quarto-grid-link,
+main .quarto-grid-link,
+main a.quarto-grid-link,
+.quarto-grid-link *,
+.quarto-grid-link .card,
+.quarto-grid-link .card *,
+.quarto-grid-link .card-title,
+.quarto-grid-link .card-body,
+.quarto-grid-link .card-text,
+.quarto-grid-link .listing-description,
+.quarto-grid-link p,
+.quarto-grid-link span,
+.quarto-grid-link div,
+.quarto-grid-link:hover,
+a.quarto-grid-link:hover,
+main .quarto-grid-link:hover,
+main a.quarto-grid-link:hover,
+.quarto-grid-link:hover *,
+.quarto-grid-link:hover .card,
+.quarto-grid-link:hover .card *,
+.quarto-grid-link:hover .card-title,
+.quarto-grid-link:hover .card-body,
+.quarto-grid-link:hover .card-text,
+.quarto-grid-link:hover .listing-description,
+.quarto-grid-link:hover p,
+.quarto-grid-link:hover span,
+.quarto-grid-link:hover div {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+  text-decoration-color: transparent !important;
+  text-decoration-style: none !important;
+}
+
+/* Better blockquote styling */
+blockquote {
+  border-left: 4px solid $primary-blue;
+  padding-left: 1.5em;
+  margin-left: 0;
+  margin-right: 0;
+  font-style: italic;
+  color: #666;
+}
+
+.dark blockquote {
+  color: #aaa;
+  border-left-color: darken($primary-blue, 5%);
+}
+
+/* Code styling improvements */
+code {
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 0.9em;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+.dark code {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+/* Note: Selection color is handled in _ux-enhancements.scss */
+

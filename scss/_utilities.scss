@@ -1,0 +1,105 @@
+/*-- Utility Classes & Improvements --*/
+
+/* Smooth scrolling for all anchor links */
+a[href^="#"] {
+  scroll-behavior: smooth;
+}
+
+/* Better image handling */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Loading spinner */
+.spinner {
+  border: 3px solid rgba(0, 0, 0, 0.1);
+  border-left-color: $primary-blue;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Visually hidden but accessible */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+/* Focus visible utility */
+.focus-ring:focus {
+  outline: 2px solid $primary-blue;
+  outline-offset: 2px;
+}
+
+/* Better table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+}
+
+th, td {
+  padding: 0.75em;
+  text-align: left;
+  border-bottom: 1px solid #dee2e6;
+}
+
+th {
+  font-weight: 600;
+  background-color: #f8f9fa;
+}
+
+.dark th {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+tr:hover {
+  background-color: rgba(0, 86, 179, 0.05);
+}
+
+/* Better hr styling */
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(0, 86, 179, 0.3),
+    transparent
+  );
+  margin: 2em 0;
+}
+
+/* Breadcrumb styling */
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  list-style: none;
+  background-color: #f8f9fa;
+  border-radius: 0.25rem;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  content: "/";
+  padding: 0 0.5rem;
+  color: #6c757d;
+}
+
+/* Note: Print styles and focus indicators are handled in _ux-enhancements.scss */
+

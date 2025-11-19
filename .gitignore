@@ -1,37 +1,104 @@
+# Quarto
 /.quarto/
 _book/
 _site/
-*index.ipynb
-*.parquet
-*ipynb
-*.ipynb_checkpoints/
+*.quarto_ipynb
 index-listing.json
-index.html
 site_libs/
 
-!themes/github.com/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.ipynb_checkpoints/
 
-.idea/
-content/**/*.html
-content/**/*.json
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+*.virtualenv
+
+# Jupyter Notebook
+*index.ipynb
+*.ipynb
+*.ipynb_checkpoints/
+
+# Data files
+*.parquet
 content/**/data/*
-doc.json
 
-**/.ipynb_checkpoints/
+# IDE
+.idea/
+*.swp
+*.swo
+*~
 
-temp/
-data/velo/
+# VSCode (keep settings.json and extensions.json)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# OS
 .DS_Store
 Thumbs.db
+.matplotlib/
+
+# Hugo (legacy, if any)
 /public/
 /resources/
-
-.matplotlib/
-__pycache__/
-
-# Hugo
-resources/
 jsconfig.json
 
-/.quarto/
+# Temporary files
+temp/
+*.log
+diff
+diagnostic.csv
+
+# Build outputs
+doc.json
+content/**/*.html
+content/**/*.json
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Pre-commit
+.pre-commit-config.yaml.bak
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# Don't ignore specific theme files
+!themes/github.com/
+
+# Build directory (but keep the scripts)
+!build/*.py
+!build/__init__.py
+
 **/*.quarto_ipynb

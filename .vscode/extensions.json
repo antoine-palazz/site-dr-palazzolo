@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.black-formatter",
+    "ms-python.isort",
+    "ms-python.flake8",
+    "quarto.quarto",
+    "redhat.vscode-yaml",
+    "esbenp.prettier-vscode",
+    "davidanson.vscode-markdownlint"
+  ]
+}
+

@@ -1,42 +1,148 @@
-# Contribuer aux supports
+# Contribuer au site
 
-## Fonctionnement du dépôt
+Merci de votre intérêt pour contribuer au site du Dr Jérôme Palazzolo !
 
-Le site web et les notebooks sont construits à partir de `Quarto`.
+## Comment contribuer
 
-En supposant que l'environnement `Python` est fonctionnel (cf. ci-dessous), 
-le site web dans son ensemble peut être construit avec la commande suivante : 
+### Signaler un problème
 
-```shell
-# pour les utilisateurs du sspcloud
-quarto preview --port 5000 --host 0.0.0.0
+Si vous trouvez un bug ou avez une suggestion :
+1. Vérifiez que le problème n'a pas déjà été signalé dans les [Issues](https://github.com/antoine-palazz/site-dr-palazzolo/issues)
+2. Créez une nouvelle issue avec une description détaillée
+3. Incluez des captures d'écran si pertinent
 
-# hors du sspcloud
-quarto preview
-```
+### Proposer des changements
 
-Pour ne faire un _render_ que d'une fiche,
-il est possible de modifier à la main la section `render` du  fichier `_quarto.yml`.
-Supprimer la liste des fichiers sauf les `**/introductions.qmd` et la fiche désirée.
-N'oubliez pas de restaurer la version d'origine du `quarto.yml` avant de faire la _pull request_ !
+1. **Fork** le dépôt
+2. **Clone** votre fork localement
+3. Créez une **branche** pour vos modifications : `git checkout -b feature/ma-contribution`
+4. Faites vos modifications
+5. **Testez** localement (voir ci-dessous)
+6. **Commit** avec des messages clairs
+7. **Push** vers votre fork
+8. Créez une **Pull Request**
 
-## Mise en place de l'environnement pour tester les exemples
+## Configuration de l'environnement
 
-Pour les contributeurs ayant un accès au SSP Cloud, ces commandes suffisent
-pour avoir l'environnement minimal nécessaire pour construire en local le site _web_. 
+### Prérequis
 
-```shell
-# Sur le SSPCloud
+- **Quarto** >= 1.3.450 ([Installation](https://quarto.org/docs/get-started/))
+- **Python** >= 3.10
+- **Git**
+
+### Installation
+
+```bash
+# Cloner le dépôt
+git clone https://github.com/antoine-palazz/site-dr-palazzolo.git
+cd site-dr-palazzolo
+
+# Installer les dépendances Python
 pip install -r requirements.txt
+
+# Installer les extensions Quarto
+chmod +x requirements.sh
 ./requirements.sh
 ```
 
-Pour les contributeurs hors de cet environnement (dommage !), 
-il est nécessaire en premier lieu d'avoir les éléments suivants :
+## Tester localement
 
-- Une version récente de `Quarto`, _a minima_ la `1.3.450`.
-- Un outil de gestion des environnements `Python` (`miniconda` par exemple).
+### Prévisualisation complète
 
-L'installation de l'environnement minimal pour reproduire les exemples peut être
-fait sur la base d'un _trial and error_ en attendant la mise à disposition
-d'un fichier adéquat (`pip freeze` ne fournit pas un fichier satisfaisant).
+```bash
+# Utilisateurs standard
+quarto preview
+
+# Utilisateurs SSP Cloud
+quarto preview --port 5000 --host 0.0.0.0
+```
+
+### Construire le site
+
+```bash
+quarto render
+```
+
+### Tester un fichier spécifique
+
+Pour modifier uniquement certains fichiers pendant le développement :
+- Éditez la section `render` dans `_quarto.yml`
+- Gardez seulement les fichiers que vous testez
+- **Important**: Restaurez `_quarto.yml` avant de faire votre PR !
+
+### Vérifier les liens
+
+```bash
+python build/checkurl.py
+```
+
+## Structure du projet
+
+```
+site-dr-palazzolo/
+├── content/              # Contenu du site
+│   ├── le_docteur/      # Informations sur le docteur
+│   ├── livres/          # Pages des livres
+│   ├── publications_communications/
+│   └── autres_activites/
+├── img/                 # Images
+├── scss/                # Styles SCSS modulaires
+├── _quarto.yml         # Configuration principale
+├── index.qmd           # Page d'accueil
+└── docs/               # Documentation supplémentaire
+```
+
+## Guide de style
+
+### Code
+- **Python**: Suivre PEP 8, utiliser black pour le formatage
+- **YAML**: 2 espaces d'indentation
+- **Markdown**: Utiliser les conventions Quarto
+
+### Commits
+Format recommandé :
+```
+type: Description courte
+
+Description détaillée si nécessaire
+```
+
+Types : `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`
+
+Exemples :
+- `feat: Ajouter page pour nouveau livre`
+- `fix: Corriger lien cassé dans CV`
+- `docs: Mettre à jour guide de contribution`
+
+### Contenu
+- Vérifier l'orthographe et la grammaire
+- Optimiser les images avant de les ajouter
+- Tester sur mobile et desktop
+- Respecter la structure existante
+
+## Ajouter du contenu
+
+Consultez le [Guide de contenu](docs/CONTENT_GUIDE.md) pour :
+- Ajouter un nouveau livre
+- Modifier les informations du docteur
+- Ajouter des publications
+
+## Déploiement
+
+Le site est automatiquement déployé via GitHub Actions lors d'un push sur `main`.
+
+Voir [DEPLOYMENT.md](docs/DEPLOYMENT.md) pour plus de détails.
+
+## Questions et support
+
+- 📖 Consultez d'abord la [documentation](docs/)
+- 💬 Ouvrez une [Discussion](https://github.com/antoine-palazz/site-dr-palazzolo/discussions)
+- 🐛 Signalez les bugs via [Issues](https://github.com/antoine-palazz/site-dr-palazzolo/issues)
+
+## Code de conduite
+
+Soyez respectueux et professionnel dans toutes les interactions.
+
+## Licence
+
+En contribuant, vous acceptez que vos contributions soient sous [Licence MIT](LICENSE).

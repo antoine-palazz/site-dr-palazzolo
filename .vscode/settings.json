@@ -1,0 +1,52 @@
+{
+  "files.associations": {
+    "*.qmd": "markdown"
+  },
+  "files.exclude": {
+    "**/.quarto": true,
+    "**/_site": true,
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/.ipynb_checkpoints": true
+  },
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": [
+    "--line-length=100"
+  ],
+  "editor.formatOnSave": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "explicit"
+    }
+  },
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+  "[yaml]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "editor.autoIndent": "advanced"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "search.exclude": {
+    "**/.quarto": true,
+    "**/_site": true,
+    "**/__pycache__": true
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": ".github/workflows/*.{yml,yaml}",
+    "https://json.schemastore.org/github-issue-forms.json": ".github/ISSUE_TEMPLATE/*.yml"
+  }
+}
+

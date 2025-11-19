@@ -1,0 +1,81 @@
+/*-- Smooth Animations & Transitions --*/
+
+/* Fade in animation for page load */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Slide in from left */
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Pulse animation for attention */
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+/* Apply animations - only if user hasn't requested reduced motion */
+@media (prefers-reduced-motion: no-preference) {
+  .quarto-title-block {
+    animation: fadeIn 0.6s ease-out;
+  }
+
+  .sidebar nav {
+    animation: slideInLeft 0.5s ease-out;
+  }
+
+  /* Smooth page transitions */
+  main {
+    animation: fadeIn 0.4s ease-out;
+  }
+}
+
+/* Loading state shimmer */
+@keyframes shimmer {
+  0% {
+    background-position: -1000px 0;
+  }
+  100% {
+    background-position: 1000px 0;
+  }
+}
+
+.loading {
+  background: linear-gradient(
+    to right,
+    #f6f7f8 0%,
+    #edeef1 20%,
+    #f6f7f8 40%,
+    #f6f7f8 100%
+  );
+  background-size: 1000px 100%;
+  animation: shimmer 2s infinite linear;
+}
+
+/* Smooth anchor scrolling */
+html {
+  scroll-padding-top: 80px;
+}
+
+/* Note: Focus indicators are handled in _ux-enhancements.scss without animation (better for accessibility) */
+

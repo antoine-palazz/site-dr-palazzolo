@@ -1,30 +1,43 @@
-FROM inseefrlab/onyxia-jupyter-python:py3.10.13
+FROM python:3.12-slim
 
-USER root
+# Set working directory
+WORKDIR /app
 
-RUN apt-get -y update && \
-    apt-get -y install wget && \
-    apt-get install -y git && \
-    apt-get install build-essential -y && \
-    rm -rf /var/lib/apt/lists/*
- 
-RUN apt-get -y update && \
-    DEBIAN_FRONTEND=noninteractive apt install -y imagemagick
+# Install system dependencies
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    wget \
+    git \
+    build-essential \
+    imagemagick \
+    && rm -rf /var/lib/apt/lists/*
 
-RUN which python
+# Install Quarto
+RUN wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.550/quarto-1.4.550-linux-amd64.deb && \
+    dpkg -i quarto-1.4.550-linux-amd64.deb && \
+    rm quarto-1.4.550-linux-amd64.deb
 
-COPY requirements.txt .
-COPY requirements.sh .
+# Copy requirements files
+COPY requirements.txt requirements.sh ./
 
-# Install graphviz
-RUN pip install -r requirements.txt && \
-    chmod +x requirements.sh && \
+# Install Python dependencies
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Install Quarto extensions
+RUN chmod +x requirements.sh && \
     ./requirements.sh
 
-RUN pip freeze 
+# Copy project files
+COPY . .
 
-# RUN python -m spacy download en_core_web_sm
-# RUN python -m gensim.downloader --download glove-wiki-gigaword-200
+# Verify installations
+RUN python --version && \
+    quarto --version && \
+    pip list
 
+# Expose port for preview
 EXPOSE 5000
-CMD ["pip", "freeze"]
+
+# Default command
+CMD ["quarto", "preview", "--port", "5000", "--host", "0.0.0.0"]

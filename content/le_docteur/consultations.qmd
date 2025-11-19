@@ -32,6 +32,10 @@ et avec les Caisses Sociales de Monaco.
 ```{python}
 #| echo: false
 #| output: true
+#| warning: false
+
+import warnings
+warnings.filterwarnings('ignore', message='urllib3 v2 only supports OpenSSL')
 
 import geopandas as gpd
 from pathlib import Path

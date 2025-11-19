@@ -1,0 +1,28 @@
+/*-- Accessibility Improvements --*/
+
+/* Focus indicators for keyboard navigation */
+a:focus, 
+button:focus,
+.btn:focus {
+  outline: 2px solid $primary-blue;
+  outline-offset: 2px;
+}
+
+/* Skip to main content link (hidden by default) */
+.skip-to-main {
+  position: absolute;
+  left: -9999px;
+  z-index: 999;
+}
+
+.skip-to-main:focus {
+  left: 50%;
+  top: 10px;
+  transform: translateX(-50%);
+  background: $primary-blue;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 4px;
+}
+

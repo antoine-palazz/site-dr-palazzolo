@@ -1,0 +1,19 @@
+/*-- Button Styles --*/
+
+.btn {
+  margin-right: 10px;
+  border-radius: $border-radius-button $border-radius-button !important;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+.btn.btn-primary.btn-lg.active {
+  background-color: #ee6b78 !important;
+  border-color: #dc3545 !important;
+  box-shadow: 0 0 0 .2rem #dc3545 !important;
+}
+
+.btn-primary {
+  background-color: $primary-blue !important;
+}
+

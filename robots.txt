@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and build directories
+Disallow: /_site/
+Disallow: /.quarto/
+Disallow: /build/
+Disallow: /dev-scripts/
+
+# Sitemap
+Sitemap: https://www.docteurjeromepalazzolo.fr/sitemap.xml
+

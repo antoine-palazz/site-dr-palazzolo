@@ -1,0 +1,66 @@
+/*-- UX Enhancements --*/
+/* Only essential, non-intrusive improvements that follow best practices */
+
+/* Better focus indicators for accessibility (WCAG 2.1) */
+:focus-visible {
+  outline: 2px solid #0056b3;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Remove default focus outline when not using keyboard */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Improve text selection */
+::selection {
+  background-color: rgba(0, 86, 179, 0.3);
+  color: inherit;
+}
+
+::-moz-selection {
+  background-color: rgba(0, 86, 179, 0.3);
+  color: inherit;
+}
+
+/* Scroll margin for anchor links to prevent hiding behind navbar */
+:target {
+  scroll-margin-top: 80px;
+}
+
+/* Reduce motion for users who prefer it (accessibility) */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Print styles - hide non-essential elements */
+@media print {
+  .navbar,
+  .sidebar,
+  #quarto-back-to-top,
+  .quarto-navbar-tools {
+    display: none !important;
+  }
+  
+  body {
+    background: white;
+    color: black;
+  }
+  
+  /* Prevent page breaks inside important elements */
+  .card,
+  pre,
+  blockquote,
+  img {
+    page-break-inside: avoid;
+  }
+}
+

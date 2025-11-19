@@ -1,4 +1,44 @@
-*.html linguist-documentation
-*.css linguist-documentation
-*.js linguist-documentation
-*.scss linguist-documentation
+# Git attributes for proper handling of different file types
+
+# Auto detect text files and normalize line endings to LF
+* text=auto eol=lf
+
+# Source code
+*.py text eol=lf
+*.js text eol=lf
+*.qmd text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.css text eol=lf
+*.scss text eol=lf
+*.html text eol=lf
+*.lua text eol=lf
+*.sh text eol=lf
+
+# Shell scripts should be executable
+*.sh eol=lf
+
+# Documents
+*.txt text eol=lf
+*.bib text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.ttf binary
+*.woff binary
+*.woff2 binary
+*.pdf binary
+
+# Exclude from exports/archives
+.gitattributes export-ignore
+.gitignore export-ignore
+.github export-ignore
+.vscode export-ignore
+.editorconfig export-ignore

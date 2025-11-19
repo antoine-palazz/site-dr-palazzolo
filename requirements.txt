@@ -1,7 +1,21 @@
-black
-folium
-geopandas
-jupyter
-pandas
-quarto
-urlchecker
+# Code formatting
+black>=23.0.0,<25.0.0
+
+# Geospatial and mapping
+folium>=0.15.0,<1.0.0
+geopandas>=0.14.0,<1.0.0
+
+# Jupyter notebook support
+jupyter>=1.0.0,<2.0.0
+
+# Data manipulation
+pandas>=2.0.0,<3.0.0
+
+# URL checking utility
+urlchecker>=0.0.30,<1.0.0
+
+# Network compatibility - pin to v1 for LibreSSL compatibility
+urllib3>=1.26.0,<2.0.0
+
+# Quarto (CLI tool, managed separately)
+# Install via: https://quarto.org/docs/get-started/

@@ -1,0 +1,45 @@
+/*-- Mobile Responsiveness --*/
+
+/* Tablet and below */
+@media (max-width: 992px) {
+  #hero-banner {
+    padding-top: 25px;
+  }
+  
+  .headline {
+    font-size: 1.15em;
+  }
+}
+
+/* Mobile devices */
+@media (max-width: 768px) {
+  #hero-banner {
+    padding-top: 20px;
+  }
+  
+  .headline {
+    font-size: 1.1em;
+    padding-bottom: 0.8em;
+  }
+  
+  .headline p {
+    padding-bottom: 0.15rem;
+  }
+  
+  .btn {
+    margin-bottom: 10px;
+    margin-right: 5px;
+  }
+}
+
+/* Small mobile devices */
+@media (max-width: 576px) {
+  .headline {
+    font-size: 1em;
+  }
+  
+  .dataframe table {
+    font-size: 10px;
+  }
+}
+

@@ -1,0 +1,19 @@
+/*-- Performance Optimizations --*/
+
+/* Enable GPU acceleration for transforms - only during transitions */
+.card,
+.card-img-top,
+.grid-item-link,
+.btn {
+  backface-visibility: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Note: will-change is NOT used here as it should only be applied 
+   right before a change, not permanently. Overuse causes memory issues. */
+
+/* Lazy loading hint for images */
+img {
+  content-visibility: auto;
+}
+

@@ -1,0 +1,13 @@
+/*-- Hero Banner Styles --*/
+
+#hero-banner .h1, #hero-banner .h2 {
+  color: white !important;
+}
+
+.featured-image {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  box-shadow: inset 0 0 0 1000px rgba(0,38,66,0.75);
+}
+

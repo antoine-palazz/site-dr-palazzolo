@@ -12,8 +12,6 @@ listing:
     sort-ui: [title, date]
     filter-ui: [title, date]
     categories: true
-    #fields: [image, title, github, gitlab]
-    #template: cards.ejs
 ---
 
 Vous retrouverez ici l'ensemble des livres rédigés par le Dr Palazzolo
