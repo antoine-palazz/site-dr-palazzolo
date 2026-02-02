@@ -32,6 +32,7 @@ project:
     - content/livres/gestion_stress_aquaphobie_tcc.qmd
     - content/livres/guerir_vite.qmd
     - content/livres/guide_de_poche_des_tcc.qmd
+    - content/livres/guide_de_poche_des_tcc_france_loisirs.qmd
     - content/livres/guide_urgence_psychiatrique.qmd
     - content/livres/homosexualite_en_afrique.qmd
     - content/livres/information_du_patient.qmd
@@ -201,6 +202,7 @@ website:
         - content/livres/gestion_stress_aquaphobie_tcc.qmd
         - content/livres/guerir_vite.qmd
         - content/livres/guide_de_poche_des_tcc.qmd
+        - content/livres/guide_de_poche_des_tcc_france_loisirs.qmd
         - content/livres/guide_urgence_psychiatrique.qmd
         - content/livres/homosexualite_en_afrique.qmd
         - content/livres/information_du_patient.qmd
