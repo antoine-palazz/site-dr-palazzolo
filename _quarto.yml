@@ -13,6 +13,7 @@ project:
     - content/livres/3_approches_du_soin_psychique.qmd
     - content/livres/apprendre_a_gerer_son_stress.qmd
     - content/livres/au_dela_des_mots.qmd
+    - content/livres/blessures_psychotraumatiques.qmd
     - content/livres/cannabis_du_plaisir_au_risque.qmd
     - content/livres/cas_cliniques_en_tcc_1.qmd
     - content/livres/cas_cliniques_en_tcc_2.qmd
@@ -60,6 +61,7 @@ project:
     - content/livres/observance_medicamenteuse.qmd
     - content/livres/petit_precis_psychologie_positive.qmd
     - content/livres/petite_histoire_masturbation.qmd
+    - content/livres/preparation_mentale_sportif.qmd
     - content/livres/psychotherapies_du_sujet_age.qmd
     - content/livres/reflexions_vieillissement.qmd
     - content/livres/risques_et_plongee.qmd
@@ -84,6 +86,7 @@ project:
     - content/livres/sleep_better.qmd
     - content/livres/strategies_fast_recovery.qmd
     - content/livres/words_of_pain.qmd
+    - content/livres/حالات عيادية في العلاج.qmd
     - content/livres/لا للقلق.qmd
 
     # - content/publications_communications/index.qmd
@@ -183,6 +186,7 @@ website:
         - content/livres/3_approches_du_soin_psychique.qmd
         - content/livres/apprendre_a_gerer_son_stress.qmd
         - content/livres/au_dela_des_mots.qmd
+        - content/livres/blessures_psychotraumatiques.qmd
         - content/livres/cannabis_du_plaisir_au_risque.qmd
         - content/livres/cas_cliniques_en_tcc_1.qmd
         - content/livres/cas_cliniques_en_tcc_2.qmd
@@ -230,6 +234,7 @@ website:
         - content/livres/observance_medicamenteuse.qmd
         - content/livres/petit_precis_psychologie_positive.qmd
         - content/livres/petite_histoire_masturbation.qmd
+        - content/livres/preparation_mentale_sportif.qmd
         - content/livres/psychotherapies_du_sujet_age.qmd
         - content/livres/reflexions_vieillissement.qmd
         - content/livres/risques_et_plongee.qmd
@@ -254,6 +259,7 @@ website:
         - content/livres/strategies_fast_recovery.qmd
         - content/livres/words_of_pain.qmd
         - content/livres/لا للقلق.qmd
+        - content/livres/حالات عيادية في العلاج.qmd
 
     - id: publications_communications
       title: "Travaux"
