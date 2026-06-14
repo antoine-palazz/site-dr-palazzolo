@@ -42,6 +42,7 @@ project:
     - content/livres/isolement_contention_contrainte.qmd
     - content/livres/je_me_libere_de_mes_phobies.qmd
     - content/livres/je_triomphe_de_l_insomnie.qmd
+    - content/livres/l_anxiete.qmd
     - content/livres/la_psychologie_positive_1.qmd
     - content/livres/la_psychologie_positive_2.qmd
     - content/livres/la_sante_mentale_pour_les_nuls.qmd
@@ -215,6 +216,7 @@ website:
         - content/livres/isolement_contention_contrainte.qmd
         - content/livres/je_me_libere_de_mes_phobies.qmd
         - content/livres/je_triomphe_de_l_insomnie.qmd
+        - content/livres/l_anxiete.qmd
         - content/livres/la_psychologie_positive_1.qmd
         - content/livres/la_psychologie_positive_2.qmd
         - content/livres/la_sante_mentale_pour_les_nuls.qmd
